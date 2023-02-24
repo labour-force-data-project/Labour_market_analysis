@@ -1,0 +1,82 @@
+semester,federal_state,study_code,study_subject,Germans,Germans.1,Germans.2,Foreigners,Foreigners.1,Foreigners.2,total_males,total_females,total_all
+WT 2018/19,Baden-Württemberg,SF316,Electrical Power Engineering,25,5,30,4,1,5,29,6,35
+WT 2018/19,Baden-Württemberg,SF048,Electrical Engineering/Electronics,1125,141,1266,307,86,393,1432,227,1659
+WT 2018/19,Bayern,SF048,Electrical Engineering/Electronics,1339,197,1536,613,156,769,1952,353,2305
+WT 2018/19,Berlin,SF048,Electrical Engineering/Electronics,307,48,355,207,44,251,514,92,606
+WT 2018/19,Bremen,SF316,Electrical Power Engineering,23,3,26,6,1,7,29,4,33
+WT 2018/19,Bremen,SF048,Electrical Engineering/Electronics,74,10,84,69,37,106,143,47,190
+WT 2018/19,Hamburg,SF048,Electrical Engineering/Electronics,131,18,149,20,2,22,151,20,171
+WT 2018/19,Hessen,SF316,Electrical Power Engineering,7,3,10,1,1,2,8,4,12
+WT 2018/19,Hessen,SF048,Electrical Engineering/Electronics,501,61,562,392,112,504,893,173,1066
+WT 2018/19,Mecklenburg-Vorpommern,SF048,Electrical Engineering/Electronics,49,6,55,73,6,79,122,12,134
+WT 2018/19,Niedersachsen,SF316,Electrical Power Engineering,13,1,14,5,3,8,18,4,22
+WT 2018/19,Niedersachsen,SF048,Electrical Engineering/Electronics,487,61,548,193,48,241,680,109,789
+WT 2018/19,Nordrhein-Westfalen,SF048,Electrical Engineering/Electronics,1535,204,1739,973,234,1207,2508,438,2946
+WT 2018/19,Rheinland-Pfalz,SF048,Electrical Engineering/Electronics,114,10,124,81,25,106,195,35,230
+WT 2018/19,Saarland,SF048,Electrical Engineering/Electronics,43,6,49,11,3,14,54,9,63
+WT 2018/19,Sachsen,SF316,Electrical Power Engineering,24,8,32,12,3,15,36,11,47
+WT 2018/19,Sachsen,SF048,Electrical Engineering/Electronics,329,46,375,160,55,215,489,101,590
+WT 2018/19,Sachsen-Anhalt,SF048,Electrical Engineering/Electronics,97,34,131,116,26,142,213,60,273
+WT 2018/19,Schleswig-Holstein,SF048,Electrical Engineering/Electronics,113,15,128,23,6,29,136,21,157
+WT 2018/19,Thüringen,SF048,Electrical Engineering/Electronics,87,5,92,60,29,89,147,34,181
+WT 2019/20,Baden-Württemberg,SF316,Electrical Power Engineering,24,2,26,4,1,5,28,3,31
+WT 2019/20,Baden-Württemberg,SF048,Electrical Engineering/Electronics,1067,141,1208,288,94,382,1355,235,1590
+WT 2019/20,Bayern,SF048,Electrical Engineering/Electronics,1259,171,1430,550,182,732,1809,353,2162
+WT 2019/20,Berlin,SF048,Electrical Engineering/Electronics,260,43,303,154,42,196,414,85,499
+WT 2019/20,Brandenburg,SF048,Electrical Engineering/Electronics,23,1,24,47,11,58,70,12,82
+WT 2019/20,Bremen,SF316,Electrical Power Engineering,24,2,26,1,1,2,25,3,28
+WT 2019/20,Bremen,SF048,Electrical Engineering/Electronics,62,9,71,82,37,119,144,46,190
+WT 2019/20,Hamburg,SF048,Electrical Engineering/Electronics,124,9,133,59,12,71,183,21,204
+WT 2019/20,Hessen,SF048,Electrical Engineering/Electronics,479,52,531,335,123,458,814,175,989
+WT 2019/20,Mecklenburg-Vorpommern,SF048,Electrical Engineering/Electronics,52,3,55,93,13,106,145,16,161
+WT 2019/20,Niedersachsen,SF316,Electrical Power Engineering,12,1,13,16,4,20,28,5,33
+WT 2019/20,Niedersachsen,SF048,Electrical Engineering/Electronics,477,55,532,190,66,256,667,121,788
+WT 2019/20,Nordrhein-Westfalen,SF316,Electrical Power Engineering,47,10,57,4,1,5,51,11,62
+WT 2019/20,Nordrhein-Westfalen,SF048,Electrical Engineering/Electronics,1402,191,1593,879,230,1109,2281,421,2702
+WT 2019/20,Rheinland-Pfalz,SF048,Electrical Engineering/Electronics,107,5,112,119,35,154,226,40,266
+WT 2019/20,Saarland,SF048,Electrical Engineering/Electronics,25,4,29,13,3,16,38,7,45
+WT 2019/20,Sachsen,SF316,Electrical Power Engineering,25,8,33,3,3,6,28,11,39
+WT 2019/20,Sachsen,SF048,Electrical Engineering/Electronics,298,51,349,200,45,245,498,96,594
+WT 2019/20,Sachsen-Anhalt,SF048,Electrical Engineering/Electronics,80,25,105,75,22,97,155,47,202
+WT 2019/20,Schleswig-Holstein,SF048,Electrical Engineering/Electronics,126,20,146,19,4,23,145,24,169
+WT 2019/20,Thüringen,SF048,Electrical Engineering/Electronics,115,12,127,75,24,99,190,36,226
+WT 2020/21,Baden-Württemberg,SF316,Electrical Power Engineering,11,1,12,4,1,5,15,2,17
+WT 2020/21,Baden-Württemberg,SF048,Electrical Engineering/Electronics,957,116,1073,235,66,301,1192,182,1374
+WT 2020/21,Bayern,SF316,Electrical Power Engineering,8,9,17,58,19,77,66,28,94
+WT 2020/21,Bayern,SF048,Electrical Engineering/Electronics,1142,142,1284,477,126,603,1619,268,1887
+WT 2020/21,Berlin,SF048,Electrical Engineering/Electronics,228,32,260,95,32,127,323,64,387
+WT 2020/21,Brandenburg,SF048,Electrical Engineering/Electronics,20,1,21,41,5,46,61,6,67
+WT 2020/21,Bremen,SF316,Electrical Power Engineering,31,3,34,4,2,6,35,5,40
+WT 2020/21,Bremen,SF048,Electrical Engineering/Electronics,54,2,56,67,14,81,121,16,137
+WT 2020/21,Hamburg,SF048,Electrical Engineering/Electronics,132,8,140,49,12,61,181,20,201
+WT 2020/21,Hessen,SF048,Electrical Engineering/Electronics,422,35,457,275,86,361,697,121,818
+WT 2020/21,Mecklenburg-Vorpommern,SF048,Electrical Engineering/Electronics,61,3,64,80,13,93,141,16,157
+WT 2020/21,Niedersachsen,SF316,Electrical Power Engineering,6,1,7,6,1,7,12,2,14
+WT 2020/21,Niedersachsen,SF048,Electrical Engineering/Electronics,335,48,383,158,62,220,493,110,603
+WT 2020/21,Nordrhein-Westfalen,SF316,Electrical Power Engineering,51,16,67,5,3,8,56,19,75
+WT 2020/21,Nordrhein-Westfalen,SF048,Electrical Engineering/Electronics,1292,140,1432,849,207,1056,2141,347,2488
+WT 2020/21,Rheinland-Pfalz,SF048,Electrical Engineering/Electronics,116,11,127,84,29,113,200,40,240
+WT 2020/21,Saarland,SF048,Electrical Engineering/Electronics,24,2,26,5,1,6,29,3,32
+WT 2020/21,Sachsen,SF048,Electrical Engineering/Electronics,306,34,340,138,52,190,444,86,530
+WT 2020/21,Sachsen-Anhalt,SF048,Electrical Engineering/Electronics,89,17,106,64,22,86,153,39,192
+WT 2020/21,Schleswig-Holstein,SF048,Electrical Engineering/Electronics,112,13,125,21,3,24,133,16,149
+WT 2020/21,Thüringen,SF048,Electrical Engineering/Electronics,101,4,105,51,13,64,152,17,169
+WT 2021/22,Baden-Württemberg,SF316,Electrical Power Engineering,44,6,50,7,1,8,51,7,58
+WT 2021/22,Baden-Württemberg,SF048,Electrical Engineering/Electronics,870,88,958,232,79,311,1102,167,1269
+WT 2021/22,Bayern,SF316,Electrical Power Engineering,13,3,16,65,12,77,78,15,93
+WT 2021/22,Bayern,SF048,Electrical Engineering/Electronics,1022,139,1161,530,144,674,1552,283,1835
+WT 2021/22,Berlin,SF048,Electrical Engineering/Electronics,180,37,217,114,41,155,294,78,372
+WT 2021/22,Bremen,SF316,Electrical Power Engineering,25,5,30,2,1,3,27,6,33
+WT 2021/22,Bremen,SF048,Electrical Engineering/Electronics,55,1,56,80,21,101,135,22,157
+WT 2021/22,Hamburg,SF048,Electrical Engineering/Electronics,114,14,128,49,12,61,163,26,189
+WT 2021/22,Hessen,SF048,Electrical Engineering/Electronics,362,40,402,248,96,344,610,136,746
+WT 2021/22,Mecklenburg-Vorpommern,SF048,Electrical Engineering/Electronics,29,8,37,56,19,75,85,27,112
+WT 2021/22,Niedersachsen,SF048,Electrical Engineering/Electronics,395,42,437,113,21,134,508,63,571
+WT 2021/22,Nordrhein-Westfalen,SF316,Electrical Power Engineering,32,6,38,6,4,10,38,10,48
+WT 2021/22,Nordrhein-Westfalen,SF048,Electrical Engineering/Electronics,997,111,1108,776,195,971,1773,306,2079
+WT 2021/22,Rheinland-Pfalz,SF048,Electrical Engineering/Electronics,86,7,93,51,13,64,137,20,157
+WT 2021/22,Saarland,SF048,Electrical Engineering/Electronics,33,4,37,10,2,12,43,6,49
+WT 2021/22,Sachsen,SF048,Electrical Engineering/Electronics,260,23,283,184,53,237,444,76,520
+WT 2021/22,Sachsen-Anhalt,SF048,Electrical Engineering/Electronics,83,27,110,95,37,132,178,64,242
+WT 2021/22,Schleswig-Holstein,SF048,Electrical Engineering/Electronics,122,12,134,21,4,25,143,16,159
+WT 2021/22,Thüringen,SF048,Electrical Engineering/Electronics,126,6,132,45,10,55,171,16,187

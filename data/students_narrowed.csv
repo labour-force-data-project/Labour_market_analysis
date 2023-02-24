@@ -1,0 +1,208 @@
+semester,federal_state,study_code,study_subject,Germans,Germans.1,Germans.2,Foreigners,Foreigners.1,Foreigners.2,total_males,total_females,total_all
+WT 2018/19,Baden-Württemberg,SF079,Computer Science,2048,267,2315,393,139,532,2441,406,2847
+WT 2018/19,Bayern,SF079,Computer Science,1730,315,2045,745,261,1006,2475,576,3051
+WT 2018/19,Berlin,SF079,Computer Science,459,88,547,218,86,304,677,174,851
+WT 2018/19,Brandenburg,SF079,Computer Science,233,40,273,77,29,106,310,69,379
+WT 2018/19,Bremen,SF079,Computer Science,157,43,200,62,29,91,219,72,291
+WT 2018/19,Hamburg,SF079,Computer Science,152,25,177,33,19,52,185,44,229
+WT 2018/19,Hessen,SF079,Computer Science,1265,228,1493,366,129,495,1631,357,1988
+WT 2018/19,Mecklenburg-Vorpommern,SF079,Computer Science,99,13,112,70,11,81,169,24,193
+WT 2018/19,Niedersachsen,SF079,Computer Science,810,104,914,200,56,256,1010,160,1170
+WT 2018/19,Nordrhein-Westfalen,SF079,Computer Science,2474,471,2945,817,291,1108,3291,762,4053
+WT 2018/19,Rheinland-Pfalz,SF079,Computer Science,418,70,488,179,76,255,597,146,743
+WT 2018/19,Saarland,SF079,Computer Science,204,31,235,97,37,134,301,68,369
+WT 2018/19,Sachsen,SF079,Computer Science,486,151,637,239,79,318,725,230,955
+WT 2018/19,Sachsen-Anhalt,SF079,Computer Science,179,15,194,84,30,114,263,45,308
+WT 2018/19,Schleswig-Holstein,SF079,Computer Science,254,45,299,103,19,122,357,64,421
+WT 2018/19,Thüringen,SF079,Computer Science,163,47,210,68,16,84,231,63,294
+WT 2019/20,Baden-Württemberg,SF079,Computer Science,2020,281,2301,370,138,508,2390,419,2809
+WT 2019/20,Bayern,SF079,Computer Science,1662,357,2019,782,252,1034,2444,609,3053
+WT 2019/20,Berlin,SF079,Computer Science,439,101,540,212,72,284,651,173,824
+WT 2019/20,Brandenburg,SF079,Computer Science,213,63,276,61,40,101,274,103,377
+WT 2019/20,Bremen,SF079,Computer Science,159,20,179,101,31,132,260,51,311
+WT 2019/20,Hamburg,SF079,Computer Science,177,31,208,44,15,59,221,46,267
+WT 2019/20,Hessen,SF079,Computer Science,1308,243,1551,413,139,552,1721,382,2103
+WT 2019/20,Mecklenburg-Vorpommern,SF079,Computer Science,94,14,108,87,14,101,181,28,209
+WT 2019/20,Niedersachsen,SF079,Computer Science,753,113,866,209,69,278,962,182,1144
+WT 2019/20,Nordrhein-Westfalen,SF079,Computer Science,2543,500,3043,809,287,1096,3352,787,4139
+WT 2019/20,Rheinland-Pfalz,SF079,Computer Science,397,85,482,224,69,293,621,154,775
+WT 2019/20,Saarland,SF079,Computer Science,202,36,238,106,46,152,308,82,390
+WT 2019/20,Sachsen,SF079,Computer Science,514,152,666,266,92,358,780,244,1024
+WT 2019/20,Sachsen-Anhalt,SF079,Computer Science,144,30,174,87,51,138,231,81,312
+WT 2019/20,Schleswig-Holstein,SF079,Computer Science,299,53,352,91,13,104,390,66,456
+WT 2019/20,Thüringen,SF079,Computer Science,225,46,271,88,34,122,313,80,393
+WT 2020/21,Baden-Württemberg,SF079,Computer Science,2017,299,2316,249,94,343,2266,393,2659
+WT 2020/21,Bayern,SF079,Computer Science,1860,354,2214,813,283,1096,2673,637,3310
+WT 2020/21,Berlin,SF079,Computer Science,457,79,536,199,63,262,656,142,798
+WT 2020/21,Brandenburg,SF079,Computer Science,261,36,297,74,26,100,335,62,397
+WT 2020/21,Bremen,SF079,Computer Science,134,28,162,92,32,124,226,60,286
+WT 2020/21,Hamburg,SF079,Computer Science,146,37,183,27,15,42,173,52,225
+WT 2020/21,Hessen,SF079,Computer Science,1278,238,1516,431,151,582,1709,389,2098
+WT 2020/21,Mecklenburg-Vorpommern,SF079,Computer Science,76,11,87,42,13,55,118,24,142
+WT 2020/21,Niedersachsen,SF079,Computer Science,521,107,628,274,115,389,795,222,1017
+WT 2020/21,Nordrhein-Westfalen,SF079,Computer Science,2644,460,3104,712,282,994,3356,742,4098
+WT 2020/21,Rheinland-Pfalz,SF079,Computer Science,402,71,473,224,94,318,626,165,791
+WT 2020/21,Saarland,SF079,Computer Science,184,28,212,94,40,134,278,68,346
+WT 2020/21,Sachsen,SF079,Computer Science,479,175,654,220,85,305,699,260,959
+WT 2020/21,Sachsen-Anhalt,SF079,Computer Science,147,20,167,53,23,76,200,43,243
+WT 2020/21,Schleswig-Holstein,SF079,Computer Science,272,40,312,29,8,37,301,48,349
+WT 2020/21,Thüringen,SF079,Computer Science,272,74,346,158,50,208,430,124,554
+WT 2021/22,Baden-Württemberg,SF079,Computer Science,1886,287,2173,341,150,491,2227,437,2664
+WT 2021/22,Bayern,SF079,Computer Science,1873,356,2229,1220,457,1677,3093,813,3906
+WT 2021/22,Berlin,SF079,Computer Science,481,81,562,196,75,271,677,156,833
+WT 2021/22,Brandenburg,SF079,Computer Science,194,35,229,158,51,209,352,86,438
+WT 2021/22,Bremen,SF079,Computer Science,118,40,158,77,25,102,195,65,260
+WT 2021/22,Hamburg,SF079,Computer Science,158,46,204,49,28,77,207,74,281
+WT 2021/22,Hessen,SF079,Computer Science,1199,215,1414,430,127,557,1629,342,1971
+WT 2021/22,Mecklenburg-Vorpommern,SF079,Computer Science,93,8,101,24,9,33,117,17,134
+WT 2021/22,Niedersachsen,SF079,Computer Science,676,112,788,192,61,253,868,173,1041
+WT 2021/22,Nordrhein-Westfalen,SF079,Computer Science,2597,463,3060,695,290,985,3292,753,4045
+WT 2021/22,Rheinland-Pfalz,SF079,Computer Science,358,68,426,223,106,329,581,174,755
+WT 2021/22,Saarland,SF079,Computer Science,177,20,197,124,41,165,301,61,362
+WT 2021/22,Sachsen,SF079,Computer Science,479,111,590,250,128,378,729,239,968
+WT 2021/22,Sachsen-Anhalt,SF079,Computer Science,124,19,143,58,25,83,182,44,226
+WT 2021/22,Schleswig-Holstein,SF079,Computer Science,260,28,288,16,8,24,276,36,312
+WT 2021/22,Thüringen,SF079,Computer Science,410,77,487,207,104,311,617,181,798
+WT 2018/19,Baden-Württemberg,SF017,Civil Engineering/Structural Engineering,562,272,834,109,58,167,671,330,1001
+WT 2018/19,Bayern,SF017,Civil Engineering/Structural Engineering,758,292,1050,202,88,290,960,380,1340
+WT 2018/19,Berlin,SF017,Civil Engineering/Structural Engineering,191,95,286,85,47,132,276,142,418
+WT 2018/19,Brandenburg,SF017,Civil Engineering/Structural Engineering,108,29,137,30,10,40,138,39,177
+WT 2018/19,Bremen,SF017,Civil Engineering/Structural Engineering,58,23,81,12,1,13,70,24,94
+WT 2018/19,Hamburg,SF017,Civil Engineering/Structural Engineering,179,68,247,51,11,62,230,79,309
+WT 2018/19,Hessen,SF017,Civil Engineering/Structural Engineering,561,286,847,179,85,264,740,371,1111
+WT 2018/19,Mecklenburg-Vorpommern,SF017,Civil Engineering/Structural Engineering,48,20,68,2,4,6,50,24,74
+WT 2018/19,Niedersachsen,SF017,Civil Engineering/Structural Engineering,450,191,641,106,29,135,556,220,776
+WT 2018/19,Nordrhein-Westfalen,SF017,Civil Engineering/Structural Engineering,1261,485,1746,460,180,640,1721,665,2386
+WT 2018/19,Rheinland-Pfalz,SF017,Civil Engineering/Structural Engineering,191,75,266,75,27,102,266,102,368
+WT 2018/19,Saarland,SF017,Civil Engineering/Structural Engineering,37,16,53,20,6,26,57,22,79
+WT 2018/19,Sachsen,SF017,Civil Engineering/Structural Engineering,293,101,394,177,49,226,470,150,620
+WT 2018/19,Sachsen-Anhalt,SF017,Civil Engineering/Structural Engineering,85,20,105,8,1,9,93,21,114
+WT 2018/19,Schleswig-Holstein,SF017,Civil Engineering/Structural Engineering,59,33,92,6,2,8,65,35,100
+WT 2018/19,Thüringen,SF017,Civil Engineering/Structural Engineering,105,45,150,99,34,133,204,79,283
+WT 2019/20,Baden-Württemberg,SF017,Civil Engineering/Structural Engineering,565,227,792,105,53,158,670,280,950
+WT 2019/20,Bayern,SF017,Civil Engineering/Structural Engineering,745,280,1025,288,99,387,1033,379,1412
+WT 2019/20,Berlin,SF017,Civil Engineering/Structural Engineering,223,84,307,104,45,149,327,129,456
+WT 2019/20,Brandenburg,SF017,Civil Engineering/Structural Engineering,84,32,116,14,4,18,98,36,134
+WT 2019/20,Bremen,SF017,Civil Engineering/Structural Engineering,58,15,73,11,6,17,69,21,90
+WT 2019/20,Hamburg,SF017,Civil Engineering/Structural Engineering,182,64,246,46,12,58,228,76,304
+WT 2019/20,Hessen,SF017,Civil Engineering/Structural Engineering,569,280,849,150,67,217,719,347,1066
+WT 2019/20,Mecklenburg-Vorpommern,SF017,Civil Engineering/Structural Engineering,53,13,66,7,3,10,60,16,76
+WT 2019/20,Niedersachsen,SF017,Civil Engineering/Structural Engineering,419,199,618,105,32,137,524,231,755
+WT 2019/20,Nordrhein-Westfalen,SF017,Civil Engineering/Structural Engineering,1126,457,1583,363,144,507,1489,601,2090
+WT 2019/20,Rheinland-Pfalz,SF017,Civil Engineering/Structural Engineering,178,83,261,98,30,128,276,113,389
+WT 2019/20,Saarland,SF017,Civil Engineering/Structural Engineering,42,13,55,9,6,15,51,19,70
+WT 2019/20,Sachsen,SF017,Civil Engineering/Structural Engineering,261,112,373,128,38,166,389,150,539
+WT 2019/20,Sachsen-Anhalt,SF017,Civil Engineering/Structural Engineering,62,17,79,7,1,8,69,18,87
+WT 2019/20,Schleswig-Holstein,SF017,Civil Engineering/Structural Engineering,74,38,112,9,1,10,83,39,122
+WT 2019/20,Thüringen,SF017,Civil Engineering/Structural Engineering,115,57,172,111,36,147,226,93,319
+WT 2020/21,Baden-Württemberg,SF017,Civil Engineering/Structural Engineering,593,268,861,77,38,115,670,306,976
+WT 2020/21,Bayern,SF017,Civil Engineering/Structural Engineering,922,334,1256,203,70,273,1125,404,1529
+WT 2020/21,Berlin,SF017,Civil Engineering/Structural Engineering,201,89,290,76,36,112,277,125,402
+WT 2020/21,Brandenburg,SF017,Civil Engineering/Structural Engineering,80,32,112,7,9,16,87,41,128
+WT 2020/21,Bremen,SF017,Civil Engineering/Structural Engineering,49,21,70,8,3,11,57,24,81
+WT 2020/21,Hamburg,SF017,Civil Engineering/Structural Engineering,196,82,278,46,18,64,242,100,342
+WT 2020/21,Hessen,SF017,Civil Engineering/Structural Engineering,606,250,856,141,70,211,747,320,1067
+WT 2020/21,Mecklenburg-Vorpommern,SF017,Civil Engineering/Structural Engineering,62,13,75,4,1,5,66,14,80
+WT 2020/21,Niedersachsen,SF017,Civil Engineering/Structural Engineering,380,153,533,89,30,119,469,183,652
+WT 2020/21,Nordrhein-Westfalen,SF017,Civil Engineering/Structural Engineering,1388,607,1995,386,129,515,1774,736,2510
+WT 2020/21,Rheinland-Pfalz,SF017,Civil Engineering/Structural Engineering,201,79,280,76,23,99,277,102,379
+WT 2020/21,Saarland,SF017,Civil Engineering/Structural Engineering,42,10,52,19,12,31,61,22,83
+WT 2020/21,Sachsen,SF017,Civil Engineering/Structural Engineering,309,108,417,146,43,189,455,151,606
+WT 2020/21,Schleswig-Holstein,SF017,Civil Engineering/Structural Engineering,71,25,96,13,6,19,84,31,115
+WT 2020/21,Thüringen,SF017,Civil Engineering/Structural Engineering,194,91,285,80,21,101,274,112,386
+WT 2021/22,Baden-Württemberg,SF017,Civil Engineering/Structural Engineering,527,212,739,90,32,122,617,244,861
+WT 2021/22,Bayern,SF017,Civil Engineering/Structural Engineering,843,289,1132,210,72,282,1053,361,1414
+WT 2021/22,Berlin,SF017,Civil Engineering/Structural Engineering,213,99,312,136,50,186,349,149,498
+WT 2021/22,Brandenburg,SF017,Civil Engineering/Structural Engineering,84,29,113,7,2,9,91,31,122
+WT 2021/22,Bremen,SF017,Civil Engineering/Structural Engineering,50,18,68,15,3,18,65,21,86
+WT 2021/22,Hamburg,SF017,Civil Engineering/Structural Engineering,165,72,237,23,17,40,188,89,277
+WT 2021/22,Hessen,SF017,Civil Engineering/Structural Engineering,491,208,699,135,65,200,626,273,899
+WT 2021/22,Mecklenburg-Vorpommern,SF017,Civil Engineering/Structural Engineering,89,32,121,6,3,9,95,35,130
+WT 2021/22,Niedersachsen,SF017,Civil Engineering/Structural Engineering,408,166,574,76,27,103,484,193,677
+WT 2021/22,Nordrhein-Westfalen,SF017,Civil Engineering/Structural Engineering,1369,489,1858,327,144,471,1696,633,2329
+WT 2021/22,Rheinland-Pfalz,SF017,Civil Engineering/Structural Engineering,178,52,230,70,19,89,248,71,319
+WT 2021/22,Saarland,SF017,Civil Engineering/Structural Engineering,39,8,47,18,6,24,57,14,71
+WT 2021/22,Sachsen,SF017,Civil Engineering/Structural Engineering,280,108,388,106,45,151,386,153,539
+WT 2021/22,Schleswig-Holstein,SF017,Civil Engineering/Structural Engineering,61,32,93,9,5,14,70,37,107
+WT 2021/22,Thüringen,SF017,Civil Engineering/Structural Engineering,236,162,398,91,43,134,327,205,532
+WT 2018/19,Baden-Württemberg,SF316,Electrical Power Engineering,25,5,30,4,1,5,29,6,35
+WT 2018/19,Baden-Württemberg,SF048,Electrical Engineering/Electronics,1125,141,1266,307,86,393,1432,227,1659
+WT 2018/19,Bayern,SF048,Electrical Engineering/Electronics,1339,197,1536,613,156,769,1952,353,2305
+WT 2018/19,Berlin,SF048,Electrical Engineering/Electronics,307,48,355,207,44,251,514,92,606
+WT 2018/19,Bremen,SF316,Electrical Power Engineering,23,3,26,6,1,7,29,4,33
+WT 2018/19,Bremen,SF048,Electrical Engineering/Electronics,74,10,84,69,37,106,143,47,190
+WT 2018/19,Hamburg,SF048,Electrical Engineering/Electronics,131,18,149,20,2,22,151,20,171
+WT 2018/19,Hessen,SF316,Electrical Power Engineering,7,3,10,1,1,2,8,4,12
+WT 2018/19,Hessen,SF048,Electrical Engineering/Electronics,501,61,562,392,112,504,893,173,1066
+WT 2018/19,Mecklenburg-Vorpommern,SF048,Electrical Engineering/Electronics,49,6,55,73,6,79,122,12,134
+WT 2018/19,Niedersachsen,SF316,Electrical Power Engineering,13,1,14,5,3,8,18,4,22
+WT 2018/19,Niedersachsen,SF048,Electrical Engineering/Electronics,487,61,548,193,48,241,680,109,789
+WT 2018/19,Nordrhein-Westfalen,SF048,Electrical Engineering/Electronics,1535,204,1739,973,234,1207,2508,438,2946
+WT 2018/19,Rheinland-Pfalz,SF048,Electrical Engineering/Electronics,114,10,124,81,25,106,195,35,230
+WT 2018/19,Saarland,SF048,Electrical Engineering/Electronics,43,6,49,11,3,14,54,9,63
+WT 2018/19,Sachsen,SF316,Electrical Power Engineering,24,8,32,12,3,15,36,11,47
+WT 2018/19,Sachsen,SF048,Electrical Engineering/Electronics,329,46,375,160,55,215,489,101,590
+WT 2018/19,Sachsen-Anhalt,SF048,Electrical Engineering/Electronics,97,34,131,116,26,142,213,60,273
+WT 2018/19,Schleswig-Holstein,SF048,Electrical Engineering/Electronics,113,15,128,23,6,29,136,21,157
+WT 2018/19,Thüringen,SF048,Electrical Engineering/Electronics,87,5,92,60,29,89,147,34,181
+WT 2019/20,Baden-Württemberg,SF316,Electrical Power Engineering,24,2,26,4,1,5,28,3,31
+WT 2019/20,Baden-Württemberg,SF048,Electrical Engineering/Electronics,1067,141,1208,288,94,382,1355,235,1590
+WT 2019/20,Bayern,SF048,Electrical Engineering/Electronics,1259,171,1430,550,182,732,1809,353,2162
+WT 2019/20,Berlin,SF048,Electrical Engineering/Electronics,260,43,303,154,42,196,414,85,499
+WT 2019/20,Brandenburg,SF048,Electrical Engineering/Electronics,23,1,24,47,11,58,70,12,82
+WT 2019/20,Bremen,SF316,Electrical Power Engineering,24,2,26,1,1,2,25,3,28
+WT 2019/20,Bremen,SF048,Electrical Engineering/Electronics,62,9,71,82,37,119,144,46,190
+WT 2019/20,Hamburg,SF048,Electrical Engineering/Electronics,124,9,133,59,12,71,183,21,204
+WT 2019/20,Hessen,SF048,Electrical Engineering/Electronics,479,52,531,335,123,458,814,175,989
+WT 2019/20,Mecklenburg-Vorpommern,SF048,Electrical Engineering/Electronics,52,3,55,93,13,106,145,16,161
+WT 2019/20,Niedersachsen,SF316,Electrical Power Engineering,12,1,13,16,4,20,28,5,33
+WT 2019/20,Niedersachsen,SF048,Electrical Engineering/Electronics,477,55,532,190,66,256,667,121,788
+WT 2019/20,Nordrhein-Westfalen,SF316,Electrical Power Engineering,47,10,57,4,1,5,51,11,62
+WT 2019/20,Nordrhein-Westfalen,SF048,Electrical Engineering/Electronics,1402,191,1593,879,230,1109,2281,421,2702
+WT 2019/20,Rheinland-Pfalz,SF048,Electrical Engineering/Electronics,107,5,112,119,35,154,226,40,266
+WT 2019/20,Saarland,SF048,Electrical Engineering/Electronics,25,4,29,13,3,16,38,7,45
+WT 2019/20,Sachsen,SF316,Electrical Power Engineering,25,8,33,3,3,6,28,11,39
+WT 2019/20,Sachsen,SF048,Electrical Engineering/Electronics,298,51,349,200,45,245,498,96,594
+WT 2019/20,Sachsen-Anhalt,SF048,Electrical Engineering/Electronics,80,25,105,75,22,97,155,47,202
+WT 2019/20,Schleswig-Holstein,SF048,Electrical Engineering/Electronics,126,20,146,19,4,23,145,24,169
+WT 2019/20,Thüringen,SF048,Electrical Engineering/Electronics,115,12,127,75,24,99,190,36,226
+WT 2020/21,Baden-Württemberg,SF316,Electrical Power Engineering,11,1,12,4,1,5,15,2,17
+WT 2020/21,Baden-Württemberg,SF048,Electrical Engineering/Electronics,957,116,1073,235,66,301,1192,182,1374
+WT 2020/21,Bayern,SF316,Electrical Power Engineering,8,9,17,58,19,77,66,28,94
+WT 2020/21,Bayern,SF048,Electrical Engineering/Electronics,1142,142,1284,477,126,603,1619,268,1887
+WT 2020/21,Berlin,SF048,Electrical Engineering/Electronics,228,32,260,95,32,127,323,64,387
+WT 2020/21,Brandenburg,SF048,Electrical Engineering/Electronics,20,1,21,41,5,46,61,6,67
+WT 2020/21,Bremen,SF316,Electrical Power Engineering,31,3,34,4,2,6,35,5,40
+WT 2020/21,Bremen,SF048,Electrical Engineering/Electronics,54,2,56,67,14,81,121,16,137
+WT 2020/21,Hamburg,SF048,Electrical Engineering/Electronics,132,8,140,49,12,61,181,20,201
+WT 2020/21,Hessen,SF048,Electrical Engineering/Electronics,422,35,457,275,86,361,697,121,818
+WT 2020/21,Mecklenburg-Vorpommern,SF048,Electrical Engineering/Electronics,61,3,64,80,13,93,141,16,157
+WT 2020/21,Niedersachsen,SF316,Electrical Power Engineering,6,1,7,6,1,7,12,2,14
+WT 2020/21,Niedersachsen,SF048,Electrical Engineering/Electronics,335,48,383,158,62,220,493,110,603
+WT 2020/21,Nordrhein-Westfalen,SF316,Electrical Power Engineering,51,16,67,5,3,8,56,19,75
+WT 2020/21,Nordrhein-Westfalen,SF048,Electrical Engineering/Electronics,1292,140,1432,849,207,1056,2141,347,2488
+WT 2020/21,Rheinland-Pfalz,SF048,Electrical Engineering/Electronics,116,11,127,84,29,113,200,40,240
+WT 2020/21,Saarland,SF048,Electrical Engineering/Electronics,24,2,26,5,1,6,29,3,32
+WT 2020/21,Sachsen,SF048,Electrical Engineering/Electronics,306,34,340,138,52,190,444,86,530
+WT 2020/21,Sachsen-Anhalt,SF048,Electrical Engineering/Electronics,89,17,106,64,22,86,153,39,192
+WT 2020/21,Schleswig-Holstein,SF048,Electrical Engineering/Electronics,112,13,125,21,3,24,133,16,149
+WT 2020/21,Thüringen,SF048,Electrical Engineering/Electronics,101,4,105,51,13,64,152,17,169
+WT 2021/22,Baden-Württemberg,SF316,Electrical Power Engineering,44,6,50,7,1,8,51,7,58
+WT 2021/22,Baden-Württemberg,SF048,Electrical Engineering/Electronics,870,88,958,232,79,311,1102,167,1269
+WT 2021/22,Bayern,SF316,Electrical Power Engineering,13,3,16,65,12,77,78,15,93
+WT 2021/22,Bayern,SF048,Electrical Engineering/Electronics,1022,139,1161,530,144,674,1552,283,1835
+WT 2021/22,Berlin,SF048,Electrical Engineering/Electronics,180,37,217,114,41,155,294,78,372
+WT 2021/22,Bremen,SF316,Electrical Power Engineering,25,5,30,2,1,3,27,6,33
+WT 2021/22,Bremen,SF048,Electrical Engineering/Electronics,55,1,56,80,21,101,135,22,157
+WT 2021/22,Hamburg,SF048,Electrical Engineering/Electronics,114,14,128,49,12,61,163,26,189
+WT 2021/22,Hessen,SF048,Electrical Engineering/Electronics,362,40,402,248,96,344,610,136,746
+WT 2021/22,Mecklenburg-Vorpommern,SF048,Electrical Engineering/Electronics,29,8,37,56,19,75,85,27,112
+WT 2021/22,Niedersachsen,SF048,Electrical Engineering/Electronics,395,42,437,113,21,134,508,63,571
+WT 2021/22,Nordrhein-Westfalen,SF316,Electrical Power Engineering,32,6,38,6,4,10,38,10,48
+WT 2021/22,Nordrhein-Westfalen,SF048,Electrical Engineering/Electronics,997,111,1108,776,195,971,1773,306,2079
+WT 2021/22,Rheinland-Pfalz,SF048,Electrical Engineering/Electronics,86,7,93,51,13,64,137,20,157
+WT 2021/22,Saarland,SF048,Electrical Engineering/Electronics,33,4,37,10,2,12,43,6,49
+WT 2021/22,Sachsen,SF048,Electrical Engineering/Electronics,260,23,283,184,53,237,444,76,520
+WT 2021/22,Sachsen-Anhalt,SF048,Electrical Engineering/Electronics,83,27,110,95,37,132,178,64,242
+WT 2021/22,Schleswig-Holstein,SF048,Electrical Engineering/Electronics,122,12,134,21,4,25,143,16,159
+WT 2021/22,Thüringen,SF048,Electrical Engineering/Electronics,126,6,132,45,10,55,171,16,187

@@ -1,0 +1,329 @@
+semester,federal_state,study_code,study_subject,Germans,Germans.1,Germans.2,Foreigners,Foreigners.1,Foreigners.2,total_males,total_females,total_all
+WT 2018/19,Baden-Württemberg,SF221,Bioinformatics,10,15,25,3,3,6,13,18,31
+WT 2018/19,Baden-Württemberg,SF160,Computer Linguistics,33,30,63,21,30,51,54,60,114
+WT 2018/19,Baden-Württemberg,SF200,Computer and Communication Technology,8,15,23,44,23,67,52,38,90
+WT 2018/19,Baden-Württemberg,SF079,Computer Science,2048,267,2315,393,139,532,2441,406,2847
+WT 2018/19,Baden-Württemberg,SF123,Computational Engineer./Technical Computer Science,225,22,247,49,9,58,274,31,305
+WT 2018/19,Baden-Württemberg,SF121,Media Informatics,208,124,332,18,14,32,226,138,364
+WT 2018/19,Baden-Württemberg,SF247,Medical Informatics,65,66,131,15,31,46,80,97,177
+WT 2018/19,Baden-Württemberg,SF277,Business Informatics,1517,467,1984,145,93,238,1662,560,2222
+WT 2018/19,Bayern,SF221,Bioinformatics,39,29,68,8,10,18,47,39,86
+WT 2018/19,Bayern,SF160,Computer Linguistics,26,20,46,9,18,27,35,38,73
+WT 2018/19,Bayern,SF200,Computer and Communication Technology,93,130,223,18,17,35,111,147,258
+WT 2018/19,Bayern,SF079,Computer Science,1730,315,2045,745,261,1006,2475,576,3051
+WT 2018/19,Bayern,SF123,Computational Engineer./Technical Computer Science,224,31,255,105,29,134,329,60,389
+WT 2018/19,Bayern,SF121,Media Informatics,171,92,263,17,12,29,188,104,292
+WT 2018/19,Bayern,SF247,Medical Informatics,37,41,78,67,39,106,104,80,184
+WT 2018/19,Bayern,SF277,Business Informatics,1005,286,1291,174,104,278,1179,390,1569
+WT 2018/19,Berlin,SF221,Bioinformatics,25,28,53,14,15,29,39,43,82
+WT 2018/19,Berlin,SF079,Computer Science,459,88,547,218,86,304,677,174,851
+WT 2018/19,Berlin,SF121,Media Informatics,99,75,174,19,10,29,118,85,203
+WT 2018/19,Berlin,SF277,Business Informatics,271,97,368,84,48,132,355,145,500
+WT 2018/19,Brandenburg,SF160,Computer Linguistics,1,1,2,3,6,9,4,7,11
+WT 2018/19,Brandenburg,SF200,Computer and Communication Technology,14,1,15,10,2,12,24,3,27
+WT 2018/19,Brandenburg,SF079,Computer Science,233,40,273,77,29,106,310,69,379
+WT 2018/19,Brandenburg,SF121,Media Informatics,7,2,9,3,3,6,10,5,15
+WT 2018/19,Brandenburg,SF247,Medical Informatics,15,6,21,7,6,13,22,12,34
+WT 2018/19,Brandenburg,SF277,Business Informatics,108,15,123,14,7,21,122,22,144
+WT 2018/19,Bremen,SF079,Computer Science,157,43,200,62,29,91,219,72,291
+WT 2018/19,Bremen,SF123,Computational Engineer./Technical Computer Science,47,2,49,12,2,14,59,4,63
+WT 2018/19,Bremen,SF121,Media Informatics,47,26,73,18,16,34,65,42,107
+WT 2018/19,Bremen,SF277,Business Informatics,56,11,67,8,3,11,64,14,78
+WT 2018/19,Hamburg,SF079,Computer Science,152,25,177,33,19,52,185,44,229
+WT 2018/19,Hamburg,SF123,Computational Engineer./Technical Computer Science,153,23,176,44,8,52,197,31,228
+WT 2018/19,Hamburg,SF277,Business Informatics,134,20,154,9,11,20,143,31,174
+WT 2018/19,Hessen,SF221,Bioinformatics,34,19,53,15,9,24,49,28,77
+WT 2018/19,Hessen,SF200,Computer and Communication Technology,39,58,97,5,10,15,44,68,112
+WT 2018/19,Hessen,SF079,Computer Science,1265,228,1493,366,129,495,1631,357,1988
+WT 2018/19,Hessen,SF123,Computational Engineer./Technical Computer Science,49,6,55,10,1,11,59,7,66
+WT 2018/19,Hessen,SF121,Media Informatics,216,175,391,23,13,36,239,188,427
+WT 2018/19,Hessen,SF247,Medical Informatics,7,11,18,2,1,3,9,12,21
+WT 2018/19,Hessen,SF277,Business Informatics,454,93,547,71,38,109,525,131,656
+WT 2018/19,Mecklenburg-Vorpommern,SF079,Computer Science,99,13,112,70,11,81,169,24,193
+WT 2018/19,Mecklenburg-Vorpommern,SF121,Media Informatics,28,6,34,5,1,6,33,7,40
+WT 2018/19,Mecklenburg-Vorpommern,SF247,Medical Informatics,10,16,26,1,1,2,11,17,28
+WT 2018/19,Mecklenburg-Vorpommern,SF277,Business Informatics,73,13,86,12,10,22,85,23,108
+WT 2018/19,Niedersachsen,SF200,Computer and Communication Technology,28,9,37,16,7,23,44,16,60
+WT 2018/19,Niedersachsen,SF079,Computer Science,810,104,914,200,56,256,1010,160,1170
+WT 2018/19,Niedersachsen,SF123,Computational Engineer./Technical Computer Science,31,3,34,32,8,40,63,11,74
+WT 2018/19,Niedersachsen,SF121,Media Informatics,84,52,136,12,8,20,96,60,156
+WT 2018/19,Niedersachsen,SF277,Business Informatics,586,119,705,46,27,73,632,146,778
+WT 2018/19,Nordrhein-Westfalen,SF221,Bioinformatics,8,18,26,14,10,24,22,28,50
+WT 2018/19,Nordrhein-Westfalen,SF200,Computer and Communication Technology,16,12,28,2,4,6,18,16,34
+WT 2018/19,Nordrhein-Westfalen,SF079,Computer Science,2474,471,2945,817,291,1108,3291,762,4053
+WT 2018/19,Nordrhein-Westfalen,SF123,Computational Engineer./Technical Computer Science,603,102,705,212,69,281,815,171,986
+WT 2018/19,Nordrhein-Westfalen,SF121,Media Informatics,204,162,366,35,25,60,239,187,426
+WT 2018/19,Nordrhein-Westfalen,SF247,Medical Informatics,29,29,58,3,4,7,32,33,65
+WT 2018/19,Nordrhein-Westfalen,SF277,Business Informatics,1870,377,2247,252,115,367,2122,492,2614
+WT 2018/19,Rheinland-Pfalz,SF221,Bioinformatics,7,5,12,1,1,2,8,6,14
+WT 2018/19,Rheinland-Pfalz,SF079,Computer Science,418,70,488,179,76,255,597,146,743
+WT 2018/19,Rheinland-Pfalz,SF121,Media Informatics,98,21,119,9,3,12,107,24,131
+WT 2018/19,Rheinland-Pfalz,SF247,Medical Informatics,8,11,19,1,2,3,9,13,22
+WT 2018/19,Rheinland-Pfalz,SF277,Business Informatics,217,72,289,25,3,28,242,75,317
+WT 2018/19,Saarland,SF221,Bioinformatics,9,11,20,4,5,9,13,16,29
+WT 2018/19,Saarland,SF160,Computer Linguistics,4,6,10,4,9,13,8,15,23
+WT 2018/19,Saarland,SF200,Computer and Communication Technology,26,7,33,14,5,19,40,12,52
+WT 2018/19,Saarland,SF079,Computer Science,204,31,235,97,37,134,301,68,369
+WT 2018/19,Saarland,SF121,Media Informatics,17,8,25,4,3,7,21,11,32
+WT 2018/19,Sachsen,SF079,Computer Science,486,151,637,239,79,318,725,230,955
+WT 2018/19,Sachsen,SF123,Computational Engineer./Technical Computer Science,51,6,57,1,4,5,52,10,62
+WT 2018/19,Sachsen,SF121,Media Informatics,144,54,198,3,9,12,147,63,210
+WT 2018/19,Sachsen,SF277,Business Informatics,81,11,92,15,14,29,96,25,121
+WT 2018/19,Sachsen-Anhalt,SF221,Bioinformatics,13,12,25,3,1,4,16,13,29
+WT 2018/19,Sachsen-Anhalt,SF079,Computer Science,179,15,194,84,30,114,263,45,308
+WT 2018/19,Sachsen-Anhalt,SF123,Computational Engineer./Technical Computer Science,17,6,23,46,10,56,63,16,79
+WT 2018/19,Sachsen-Anhalt,SF277,Business Informatics,71,9,80,18,5,23,89,14,103
+WT 2018/19,Schleswig-Holstein,SF200,Computer and Communication Technology,55,7,62,11,4,15,66,11,77
+WT 2018/19,Schleswig-Holstein,SF079,Computer Science,254,45,299,103,19,122,357,64,421
+WT 2018/19,Schleswig-Holstein,SF121,Media Informatics,143,59,202,8,7,15,151,66,217
+WT 2018/19,Schleswig-Holstein,SF247,Medical Informatics,10,8,18,4,2,6,14,10,24
+WT 2018/19,Schleswig-Holstein,SF277,Business Informatics,313,87,400,20,11,31,333,98,431
+WT 2018/19,Thüringen,SF200,Computer and Communication Technology,11,1,12,5,4,9,16,5,21
+WT 2018/19,Thüringen,SF079,Computer Science,163,47,210,68,16,84,231,63,294
+WT 2018/19,Thüringen,SF123,Computational Engineer./Technical Computer Science,43,4,47,7,1,8,50,5,55
+WT 2018/19,Thüringen,SF121,Media Informatics,16,7,23,7,6,13,23,13,36
+WT 2018/19,Thüringen,SF277,Business Informatics,54,4,58,4,14,18,58,18,76
+WT 2019/20,Baden-Württemberg,SF221,Bioinformatics,13,5,18,2,4,6,15,9,24
+WT 2019/20,Baden-Württemberg,SF160,Computer Linguistics,26,40,66,23,20,43,49,60,109
+WT 2019/20,Baden-Württemberg,SF200,Computer and Communication Technology,14,11,25,36,24,60,50,35,85
+WT 2019/20,Baden-Württemberg,SF079,Computer Science,2020,281,2301,370,138,508,2390,419,2809
+WT 2019/20,Baden-Württemberg,SF123,Computational Engineer./Technical Computer Science,214,30,244,71,27,98,285,57,342
+WT 2019/20,Baden-Württemberg,SF121,Media Informatics,165,150,315,5,13,18,170,163,333
+WT 2019/20,Baden-Württemberg,SF247,Medical Informatics,97,89,186,19,18,37,116,107,223
+WT 2019/20,Baden-Württemberg,SF277,Business Informatics,1447,454,1901,145,82,227,1592,536,2128
+WT 2019/20,Bayern,SF221,Bioinformatics,36,23,59,31,21,52,67,44,111
+WT 2019/20,Bayern,SF160,Computer Linguistics,14,10,24,7,17,24,21,27,48
+WT 2019/20,Bayern,SF200,Computer and Communication Technology,126,146,272,33,16,49,159,162,321
+WT 2019/20,Bayern,SF079,Computer Science,1662,357,2019,782,252,1034,2444,609,3053
+WT 2019/20,Bayern,SF123,Computational Engineer./Technical Computer Science,189,26,215,90,26,116,279,52,331
+WT 2019/20,Bayern,SF121,Media Informatics,121,70,191,10,15,25,131,85,216
+WT 2019/20,Bayern,SF247,Medical Informatics,55,53,108,59,44,103,114,97,211
+WT 2019/20,Bayern,SF277,Business Informatics,953,235,1188,137,109,246,1090,344,1434
+WT 2019/20,Berlin,SF221,Bioinformatics,14,23,37,16,20,36,30,43,73
+WT 2019/20,Berlin,SF079,Computer Science,439,101,540,212,72,284,651,173,824
+WT 2019/20,Berlin,SF121,Media Informatics,88,56,144,83,31,114,171,87,258
+WT 2019/20,Berlin,SF277,Business Informatics,301,96,397,108,52,160,409,148,557
+WT 2019/20,Brandenburg,SF160,Computer Linguistics,11,9,20,3,12,15,14,21,35
+WT 2019/20,Brandenburg,SF079,Computer Science,213,63,276,61,40,101,274,103,377
+WT 2019/20,Brandenburg,SF121,Media Informatics,8,3,11,1,1,2,9,4,13
+WT 2019/20,Brandenburg,SF247,Medical Informatics,8,10,18,10,7,17,18,17,35
+WT 2019/20,Brandenburg,SF277,Business Informatics,86,15,101,22,13,35,108,28,136
+WT 2019/20,Bremen,SF079,Computer Science,159,20,179,101,31,132,260,51,311
+WT 2019/20,Bremen,SF123,Computational Engineer./Technical Computer Science,50,28,78,10,6,16,60,34,94
+WT 2019/20,Bremen,SF121,Media Informatics,49,37,86,21,24,45,70,61,131
+WT 2019/20,Bremen,SF277,Business Informatics,46,6,52,9,7,16,55,13,68
+WT 2019/20,Hamburg,SF079,Computer Science,177,31,208,44,15,59,221,46,267
+WT 2019/20,Hamburg,SF123,Computational Engineer./Technical Computer Science,146,16,162,28,13,41,174,29,203
+WT 2019/20,Hamburg,SF277,Business Informatics,128,23,151,18,10,28,146,33,179
+WT 2019/20,Hessen,SF221,Bioinformatics,23,19,42,4,2,6,27,21,48
+WT 2019/20,Hessen,SF200,Computer and Communication Technology,29,58,87,5,9,14,34,67,101
+WT 2019/20,Hessen,SF079,Computer Science,1308,243,1551,413,139,552,1721,382,2103
+WT 2019/20,Hessen,SF123,Computational Engineer./Technical Computer Science,39,7,46,9,1,10,48,8,56
+WT 2019/20,Hessen,SF121,Media Informatics,165,138,303,18,14,32,183,152,335
+WT 2019/20,Hessen,SF247,Medical Informatics,13,7,20,4,5,9,17,12,29
+WT 2019/20,Hessen,SF277,Business Informatics,376,81,457,71,53,124,447,134,581
+WT 2019/20,Mecklenburg-Vorpommern,SF200,Computer and Communication Technology,29,6,35,2,4,6,31,10,41
+WT 2019/20,Mecklenburg-Vorpommern,SF079,Computer Science,94,14,108,87,14,101,181,28,209
+WT 2019/20,Mecklenburg-Vorpommern,SF121,Media Informatics,23,6,29,11,1,12,34,7,41
+WT 2019/20,Mecklenburg-Vorpommern,SF247,Medical Informatics,4,11,15,1,1,2,5,12,17
+WT 2019/20,Mecklenburg-Vorpommern,SF277,Business Informatics,84,11,95,14,8,22,98,19,117
+WT 2019/20,Niedersachsen,SF200,Computer and Communication Technology,48,13,61,21,11,32,69,24,93
+WT 2019/20,Niedersachsen,SF079,Computer Science,753,113,866,209,69,278,962,182,1144
+WT 2019/20,Niedersachsen,SF121,Media Informatics,86,34,120,11,6,17,97,40,137
+WT 2019/20,Niedersachsen,SF277,Business Informatics,635,108,743,47,27,74,682,135,817
+WT 2019/20,Nordrhein-Westfalen,SF221,Bioinformatics,15,16,31,12,7,19,27,23,50
+WT 2019/20,Nordrhein-Westfalen,SF200,Computer and Communication Technology,21,18,39,4,11,15,25,29,54
+WT 2019/20,Nordrhein-Westfalen,SF079,Computer Science,2543,500,3043,809,287,1096,3352,787,4139
+WT 2019/20,Nordrhein-Westfalen,SF123,Computational Engineer./Technical Computer Science,630,108,738,235,57,292,865,165,1030
+WT 2019/20,Nordrhein-Westfalen,SF121,Media Informatics,156,167,323,31,34,65,187,201,388
+WT 2019/20,Nordrhein-Westfalen,SF247,Medical Informatics,30,17,47,7,6,13,37,23,60
+WT 2019/20,Nordrhein-Westfalen,SF277,Business Informatics,1708,309,2017,201,105,306,1909,414,2323
+WT 2019/20,Rheinland-Pfalz,SF221,Bioinformatics,5,4,9,2,1,3,7,5,12
+WT 2019/20,Rheinland-Pfalz,SF079,Computer Science,397,85,482,224,69,293,621,154,775
+WT 2019/20,Rheinland-Pfalz,SF121,Media Informatics,70,21,91,11,2,13,81,23,104
+WT 2019/20,Rheinland-Pfalz,SF247,Medical Informatics,11,4,15,3,1,4,14,5,19
+WT 2019/20,Rheinland-Pfalz,SF277,Business Informatics,194,75,269,43,17,60,237,92,329
+WT 2019/20,Saarland,SF221,Bioinformatics,6,6,12,7,7,14,13,13,26
+WT 2019/20,Saarland,SF160,Computer Linguistics,2,3,5,2,10,12,4,13,17
+WT 2019/20,Saarland,SF200,Computer and Communication Technology,32,2,34,11,8,19,43,10,53
+WT 2019/20,Saarland,SF079,Computer Science,202,36,238,106,46,152,308,82,390
+WT 2019/20,Saarland,SF121,Media Informatics,22,10,32,3,1,4,25,11,36
+WT 2019/20,Sachsen,SF079,Computer Science,514,152,666,266,92,358,780,244,1024
+WT 2019/20,Sachsen,SF123,Computational Engineer./Technical Computer Science,46,6,52,7,2,9,53,8,61
+WT 2019/20,Sachsen,SF121,Media Informatics,172,48,220,6,7,13,178,55,233
+WT 2019/20,Sachsen,SF277,Business Informatics,92,22,114,12,10,22,104,32,136
+WT 2019/20,Sachsen-Anhalt,SF079,Computer Science,144,30,174,87,51,138,231,81,312
+WT 2019/20,Sachsen-Anhalt,SF123,Computational Engineer./Technical Computer Science,14,4,18,51,19,70,65,23,88
+WT 2019/20,Sachsen-Anhalt,SF277,Business Informatics,67,10,77,15,9,24,82,19,101
+WT 2019/20,Schleswig-Holstein,SF200,Computer and Communication Technology,44,7,51,28,3,31,72,10,82
+WT 2019/20,Schleswig-Holstein,SF079,Computer Science,299,53,352,91,13,104,390,66,456
+WT 2019/20,Schleswig-Holstein,SF121,Media Informatics,128,49,177,5,4,9,133,53,186
+WT 2019/20,Schleswig-Holstein,SF247,Medical Informatics,4,18,22,3,3,6,7,21,28
+WT 2019/20,Schleswig-Holstein,SF277,Business Informatics,340,81,421,16,9,25,356,90,446
+WT 2019/20,Thüringen,SF221,Bioinformatics,6,1,7,4,2,6,10,3,13
+WT 2019/20,Thüringen,SF200,Computer and Communication Technology,11,3,14,12,4,16,23,7,30
+WT 2019/20,Thüringen,SF079,Computer Science,225,46,271,88,34,122,313,80,393
+WT 2019/20,Thüringen,SF123,Computational Engineer./Technical Computer Science,44,8,52,5,2,7,49,10,59
+WT 2019/20,Thüringen,SF121,Media Informatics,26,16,42,13,7,20,39,23,62
+WT 2019/20,Thüringen,SF277,Business Informatics,96,21,117,20,16,36,116,37,153
+WT 2020/21,Baden-Württemberg,SF221,Bioinformatics,15,12,27,1,4,5,16,16,32
+WT 2020/21,Baden-Württemberg,SF160,Computer Linguistics,20,17,37,18,32,50,38,49,87
+WT 2020/21,Baden-Württemberg,SF200,Computer and Communication Technology,7,15,22,47,22,69,54,37,91
+WT 2020/21,Baden-Württemberg,SF079,Computer Science,2017,299,2316,249,94,343,2266,393,2659
+WT 2020/21,Baden-Württemberg,SF123,Computational Engineer./Technical Computer Science,265,28,293,53,20,73,318,48,366
+WT 2020/21,Baden-Württemberg,SF121,Media Informatics,189,134,323,11,8,19,200,142,342
+WT 2020/21,Baden-Württemberg,SF247,Medical Informatics,123,100,223,15,21,36,138,121,259
+WT 2020/21,Baden-Württemberg,SF277,Business Informatics,1464,393,1857,153,79,232,1617,472,2089
+WT 2020/21,Bayern,SF221,Bioinformatics,31,33,64,35,20,55,66,53,119
+WT 2020/21,Bayern,SF160,Computer Linguistics,6,17,23,3,8,11,9,25,34
+WT 2020/21,Bayern,SF200,Computer and Communication Technology,126,201,327,31,16,47,157,217,374
+WT 2020/21,Bayern,SF079,Computer Science,1860,354,2214,813,283,1096,2673,637,3310
+WT 2020/21,Bayern,SF123,Computational Engineer./Technical Computer Science,182,26,208,105,25,130,287,51,338
+WT 2020/21,Bayern,SF121,Media Informatics,124,69,193,17,14,31,141,83,224
+WT 2020/21,Bayern,SF247,Medical Informatics,49,32,81,117,74,191,166,106,272
+WT 2020/21,Bayern,SF277,Business Informatics,951,227,1178,161,110,271,1112,337,1449
+WT 2020/21,Berlin,SF221,Bioinformatics,13,17,30,7,14,21,20,31,51
+WT 2020/21,Berlin,SF200,Computer and Communication Technology,2,1,3,49,15,64,51,16,67
+WT 2020/21,Berlin,SF079,Computer Science,457,79,536,199,63,262,656,142,798
+WT 2020/21,Berlin,SF121,Media Informatics,95,82,177,18,19,37,113,101,214
+WT 2020/21,Berlin,SF277,Business Informatics,317,76,393,79,57,136,396,133,529
+WT 2020/21,Brandenburg,SF160,Computer Linguistics,2,4,6,4,9,13,6,13,19
+WT 2020/21,Brandenburg,SF200,Computer and Communication Technology,10,2,12,6,1,7,16,3,19
+WT 2020/21,Brandenburg,SF079,Computer Science,261,36,297,74,26,100,335,62,397
+WT 2020/21,Brandenburg,SF121,Media Informatics,8,1,9,1,1,2,9,2,11
+WT 2020/21,Brandenburg,SF247,Medical Informatics,7,10,17,5,9,14,12,19,31
+WT 2020/21,Brandenburg,SF277,Business Informatics,74,9,83,17,13,30,91,22,113
+WT 2020/21,Bremen,SF079,Computer Science,134,28,162,92,32,124,226,60,286
+WT 2020/21,Bremen,SF123,Computational Engineer./Technical Computer Science,50,4,54,11,1,12,61,5,66
+WT 2020/21,Bremen,SF121,Media Informatics,55,28,83,21,21,42,76,49,125
+WT 2020/21,Bremen,SF277,Business Informatics,63,10,73,13,4,17,76,14,90
+WT 2020/21,Hamburg,SF079,Computer Science,146,37,183,27,15,42,173,52,225
+WT 2020/21,Hamburg,SF123,Computational Engineer./Technical Computer Science,116,12,128,32,8,40,148,20,168
+WT 2020/21,Hamburg,SF277,Business Informatics,159,38,197,19,14,33,178,52,230
+WT 2020/21,Hessen,SF221,Bioinformatics,22,13,35,3,7,10,25,20,45
+WT 2020/21,Hessen,SF200,Computer and Communication Technology,23,41,64,4,12,16,27,53,80
+WT 2020/21,Hessen,SF079,Computer Science,1278,238,1516,431,151,582,1709,389,2098
+WT 2020/21,Hessen,SF121,Media Informatics,157,117,274,14,11,25,171,128,299
+WT 2020/21,Hessen,SF247,Medical Informatics,9,13,22,1,3,4,10,16,26
+WT 2020/21,Hessen,SF277,Business Informatics,392,77,469,63,41,104,455,118,573
+WT 2020/21,Mecklenburg-Vorpommern,SF079,Computer Science,76,11,87,42,13,55,118,24,142
+WT 2020/21,Mecklenburg-Vorpommern,SF123,Computational Engineer./Technical Computer Science,4,1,5,2,1,3,6,2,8
+WT 2020/21,Mecklenburg-Vorpommern,SF277,Business Informatics,65,18,83,8,2,10,73,20,93
+WT 2020/21,Niedersachsen,SF200,Computer and Communication Technology,49,13,62,14,13,27,63,26,89
+WT 2020/21,Niedersachsen,SF079,Computer Science,521,107,628,274,115,389,795,222,1017
+WT 2020/21,Niedersachsen,SF123,Computational Engineer./Technical Computer Science,13,2,15,47,12,59,60,14,74
+WT 2020/21,Niedersachsen,SF121,Media Informatics,74,46,120,9,6,15,83,52,135
+WT 2020/21,Niedersachsen,SF277,Business Informatics,479,100,579,48,39,87,527,139,666
+WT 2020/21,Nordrhein-Westfalen,SF200,Computer and Communication Technology,47,22,69,2,2,4,49,24,73
+WT 2020/21,Nordrhein-Westfalen,SF079,Computer Science,2644,460,3104,712,282,994,3356,742,4098
+WT 2020/21,Nordrhein-Westfalen,SF123,Computational Engineer./Technical Computer Science,585,113,698,177,61,238,762,174,936
+WT 2020/21,Nordrhein-Westfalen,SF121,Media Informatics,176,113,289,27,20,47,203,133,336
+WT 2020/21,Nordrhein-Westfalen,SF247,Medical Informatics,27,28,55,19,19,38,46,47,93
+WT 2020/21,Nordrhein-Westfalen,SF277,Business Informatics,1722,364,2086,200,97,297,1922,461,2383
+WT 2020/21,Rheinland-Pfalz,SF221,Bioinformatics,5,1,6,1,2,3,6,3,9
+WT 2020/21,Rheinland-Pfalz,SF079,Computer Science,402,71,473,224,94,318,626,165,791
+WT 2020/21,Rheinland-Pfalz,SF121,Media Informatics,62,14,76,4,5,9,66,19,85
+WT 2020/21,Rheinland-Pfalz,SF247,Medical Informatics,13,12,25,2,6,8,15,18,33
+WT 2020/21,Rheinland-Pfalz,SF277,Business Informatics,222,82,304,30,21,51,252,103,355
+WT 2020/21,Saarland,SF221,Bioinformatics,9,6,15,10,12,22,19,18,37
+WT 2020/21,Saarland,SF160,Computer Linguistics,3,4,7,10,17,27,13,21,34
+WT 2020/21,Saarland,SF200,Computer and Communication Technology,28,3,31,6,8,14,34,11,45
+WT 2020/21,Saarland,SF079,Computer Science,184,28,212,94,40,134,278,68,346
+WT 2020/21,Saarland,SF121,Media Informatics,17,10,27,4,2,6,21,12,33
+WT 2020/21,Sachsen,SF079,Computer Science,479,175,654,220,85,305,699,260,959
+WT 2020/21,Sachsen,SF123,Computational Engineer./Technical Computer Science,64,2,66,10,4,14,74,6,80
+WT 2020/21,Sachsen,SF121,Media Informatics,157,75,232,11,10,21,168,85,253
+WT 2020/21,Sachsen,SF277,Business Informatics,98,14,112,6,14,20,104,28,132
+WT 2020/21,Sachsen-Anhalt,SF079,Computer Science,147,20,167,53,23,76,200,43,243
+WT 2020/21,Sachsen-Anhalt,SF123,Computational Engineer./Technical Computer Science,16,1,17,6,3,9,22,4,26
+WT 2020/21,Sachsen-Anhalt,SF277,Business Informatics,77,3,80,14,7,21,91,10,101
+WT 2020/21,Schleswig-Holstein,SF200,Computer and Communication Technology,49,4,53,3,4,7,52,8,60
+WT 2020/21,Schleswig-Holstein,SF079,Computer Science,272,40,312,29,8,37,301,48,349
+WT 2020/21,Schleswig-Holstein,SF121,Media Informatics,123,61,184,4,4,8,127,65,192
+WT 2020/21,Schleswig-Holstein,SF247,Medical Informatics,9,9,18,10,1,11,19,10,29
+WT 2020/21,Schleswig-Holstein,SF277,Business Informatics,296,49,345,17,6,23,313,55,368
+WT 2020/21,Thüringen,SF221,Bioinformatics,11,3,14,1,3,4,12,6,18
+WT 2020/21,Thüringen,SF200,Computer and Communication Technology,12,2,14,7,2,9,19,4,23
+WT 2020/21,Thüringen,SF079,Computer Science,272,74,346,158,50,208,430,124,554
+WT 2020/21,Thüringen,SF123,Computational Engineer./Technical Computer Science,39,12,51,6,1,7,45,13,58
+WT 2020/21,Thüringen,SF121,Media Informatics,13,7,20,12,3,15,25,10,35
+WT 2020/21,Thüringen,SF277,Business Informatics,141,31,172,16,10,26,157,41,198
+WT 2021/22,Baden-Württemberg,SF221,Bioinformatics,21,10,31,5,5,10,26,15,41
+WT 2021/22,Baden-Württemberg,SF160,Computer Linguistics,22,16,38,28,42,70,50,58,108
+WT 2021/22,Baden-Württemberg,SF200,Computer and Communication Technology,13,12,25,40,12,52,53,24,77
+WT 2021/22,Baden-Württemberg,SF079,Computer Science,1886,287,2173,341,150,491,2227,437,2664
+WT 2021/22,Baden-Württemberg,SF123,Computational Engineer./Technical Computer Science,217,25,242,55,18,73,272,43,315
+WT 2021/22,Baden-Württemberg,SF121,Media Informatics,216,130,346,15,13,28,231,143,374
+WT 2021/22,Baden-Württemberg,SF247,Medical Informatics,67,58,125,21,26,47,88,84,172
+WT 2021/22,Baden-Württemberg,SF277,Business Informatics,1513,387,1900,203,103,306,1716,490,2206
+WT 2021/22,Bayern,SF221,Bioinformatics,36,19,55,13,27,40,49,46,95
+WT 2021/22,Bayern,SF160,Computer Linguistics,8,8,16,6,10,16,14,18,32
+WT 2021/22,Bayern,SF200,Computer and Communication Technology,127,169,296,13,35,48,140,204,344
+WT 2021/22,Bayern,SF079,Computer Science,1873,356,2229,1220,457,1677,3093,813,3906
+WT 2021/22,Bayern,SF123,Computational Engineer./Technical Computer Science,173,26,199,179,54,233,352,80,432
+WT 2021/22,Bayern,SF121,Media Informatics,91,61,152,12,20,32,103,81,184
+WT 2021/22,Bayern,SF247,Medical Informatics,32,36,68,60,73,133,92,109,201
+WT 2021/22,Bayern,SF277,Business Informatics,853,175,1028,152,97,249,1005,272,1277
+WT 2021/22,Berlin,SF221,Bioinformatics,20,25,45,15,12,27,35,37,72
+WT 2021/22,Berlin,SF079,Computer Science,481,81,562,196,75,271,677,156,833
+WT 2021/22,Berlin,SF121,Media Informatics,96,61,157,130,65,195,226,126,352
+WT 2021/22,Berlin,SF277,Business Informatics,341,107,448,121,86,207,462,193,655
+WT 2021/22,Brandenburg,SF160,Computer Linguistics,4,4,8,7,6,13,11,10,21
+WT 2021/22,Brandenburg,SF079,Computer Science,194,35,229,158,51,209,352,86,438
+WT 2021/22,Brandenburg,SF247,Medical Informatics,6,6,12,2,6,8,8,12,20
+WT 2021/22,Brandenburg,SF277,Business Informatics,64,9,73,59,25,84,123,34,157
+WT 2021/22,Bremen,SF079,Computer Science,118,40,158,77,25,102,195,65,260
+WT 2021/22,Bremen,SF123,Computational Engineer./Technical Computer Science,55,3,58,8,1,9,63,4,67
+WT 2021/22,Bremen,SF121,Media Informatics,45,36,81,24,16,40,69,52,121
+WT 2021/22,Bremen,SF277,Business Informatics,46,8,54,4,4,8,50,12,62
+WT 2021/22,Hamburg,SF079,Computer Science,158,46,204,49,28,77,207,74,281
+WT 2021/22,Hamburg,SF123,Computational Engineer./Technical Computer Science,124,15,139,25,2,27,149,17,166
+WT 2021/22,Hamburg,SF277,Business Informatics,187,43,230,22,12,34,209,55,264
+WT 2021/22,Hessen,SF221,Bioinformatics,17,10,27,3,4,7,20,14,34
+WT 2021/22,Hessen,SF200,Computer and Communication Technology,33,43,76,5,12,17,38,55,93
+WT 2021/22,Hessen,SF079,Computer Science,1199,215,1414,430,127,557,1629,342,1971
+WT 2021/22,Hessen,SF123,Computational Engineer./Technical Computer Science,22,2,24,3,3,6,25,5,30
+WT 2021/22,Hessen,SF121,Media Informatics,127,105,232,11,10,21,138,115,253
+WT 2021/22,Hessen,SF247,Medical Informatics,11,6,17,2,2,4,13,8,21
+WT 2021/22,Hessen,SF277,Business Informatics,364,53,417,62,36,98,426,89,515
+WT 2021/22,Mecklenburg-Vorpommern,SF079,Computer Science,93,8,101,24,9,33,117,17,134
+WT 2021/22,Mecklenburg-Vorpommern,SF123,Computational Engineer./Technical Computer Science,2,1,3,1,2,3,3,3,6
+WT 2021/22,Mecklenburg-Vorpommern,SF277,Business Informatics,71,8,79,7,12,19,78,20,98
+WT 2021/22,Niedersachsen,SF200,Computer and Communication Technology,69,11,80,30,22,52,99,33,132
+WT 2021/22,Niedersachsen,SF079,Computer Science,676,112,788,192,61,253,868,173,1041
+WT 2021/22,Niedersachsen,SF123,Computational Engineer./Technical Computer Science,31,1,32,43,11,54,74,12,86
+WT 2021/22,Niedersachsen,SF121,Media Informatics,64,39,103,7,13,20,71,52,123
+WT 2021/22,Niedersachsen,SF277,Business Informatics,527,88,615,31,18,49,558,106,664
+WT 2021/22,Nordrhein-Westfalen,SF160,Computer Linguistics,3,1,4,5,5,10,8,6,14
+WT 2021/22,Nordrhein-Westfalen,SF200,Computer and Communication Technology,59,22,81,4,5,9,63,27,90
+WT 2021/22,Nordrhein-Westfalen,SF079,Computer Science,2597,463,3060,695,290,985,3292,753,4045
+WT 2021/22,Nordrhein-Westfalen,SF123,Computational Engineer./Technical Computer Science,593,101,694,206,70,276,799,171,970
+WT 2021/22,Nordrhein-Westfalen,SF121,Media Informatics,128,118,246,28,18,46,156,136,292
+WT 2021/22,Nordrhein-Westfalen,SF247,Medical Informatics,11,17,28,13,13,26,24,30,54
+WT 2021/22,Nordrhein-Westfalen,SF277,Business Informatics,1489,264,1753,184,100,284,1673,364,2037
+WT 2021/22,Rheinland-Pfalz,SF221,Bioinformatics,5,1,6,1,1,2,6,2,8
+WT 2021/22,Rheinland-Pfalz,SF079,Computer Science,358,68,426,223,106,329,581,174,755
+WT 2021/22,Rheinland-Pfalz,SF121,Media Informatics,55,23,78,9,6,15,64,29,93
+WT 2021/22,Rheinland-Pfalz,SF247,Medical Informatics,13,6,19,2,1,3,15,7,22
+WT 2021/22,Rheinland-Pfalz,SF277,Business Informatics,176,61,237,36,29,65,212,90,302
+WT 2021/22,Saarland,SF221,Bioinformatics,10,6,16,11,15,26,21,21,42
+WT 2021/22,Saarland,SF079,Computer Science,177,20,197,124,41,165,301,61,362
+WT 2021/22,Saarland,SF121,Media Informatics,24,9,33,3,6,9,27,15,42
+WT 2021/22,Sachsen,SF079,Computer Science,479,111,590,250,128,378,729,239,968
+WT 2021/22,Sachsen,SF123,Computational Engineer./Technical Computer Science,38,5,43,3,4,7,41,9,50
+WT 2021/22,Sachsen,SF121,Media Informatics,133,65,198,11,4,15,144,69,213
+WT 2021/22,Sachsen,SF277,Business Informatics,91,22,113,10,6,16,101,28,129
+WT 2021/22,Sachsen-Anhalt,SF079,Computer Science,124,19,143,58,25,83,182,44,226
+WT 2021/22,Sachsen-Anhalt,SF123,Computational Engineer./Technical Computer Science,17,1,18,4,5,9,21,6,27
+WT 2021/22,Sachsen-Anhalt,SF277,Business Informatics,57,9,66,13,4,17,70,13,83
+WT 2021/22,Schleswig-Holstein,SF200,Computer and Communication Technology,46,6,52,9,3,12,55,9,64
+WT 2021/22,Schleswig-Holstein,SF079,Computer Science,260,28,288,16,8,24,276,36,312
+WT 2021/22,Schleswig-Holstein,SF121,Media Informatics,93,54,147,3,2,5,96,56,152
+WT 2021/22,Schleswig-Holstein,SF247,Medical Informatics,8,11,19,3,2,5,11,13,24
+WT 2021/22,Schleswig-Holstein,SF277,Business Informatics,278,41,319,15,6,21,293,47,340
+WT 2021/22,Thüringen,SF221,Bioinformatics,10,11,21,3,8,11,13,19,32
+WT 2021/22,Thüringen,SF200,Computer and Communication Technology,12,2,14,6,4,10,18,6,24
+WT 2021/22,Thüringen,SF079,Computer Science,410,77,487,207,104,311,617,181,798
+WT 2021/22,Thüringen,SF123,Computational Engineer./Technical Computer Science,81,9,90,26,7,33,107,16,123
+WT 2021/22,Thüringen,SF121,Media Informatics,4,8,12,11,10,21,15,18,33
+WT 2021/22,Thüringen,SF277,Business Informatics,148,19,167,35,15,50,183,34,217

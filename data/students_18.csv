@@ -1,0 +1,2079 @@
+semester,federal_state,study_code,study_subject,total_males,total_females,total_all
+WT 2018/19,Baden-Württemberg,SF138,Agricultural Biology,29,50,79
+WT 2018/19,Baden-Württemberg,SF125,Agricultural Economics,4,5,9
+WT 2018/19,Baden-Württemberg,SF003,Agricultural Science/Agriculture,170,207,377
+WT 2018/19,Baden-Württemberg,SF001,Egyptology,13,15,28
+WT 2018/19,Baden-Württemberg,SF152,General Linguistics/Indo-European Studies,33,108,141
+WT 2018/19,Baden-Württemberg,SF188,General Literary Studies,3,15,18
+WT 2018/19,Baden-Württemberg,SF272,Ancient History,5,6,11
+WT 2018/19,Baden-Württemberg,SF006,American Studies,41,75,116
+WT 2018/19,Baden-Württemberg,SF284,Applied Linguistics,3,14,17
+WT 2018/19,Baden-Württemberg,SF140,Applied Systems Science,18,1,19
+WT 2018/19,Baden-Württemberg,SF008,English Studies,233,688,921
+WT 2018/19,Baden-Württemberg,SF011,Work Studies/Business Studies,12,48,60
+WT 2018/19,Baden-Württemberg,SF257,Occupational Guidance and Career Counselling,16,43,59
+WT 2018/19,Baden-Württemberg,SF258,Labour Administration,28,90,118
+WT 2018/19,Baden-Württemberg,SF012,Archaeology,48,43,91
+WT 2018/19,Baden-Württemberg,SF013,Architecture,245,370,615
+WT 2018/19,Baden-Württemberg,SF187,Asian Languages and Cultures/Asian Studies,35,40,75
+WT 2018/19,Baden-Württemberg,SF014,Astrophysics and Astronomy,17,11,28
+WT 2018/19,Baden-Württemberg,SF143,Ophthalmic Optics,9,51,60
+WT 2018/19,Baden-Württemberg,SF017,Civil Engineering/Structural Engineering,671,330,1001
+WT 2018/19,Baden-Württemberg,SF270,"Vocational, Business and Economics Education",24,42,66
+WT 2018/19,Baden-Württemberg,SF021,Business Administration,3566,4430,7996
+WT 2018/19,Baden-Württemberg,SF023,Fine Arts/Graphics,16,28,44
+WT 2018/19,Baden-Württemberg,SF205,Sculpting/Statuary Art,5,2,7
+WT 2018/19,Baden-Württemberg,SF025,Biochemistry,92,171,263
+WT 2018/19,Baden-Württemberg,SF221,Bioinformatics,13,18,31
+WT 2018/19,Baden-Württemberg,SF026,Biology,351,854,1205
+WT 2018/19,Baden-Württemberg,SF300,Biomedicine,17,33,50
+WT 2018/19,Baden-Württemberg,SF282,Biotechnology,113,167,280
+WT 2018/19,Baden-Württemberg,SF260,Armed Forces Administration,27,41,68
+WT 2018/19,Baden-Württemberg,SF032,Chemistry,524,475,999
+WT 2018/19,Baden-Württemberg,SF033,Chemical Engineering/Chemical Process Technology,231,122,353
+WT 2018/19,Baden-Württemberg,SF160,Computer Linguistics,54,60,114
+WT 2018/19,Baden-Württemberg,SF200,Computer and Communication Technology,52,38,90
+WT 2018/19,Baden-Württemberg,SF035,Performing Arts/Stagecraft/Directing,13,44,57
+WT 2018/19,Baden-Württemberg,SF271,German as a Foreign or Second Language,41,91,132
+WT 2018/19,Baden-Württemberg,SF161,Pastoral Care Studies,4,11,15
+WT 2018/19,Baden-Württemberg,SF159,Gemstone and Jewellery Design,4,4,8
+WT 2018/19,Baden-Württemberg,SF316,Electrical Power Engineering,29,6,35
+WT 2018/19,Baden-Württemberg,SF048,Electrical Engineering/Electronics,1432,227,1659
+WT 2018/19,Baden-Württemberg,SF211,Energy Process Engineering,78,36,114
+WT 2018/19,Baden-Württemberg,SF320,Nutritional Science,5,108,113
+WT 2018/19,Baden-Württemberg,SF052,Educational Science (Pedagogy),167,918,1085
+WT 2018/19,Baden-Württemberg,SF169,Ethics,8,24,32
+WT 2018/19,Baden-Württemberg,SF173,Ethnology,28,67,95
+WT 2018/19,Baden-Württemberg,SF024,European Ethnology and Cultural Studies,21,17,38
+WT 2018/19,Baden-Württemberg,SF544,"Protestant Religious Pedagogy, Church Educat. Work",10,35,45
+WT 2018/19,Baden-Württemberg,SF053,"Protestant Theology, Protes. Religious Education",64,104,168
+WT 2018/19,Baden-Württemberg,SF235,Automotive Technology,344,26,370
+WT 2018/19,Baden-Württemberg,SF212,Precision Engineering,64,10,74
+WT 2018/19,Baden-Württemberg,SF202,Manufacturing Technology/Production Engineering,151,28,179
+WT 2018/19,Baden-Württemberg,SF266,Financial Administration,16,32,48
+WT 2018/19,Baden-Württemberg,SF058,"Forest Science, Forestry",191,138,329
+WT 2018/19,Baden-Württemberg,SF059,French,34,149,183
+WT 2018/19,Baden-Württemberg,SF050,Geography,90,101,191
+WT 2018/19,Baden-Württemberg,SF065,Geology/Palaeontology,12,14,26
+WT 2018/19,Baden-Württemberg,SF066,Geophysics,9,5,14
+WT 2018/19,Baden-Württemberg,SF039,Geosciences general,88,71,159
+WT 2018/19,Baden-Württemberg,SF067,German Studies/German,253,1359,1612
+WT 2018/19,Baden-Württemberg,SF230,Singing,11,11,22
+WT 2018/19,Baden-Württemberg,SF068,History,260,202,462
+WT 2018/19,Baden-Württemberg,SF195,Health Education,14,145,159
+WT 2018/19,Baden-Württemberg,SF215,Health Technology,175,168,343
+WT 2018/19,Baden-Württemberg,SF232,Health Science/Health Management,113,435,548
+WT 2018/19,Baden-Württemberg,SF069,Graphic Design/Communication Design,156,246,402
+WT 2018/19,Baden-Württemberg,SF070,Greek,4,3,7
+WT 2018/19,Baden-Württemberg,SF071,Domestic and Nutritional Sciences,14,84,98
+WT 2018/19,Baden-Württemberg,SF082,Wood and Fibre Technology,15,1,16
+WT 2018/19,Baden-Württemberg,SF075,Wood Science,20,7,27
+WT 2018/19,Baden-Württemberg,SF078,Indology,2,1,3
+WT 2018/19,Baden-Württemberg,SF203,Industrial Design/Product Design,59,55,114
+WT 2018/19,Baden-Württemberg,SF079,Computer Science,2441,406,2847
+WT 2018/19,Baden-Württemberg,SF022,Inf./Library Scien. (not at univ. of app.adm.sci.),6,39,45
+WT 2018/19,Baden-Württemberg,SF123,Computational Engineer./Technical Computer Science,274,31,305
+WT 2018/19,Baden-Württemberg,SF242,Interior Architecture,7,60,67
+WT 2018/19,Baden-Württemberg,SF261,Internal Administration,2,1,3
+WT 2018/19,Baden-Württemberg,SF080,Instrumental Music,104,120,224
+WT 2018/19,Baden-Württemberg,SF072,Interdisc. Studies (specialising in Engineering),301,140,441
+WT 2018/19,Baden-Württemberg,SF049,Interdisc. Studies (special. in Natural Sciences),15,11,26
+WT 2018/19,Baden-Württemberg,SF030,"Interdisc. St. (spec. in Law, Econ. and Soc. Sci.)",100,117,217
+WT 2018/19,Baden-Württemberg,SF004,Interdisc. Studies (spec. in Humanities),221,613,834
+WT 2018/19,Baden-Württemberg,SF182,International Business Studies/Management,472,798,1270
+WT 2018/19,Baden-Württemberg,SF292,Islamic Studies/Islamic theology,8,19,27
+WT 2018/19,Baden-Württemberg,SF083,Islamic Studies,8,22,30
+WT 2018/19,Baden-Württemberg,SF084,Italian,15,41,56
+WT 2018/19,Baden-Württemberg,SF085,Japanese Studies,23,30,53
+WT 2018/19,Baden-Württemberg,SF164,Jazz and Popular Music,21,7,28
+WT 2018/19,Baden-Württemberg,SF073,Judaic Studies/Hebrew,4,1,5
+WT 2018/19,Baden-Württemberg,SF280,Cartography,6,3,9
+WT 2018/19,Baden-Württemberg,SF545,"Catholic Religious Pedagogy, Church Educat. Work",9,26,35
+WT 2018/19,Baden-Württemberg,SF086,"Catholic Theology, Catholic Religious Education",33,55,88
+WT 2018/19,Baden-Württemberg,SF193,Church Music,2,2,4
+WT 2018/19,Baden-Württemberg,SF005,Classical Philology,1,1,2
+WT 2018/19,Baden-Württemberg,SF222,"Communication Technology, Information Engineering",212,30,242
+WT 2018/19,Baden-Württemberg,SF303,Communication Science/Journalism,80,338,418
+WT 2018/19,Baden-Württemberg,SF191,Composition,5,6,11
+WT 2018/19,Baden-Württemberg,SF091,Arts Education,11,69,80
+WT 2018/19,Baden-Württemberg,SF092,"Art History, Art Theory",59,160,219
+WT 2018/19,Baden-Württemberg,SF219,Plastics Technology,16,6,22
+WT 2018/19,Baden-Württemberg,SF283,Landscape Ecology/Biogeography (ex. SF385 s. 2012),16,39,55
+WT 2018/19,Baden-Württemberg,SF095,Latin,20,30,50
+WT 2018/19,Baden-Württemberg,SF038,Latin America Studies,4,1,5
+WT 2018/19,Baden-Württemberg,SF096,Food Chemistry,15,54,69
+WT 2018/19,Baden-Württemberg,SF097,Food Technology,21,93,114
+WT 2018/19,Baden-Württemberg,SF154,Area of study: Social Studies,6,7,13
+WT 2018/19,Baden-Württemberg,SF186,Area of study: Natural Sciences/General Studies,12,3,15
+WT 2018/19,Baden-Württemberg,SF199,Area of study: Technology,34,26,60
+WT 2018/19,Baden-Württemberg,SF057,Aeronautical and Aerospace Engineering,275,50,325
+WT 2018/19,Baden-Württemberg,SF204,Painting,21,16,37
+WT 2018/19,Baden-Württemberg,SF104,Mechanical Engineering,2403,395,2798
+WT 2018/19,Baden-Württemberg,SF294,Materials Engineering,52,26,78
+WT 2018/19,Baden-Württemberg,SF105,Mathematics,567,819,1386
+WT 2018/19,Baden-Württemberg,SF380,Mechatronics,826,112,938
+WT 2018/19,Baden-Württemberg,SF121,Media Informatics,226,138,364
+WT 2018/19,Baden-Württemberg,SF305,Media Technology,67,77,144
+WT 2018/19,Baden-Württemberg,SF304,Media Economics/Media Management,99,204,303
+WT 2018/19,Baden-Württemberg,SF302,Media Science,16,58,74
+WT 2018/19,Baden-Württemberg,SF107,Medicine (General Medicine),644,1100,1744
+WT 2018/19,Baden-Württemberg,SF247,Medical Informatics,80,97,177
+WT 2018/19,Baden-Württemberg,SF110,Meteorology,10,8,18
+WT 2018/19,Baden-Württemberg,SF286,Microsystems Technology,121,27,148
+WT 2018/19,Baden-Württemberg,SF113,Music Education,21,84,105
+WT 2018/19,Baden-Württemberg,SF114,Musicology/History of Music,30,46,76
+WT 2018/19,Baden-Württemberg,SF287,New Media,22,21,43
+WT 2018/19,Baden-Württemberg,SF233,Non-medical Healthcare Professions/Therapies,38,171,209
+WT 2018/19,Baden-Württemberg,SF120,"Nordic/Scand. St. (Nord. Phil., ind. lang. n.e.c.)",5,15,20
+WT 2018/19,Baden-Württemberg,SF088,Optoelectronics,11,3,14
+WT 2018/19,Baden-Württemberg,SF122,"Oriental Studies, Ancient Oriental Studies",5,9,14
+WT 2018/19,Baden-Württemberg,SF365,Early Childhood Education,3,50,53
+WT 2018/19,Baden-Württemberg,SF234,Nursing Science/Nursing Management,21,147,168
+WT 2018/19,Baden-Württemberg,SF126,Pharmacy,127,303,430
+WT 2018/19,Baden-Württemberg,SF127,Philosophy,184,152,336
+WT 2018/19,Baden-Württemberg,SF128,Physics,727,262,989
+WT 2018/19,Baden-Württemberg,SF224,Engineering Physics/Mechanical Process Engineering,9,1,10
+WT 2018/19,Baden-Württemberg,SF129,Political Science,326,338,664
+WT 2018/19,Baden-Württemberg,SF263,Police/Protection of the Constitution,359,152,511
+WT 2018/19,Baden-Württemberg,SF132,Psychology,288,946,1234
+WT 2018/19,Baden-Württemberg,SF134,Spatial Planning,40,33,73
+WT 2018/19,Baden-Württemberg,SF256,Administration of Justice,48,180,228
+WT 2018/19,Baden-Württemberg,SF135,Law,537,757,1294
+WT 2018/19,Baden-Württemberg,SF310,Renewable Energy,37,12,49
+WT 2018/19,Baden-Württemberg,SF136,Religious Studies,5,10,15
+WT 2018/19,Baden-Württemberg,SF101,Restoration Studies,1,12,13
+WT 2018/19,Baden-Württemberg,SF163,Rhythmics,1,3,4
+WT 2018/19,Baden-Württemberg,SF137,"Romance Studies (Rom. Phil., indiv. lang. n.e.c.)",14,44,58
+WT 2018/19,Baden-Württemberg,SF139,Russian,5,15,20
+WT 2018/19,Baden-Württemberg,SF102,Drama Studies,3,2,5
+WT 2018/19,Baden-Württemberg,SF145,Sinology/Korean Studies,21,90,111
+WT 2018/19,Baden-Württemberg,SF146,Slavic Studies (Slavic Philology),10,22,32
+WT 2018/19,Baden-Württemberg,SF190,Special Needs Education,1,19,20
+WT 2018/19,Baden-Württemberg,SF290,Other subjects,750,856,1606
+WT 2018/19,Baden-Württemberg,SF036,Other regional studies,2,7,9
+WT 2018/19,Baden-Württemberg,SF208,Social Work,282,1042,1324
+WT 2018/19,Baden-Württemberg,SF245,Social Pedagogy,14,136,150
+WT 2018/19,Baden-Württemberg,SF264,Social Security Administration,7,48,55
+WT 2018/19,Baden-Württemberg,SF253,Applied Social Science,45,115,160
+WT 2018/19,Baden-Württemberg,SF148,Social Sciences,25,60,85
+WT 2018/19,Baden-Württemberg,SF149,Sociology,86,237,323
+WT 2018/19,Baden-Württemberg,SF150,Spanish,34,163,197
+WT 2018/19,Baden-Württemberg,SF166,Sports Management/Sports Economics,40,8,48
+WT 2018/19,Baden-Württemberg,SF098,Sports Education/Sports Psychology,97,159,256
+WT 2018/19,Baden-Württemberg,SF029,Sports Science,149,115,264
+WT 2018/19,Baden-Württemberg,SF106,Dance Education,1,2,3
+WT 2018/19,Baden-Württemberg,SF144,Technical Cybernetics,40,14,54
+WT 2018/19,Baden-Württemberg,SF118,Technomathematics,26,16,42
+WT 2018/19,Baden-Württemberg,SF116,Textile Design,10,24,34
+WT 2018/19,Baden-Württemberg,SF225,Textile and Clothing Technology/Industry,15,58,73
+WT 2018/19,Baden-Württemberg,SF274,Tourism Management,27,120,147
+WT 2018/19,Baden-Württemberg,SF074,Transport and Conveying Technology,41,8,49
+WT 2018/19,Baden-Württemberg,SF457,Environmental Technology (including Recycling),30,22,52
+WT 2018/19,Baden-Württemberg,SF226,Process Engineering,198,151,349
+WT 2018/19,Baden-Württemberg,SF089,Transport Engineering,36,11,47
+WT 2018/19,Baden-Württemberg,SF210,Transport Economics,46,19,65
+WT 2018/19,Baden-Württemberg,SF171,Surveying (Geodesy),129,63,192
+WT 2018/19,Baden-Württemberg,SF213,Supply Technology,49,13,62
+WT 2018/19,Baden-Württemberg,SF174,Folklore,2,10,12
+WT 2018/19,Baden-Württemberg,SF175,Economics,469,311,780
+WT 2018/19,Baden-Württemberg,SF077,Water Management,40,25,65
+WT 2018/19,Baden-Württemberg,SF177,Materials Technology,35,20,55
+WT 2018/19,Baden-Württemberg,SF277,Business Informatics,1662,560,2222
+WT 2018/19,Baden-Württemberg,SF370,Business Engineering spec. in Engineering Sciences,1035,400,1435
+WT 2018/19,Baden-Württemberg,SF179,Business Engineering specialising in Economics,1135,410,1545
+WT 2018/19,Baden-Württemberg,SF276,Business Mathematics,152,90,242
+WT 2018/19,Baden-Württemberg,SF181,Business and Economics Education,82,135,217
+WT 2018/19,Baden-Württemberg,SF042,Business Law,323,507,830
+WT 2018/19,Baden-Württemberg,SF184,Business and Economics,722,648,1370
+WT 2018/19,Baden-Württemberg,SF275,History of Science/History of Technology,5,4,9
+WT 2018/19,Baden-Württemberg,SF185,Dentistry,63,103,166
+WT 2018/19,Bayern,SF002,African Studies,5,11,16
+WT 2018/19,Bayern,SF125,Agricultural Economics,37,29,66
+WT 2018/19,Bayern,SF003,Agricultural Science/Agriculture,244,126,370
+WT 2018/19,Bayern,SF001,Egyptology,46,47,93
+WT 2018/19,Bayern,SF152,General Linguistics/Indo-European Studies,21,120,141
+WT 2018/19,Bayern,SF188,General Literary Studies,12,28,40
+WT 2018/19,Bayern,SF006,American Studies,34,57,91
+WT 2018/19,Bayern,SF007,Applied Art,8,3,11
+WT 2018/19,Bayern,SF284,Applied Linguistics,22,74,96
+WT 2018/19,Bayern,SF140,Applied Systems Science,63,6,69
+WT 2018/19,Bayern,SF008,English Studies,406,994,1400
+WT 2018/19,Bayern,SF010,Arabic/Arabic Studies,2,1,3
+WT 2018/19,Bayern,SF011,Work Studies/Business Studies,7,19,26
+WT 2018/19,Bayern,SF012,Archaeology,213,199,412
+WT 2018/19,Bayern,SF013,Architecture,331,403,734
+WT 2018/19,Bayern,SF187,Asian Languages and Cultures/Asian Studies,18,35,53
+WT 2018/19,Bayern,SF014,Astrophysics and Astronomy,6,3,9
+WT 2018/19,Bayern,SF143,Ophthalmic Optics,4,11,15
+WT 2018/19,Bayern,SF017,Civil Engineering/Structural Engineering,960,380,1340
+WT 2018/19,Bayern,SF018,Occupation-specific Foreign Language Training,7,37,44
+WT 2018/19,Bayern,SF270,"Vocational, Business and Economics Education",35,33,68
+WT 2018/19,Bayern,SF021,Business Administration,3273,3307,6580
+WT 2018/19,Bayern,SF262,Librarianship,1,4,5
+WT 2018/19,Bayern,SF023,Fine Arts/Graphics,40,35,75
+WT 2018/19,Bayern,SF025,Biochemistry,145,197,342
+WT 2018/19,Bayern,SF221,Bioinformatics,47,39,86
+WT 2018/19,Bayern,SF026,Biology,464,980,1444
+WT 2018/19,Bayern,SF300,Biomedicine,12,62,74
+WT 2018/19,Bayern,SF282,Biotechnology,105,173,278
+WT 2018/19,Bayern,SF028,Brewing Science/Beverage Technology,98,28,126
+WT 2018/19,Bayern,SF162,Caritas Science,4,3,7
+WT 2018/19,Bayern,SF032,Chemistry,463,399,862
+WT 2018/19,Bayern,SF033,Chemical Engineering/Chemical Process Technology,231,159,390
+WT 2018/19,Bayern,SF160,Computer Linguistics,35,38,73
+WT 2018/19,Bayern,SF200,Computer and Communication Technology,111,147,258
+WT 2018/19,Bayern,SF035,Performing Arts/Stagecraft/Directing,1,6,7
+WT 2018/19,Bayern,SF271,German as a Foreign or Second Language,19,131,150
+WT 2018/19,Bayern,SF192,Conducting,9,3,12
+WT 2018/19,Bayern,SF231,Printing and Reproduction Technology,26,36,62
+WT 2018/19,Bayern,SF316,Electrical Power Engineering,66,19,85
+WT 2018/19,Bayern,SF048,Electrical Engineering/Electronics,1952,353,2305
+WT 2018/19,Bayern,SF211,Energy Process Engineering,256,94,350
+WT 2018/19,Bayern,SF320,Nutritional Science,5,13,18
+WT 2018/19,Bayern,SF052,Educational Science (Pedagogy),147,631,778
+WT 2018/19,Bayern,SF173,Ethnology,53,94,147
+WT 2018/19,Bayern,SF024,European Ethnology and Cultural Studies,39,147,186
+WT 2018/19,Bayern,SF167,European Economic Studies,23,36,59
+WT 2018/19,Bayern,SF544,"Protestant Religious Pedagogy, Church Educat. Work",5,13,18
+WT 2018/19,Bayern,SF053,"Protestant Theology, Protes. Religious Education",72,152,224
+WT 2018/19,Bayern,SF464,Facility Management,3,2,5
+WT 2018/19,Bayern,SF235,Automotive Technology,398,52,450
+WT 2018/19,Bayern,SF202,Manufacturing Technology/Production Engineering,73,20,93
+WT 2018/19,Bayern,SF054,Film and Television Studies,30,17,47
+WT 2018/19,Bayern,SF266,Financial Administration,17,30,47
+WT 2018/19,Bayern,SF056,Finno-Ugrian Studies,2,5,7
+WT 2018/19,Bayern,SF058,"Forest Science, Forestry",153,77,230
+WT 2018/19,Bayern,SF059,French,21,106,127
+WT 2018/19,Bayern,SF060,Horticulture,29,31,60
+WT 2018/19,Bayern,SF050,Geography,329,460,789
+WT 2018/19,Bayern,SF065,Geology/Palaeontology,3,3,6
+WT 2018/19,Bayern,SF385,Geoecology,7,23,30
+WT 2018/19,Bayern,SF066,Geophysics,2,5,7
+WT 2018/19,Bayern,SF039,Geosciences general,107,89,196
+WT 2018/19,Bayern,SF067,German Studies/German,470,1668,2138
+WT 2018/19,Bayern,SF230,Singing,13,13,26
+WT 2018/19,Bayern,SF068,History,244,284,528
+WT 2018/19,Bayern,SF195,Health Education,22,149,171
+WT 2018/19,Bayern,SF215,Health Technology,218,233,451
+WT 2018/19,Bayern,SF232,Health Science/Health Management,122,590,712
+WT 2018/19,Bayern,SF069,Graphic Design/Communication Design,83,220,303
+WT 2018/19,Bayern,SF070,Greek,9,19,28
+WT 2018/19,Bayern,SF115,Primary School Education/Primary Level Education,1,4,5
+WT 2018/19,Bayern,SF071,Domestic and Nutritional Sciences,12,137,149
+WT 2018/19,Bayern,SF082,Wood and Fibre Technology,78,18,96
+WT 2018/19,Bayern,SF197,Timber Construction,62,12,74
+WT 2018/19,Bayern,SF078,Indology,4,8,12
+WT 2018/19,Bayern,SF203,Industrial Design/Product Design,17,30,47
+WT 2018/19,Bayern,SF079,Computer Science,2475,576,3051
+WT 2018/19,Bayern,SF022,Inf./Library Scien. (not at univ. of app.adm.sci.),7,70,77
+WT 2018/19,Bayern,SF123,Computational Engineer./Technical Computer Science,329,60,389
+WT 2018/19,Bayern,SF242,Interior Architecture,24,108,132
+WT 2018/19,Bayern,SF261,Internal Administration,204,265,469
+WT 2018/19,Bayern,SF080,Instrumental Music,68,72,140
+WT 2018/19,Bayern,SF072,Interdisc. Studies (specialising in Engineering),295,128,423
+WT 2018/19,Bayern,SF049,Interdisc. Studies (special. in Natural Sciences),27,40,67
+WT 2018/19,Bayern,SF030,"Interdisc. St. (spec. in Law, Econ. and Soc. Sci.)",72,133,205
+WT 2018/19,Bayern,SF004,Interdisc. Studies (spec. in Humanities),69,313,382
+WT 2018/19,Bayern,SF182,International Business Studies/Management,488,917,1405
+WT 2018/19,Bayern,SF292,Islamic Studies/Islamic theology,5,10,15
+WT 2018/19,Bayern,SF083,Islamic Studies,4,7,11
+WT 2018/19,Bayern,SF084,Italian,16,63,79
+WT 2018/19,Bayern,SF085,Japanese Studies,32,71,103
+WT 2018/19,Bayern,SF164,Jazz and Popular Music,25,8,33
+WT 2018/19,Bayern,SF280,Cartography,38,42,80
+WT 2018/19,Bayern,SF545,"Catholic Religious Pedagogy, Church Educat. Work",15,35,50
+WT 2018/19,Bayern,SF086,"Catholic Theology, Catholic Religious Education",81,202,283
+WT 2018/19,Bayern,SF193,Church Music,6,3,9
+WT 2018/19,Bayern,SF005,Classical Philology,6,13,19
+WT 2018/19,Bayern,SF222,"Communication Technology, Information Engineering",48,25,73
+WT 2018/19,Bayern,SF303,Communication Science/Journalism,163,479,642
+WT 2018/19,Bayern,SF191,Composition,6,4,10
+WT 2018/19,Bayern,SF091,Arts Education,8,58,66
+WT 2018/19,Bayern,SF092,"Art History, Art Theory",86,237,323
+WT 2018/19,Bayern,SF219,Plastics Technology,64,18,82
+WT 2018/19,Bayern,SF093,Land Management Engineering/Landscape Design,54,108,162
+WT 2018/19,Bayern,SF095,Latin,41,58,99
+WT 2018/19,Bayern,SF096,Food Chemistry,16,39,55
+WT 2018/19,Bayern,SF097,Food Technology,45,103,148
+WT 2018/19,Bayern,SF090,Area of study: Humanities,9,64,73
+WT 2018/19,Bayern,SF186,Area of study: Natural Sciences/General Studies,28,33,61
+WT 2018/19,Bayern,SF057,Aeronautical and Aerospace Engineering,272,40,312
+WT 2018/19,Bayern,SF104,Mechanical Engineering,2028,307,2335
+WT 2018/19,Bayern,SF237,Math.Statistics/Prob.Calc. (class.w. SF312 s.2020),55,55,110
+WT 2018/19,Bayern,SF105,Mathematics,689,727,1416
+WT 2018/19,Bayern,SF380,Mechatronics,861,112,973
+WT 2018/19,Bayern,SF121,Media Informatics,188,104,292
+WT 2018/19,Bayern,SF305,Media Technology,134,208,342
+WT 2018/19,Bayern,SF304,Media Economics/Media Management,102,181,283
+WT 2018/19,Bayern,SF302,Media Science,54,152,206
+WT 2018/19,Bayern,SF107,Medicine (General Medicine),460,930,1390
+WT 2018/19,Bayern,SF247,Medical Informatics,104,80,184
+WT 2018/19,Bayern,SF108,Metals Technology,17,5,22
+WT 2018/19,Bayern,SF110,Meteorology,1,1,2
+WT 2018/19,Bayern,SF286,Microsystems Technology,49,16,65
+WT 2018/19,Bayern,SF273,Medieval and Modern History,7,7,14
+WT 2018/19,Bayern,SF113,Music Education,29,51,80
+WT 2018/19,Bayern,SF114,Musicology/History of Music,29,53,82
+WT 2018/19,Bayern,SF064,Nature Conservation,10,42,52
+WT 2018/19,Bayern,SF287,New Media,12,26,38
+WT 2018/19,Bayern,SF233,Non-medical Healthcare Professions/Therapies,53,196,249
+WT 2018/19,Bayern,SF120,"Nordic/Scand. St. (Nord. Phil., ind. lang. n.e.c.)",17,37,54
+WT 2018/19,Bayern,SF165,Orchestral Music,47,66,113
+WT 2018/19,Bayern,SF122,"Oriental Studies, Ancient Oriental Studies",38,55,93
+WT 2018/19,Bayern,SF044,Eastern and South Eastern Europe Studies,2,11,13
+WT 2018/19,Bayern,SF365,Early Childhood Education,3,43,46
+WT 2018/19,Bayern,SF234,Nursing Science/Nursing Management,47,239,286
+WT 2018/19,Bayern,SF126,Pharmacy,100,295,395
+WT 2018/19,Bayern,SF127,Philosophy,237,209,446
+WT 2018/19,Bayern,SF128,Physics,965,365,1330
+WT 2018/19,Bayern,SF224,Engineering Physics/Mechanical Process Engineering,216,90,306
+WT 2018/19,Bayern,SF129,Political Science,329,342,671
+WT 2018/19,Bayern,SF263,Police/Protection of the Constitution,114,33,147
+WT 2018/19,Bayern,SF206,Polish,1,8,9
+WT 2018/19,Bayern,SF132,Psychology,243,900,1143
+WT 2018/19,Bayern,SF256,Administration of Justice,46,94,140
+WT 2018/19,Bayern,SF135,Law,1398,2159,3557
+WT 2018/19,Bayern,SF310,Renewable Energy,39,4,43
+WT 2018/19,Bayern,SF136,Religious Studies,18,15,33
+WT 2018/19,Bayern,SF137,"Romance Studies (Rom. Phil., indiv. lang. n.e.c.)",35,123,158
+WT 2018/19,Bayern,SF139,Russian,5,12,17
+WT 2018/19,Bayern,SF145,Sinology/Korean Studies,22,68,90
+WT 2018/19,Bayern,SF146,Slavic Studies (Slavic Philology),11,26,37
+WT 2018/19,Bayern,SF190,Special Needs Education,55,407,462
+WT 2018/19,Bayern,SF036,Other regional studies,3,3,6
+WT 2018/19,Bayern,SF208,Social Work,178,888,1066
+WT 2018/19,Bayern,SF147,Social Studies,39,123,162
+WT 2018/19,Bayern,SF245,Social Pedagogy,30,222,252
+WT 2018/19,Bayern,SF264,Social Security Administration,13,56,69
+WT 2018/19,Bayern,SF253,Applied Social Science,153,862,1015
+WT 2018/19,Bayern,SF148,Social Sciences,199,201,400
+WT 2018/19,Bayern,SF149,Sociology,87,223,310
+WT 2018/19,Bayern,SF150,Spanish,5,16,21
+WT 2018/19,Bayern,SF166,Sports Management/Sports Economics,212,60,272
+WT 2018/19,Bayern,SF098,Sports Education/Sports Psychology,88,127,215
+WT 2018/19,Bayern,SF029,Sports Science,183,181,364
+WT 2018/19,Bayern,SF106,Dance Education,3,11,14
+WT 2018/19,Bayern,SF118,Technomathematics,67,41,108
+WT 2018/19,Bayern,SF116,Textile Design,12,55,67
+WT 2018/19,Bayern,SF225,Textile and Clothing Technology/Industry,17,13,30
+WT 2018/19,Bayern,SF155,Theatre Studies,29,110,139
+WT 2018/19,Bayern,SF156,Veterinary Medicine,43,214,257
+WT 2018/19,Bayern,SF274,Tourism Management,196,529,725
+WT 2018/19,Bayern,SF458,Environmental Protection,24,38,62
+WT 2018/19,Bayern,SF457,Environmental Technology (including Recycling),114,71,185
+WT 2018/19,Bayern,SF548,Prehistory and Early History,6,1,7
+WT 2018/19,Bayern,SF226,Process Engineering,80,61,141
+WT 2018/19,Bayern,SF089,Transport Engineering,52,27,79
+WT 2018/19,Bayern,SF171,Surveying (Geodesy),143,82,225
+WT 2018/19,Bayern,SF213,Supply Technology,94,25,119
+WT 2018/19,Bayern,SF172,Administrative Science/Public Administration,90,67,157
+WT 2018/19,Bayern,SF174,Folklore,16,27,43
+WT 2018/19,Bayern,SF175,Economics,314,254,568
+WT 2018/19,Bayern,SF094,Hydraulic Engineering,118,75,193
+WT 2018/19,Bayern,SF177,Materials Technology,188,73,261
+WT 2018/19,Bayern,SF277,Business Informatics,1179,390,1569
+WT 2018/19,Bayern,SF370,Business Engineering spec. in Engineering Sciences,1378,492,1870
+WT 2018/19,Bayern,SF179,Business Engineering specialising in Economics,347,138,485
+WT 2018/19,Bayern,SF276,Business Mathematics,135,117,252
+WT 2018/19,Bayern,SF181,Business and Economics Education,17,51,68
+WT 2018/19,Bayern,SF042,Business Law,68,109,177
+WT 2018/19,Bayern,SF184,Business and Economics,684,754,1438
+WT 2018/19,Bayern,SF185,Dentistry,74,132,206
+WT 2018/19,Bayern,SF269,Customs and Tax Administration,277,409,686
+WT 2018/19,Berlin,SF002,African Studies,29,65,94
+WT 2018/19,Berlin,SF125,Agricultural Economics,3,3,6
+WT 2018/19,Berlin,SF003,Agricultural Science/Agriculture,43,85,128
+WT 2018/19,Berlin,SF001,Egyptology,20,20,40
+WT 2018/19,Berlin,SF152,General Linguistics/Indo-European Studies,9,32,41
+WT 2018/19,Berlin,SF188,General Literary Studies,31,117,148
+WT 2018/19,Berlin,SF006,American Studies,58,81,139
+WT 2018/19,Berlin,SF284,Applied Linguistics,9,34,43
+WT 2018/19,Berlin,SF140,Applied Systems Science,65,36,101
+WT 2018/19,Berlin,SF008,English Studies,99,273,372
+WT 2018/19,Berlin,SF010,Arabic/Arabic Studies,5,22,27
+WT 2018/19,Berlin,SF011,Work Studies/Business Studies,13,30,43
+WT 2018/19,Berlin,SF012,Archaeology,40,86,126
+WT 2018/19,Berlin,SF013,Architecture,154,249,403
+WT 2018/19,Berlin,SF187,Asian Languages and Cultures/Asian Studies,1,1,2
+WT 2018/19,Berlin,SF143,Ophthalmic Optics,5,13,18
+WT 2018/19,Berlin,SF015,Non-Europ. Lang. and Cult. in Oceania and America,4,4,8
+WT 2018/19,Berlin,SF259,Foreign Affairs Administration,21,30,51
+WT 2018/19,Berlin,SF017,Civil Engineering/Structural Engineering,276,142,418
+WT 2018/19,Berlin,SF021,Business Administration,1061,1125,2186
+WT 2018/19,Berlin,SF205,Sculpting/Statuary Art,6,11,17
+WT 2018/19,Berlin,SF025,Biochemistry,15,37,52
+WT 2018/19,Berlin,SF221,Bioinformatics,39,43,82
+WT 2018/19,Berlin,SF026,Biology,110,263,373
+WT 2018/19,Berlin,SF031,Byzantine Studies,1,1,2
+WT 2018/19,Berlin,SF032,Chemistry,245,192,437
+WT 2018/19,Berlin,SF033,Chemical Engineering/Chemical Process Technology,34,72,106
+WT 2018/19,Berlin,SF200,Computer and Communication Technology,73,14,87
+WT 2018/19,Berlin,SF035,Performing Arts/Stagecraft/Directing,11,26,37
+WT 2018/19,Berlin,SF271,German as a Foreign or Second Language,3,9,12
+WT 2018/19,Berlin,SF192,Conducting,3,4,7
+WT 2018/19,Berlin,SF231,Printing and Reproduction Technology,12,15,27
+WT 2018/19,Berlin,SF048,Electrical Engineering/Electronics,514,92,606
+WT 2018/19,Berlin,SF211,Energy Process Engineering,105,42,147
+WT 2018/19,Berlin,SF052,Educational Science (Pedagogy),25,111,136
+WT 2018/19,Berlin,SF173,Ethnology,11,44,55
+WT 2018/19,Berlin,SF024,European Ethnology and Cultural Studies,28,119,147
+WT 2018/19,Berlin,SF167,European Economic Studies,10,14,24
+WT 2018/19,Berlin,SF544,"Protestant Religious Pedagogy, Church Educat. Work",10,15,25
+WT 2018/19,Berlin,SF053,"Protestant Theology, Protes. Religious Education",15,33,48
+WT 2018/19,Berlin,SF235,Automotive Technology,62,9,71
+WT 2018/19,Berlin,SF054,Film and Television Studies,40,63,103
+WT 2018/19,Berlin,SF059,French,16,44,60
+WT 2018/19,Berlin,SF060,Horticulture,76,66,142
+WT 2018/19,Berlin,SF050,Geography,133,112,245
+WT 2018/19,Berlin,SF066,Geophysics,1,1,2
+WT 2018/19,Berlin,SF039,Geosciences general,45,43,88
+WT 2018/19,Berlin,SF067,German Studies/German,123,374,497
+WT 2018/19,Berlin,SF230,Singing,10,16,26
+WT 2018/19,Berlin,SF068,History,222,211,433
+WT 2018/19,Berlin,SF195,Health Education,30,107,137
+WT 2018/19,Berlin,SF215,Health Technology,14,19,33
+WT 2018/19,Berlin,SF232,Health Science/Health Management,105,225,330
+WT 2018/19,Berlin,SF069,Graphic Design/Communication Design,165,317,482
+WT 2018/19,Berlin,SF070,Greek,2,5,7
+WT 2018/19,Berlin,SF115,Primary School Education/Primary Level Education,77,373,450
+WT 2018/19,Berlin,SF203,Industrial Design/Product Design,55,33,88
+WT 2018/19,Berlin,SF079,Computer Science,677,174,851
+WT 2018/19,Berlin,SF022,Inf./Library Scien. (not at univ. of app.adm.sci.),6,25,31
+WT 2018/19,Berlin,SF242,Interior Architecture,11,30,41
+WT 2018/19,Berlin,SF261,Internal Administration,38,156,194
+WT 2018/19,Berlin,SF080,Instrumental Music,37,27,64
+WT 2018/19,Berlin,SF072,Interdisc. Studies (specialising in Engineering),115,41,156
+WT 2018/19,Berlin,SF049,Interdisc. Studies (special. in Natural Sciences),11,21,32
+WT 2018/19,Berlin,SF030,"Interdisc. St. (spec. in Law, Econ. and Soc. Sci.)",43,45,88
+WT 2018/19,Berlin,SF004,Interdisc. Studies (spec. in Humanities),65,191,256
+WT 2018/19,Berlin,SF040,"Interdisc. Studies (special. in Art, Art Theory)",26,43,69
+WT 2018/19,Berlin,SF182,International Business Studies/Management,883,951,1834
+WT 2018/19,Berlin,SF081,Iranian Studies,3,13,16
+WT 2018/19,Berlin,SF083,Islamic Studies,18,20,38
+WT 2018/19,Berlin,SF084,Italian,7,31,38
+WT 2018/19,Berlin,SF085,Japanese Studies,23,25,48
+WT 2018/19,Berlin,SF164,Jazz and Popular Music,19,7,26
+WT 2018/19,Berlin,SF073,Judaic Studies/Hebrew,3,2,5
+WT 2018/19,Berlin,SF086,"Catholic Theology, Catholic Religious Education",1,3,4
+WT 2018/19,Berlin,SF193,Church Music,2,3,5
+WT 2018/19,Berlin,SF222,"Communication Technology, Information Engineering",281,54,335
+WT 2018/19,Berlin,SF303,Communication Science/Journalism,79,239,318
+WT 2018/19,Berlin,SF191,Composition,6,4,10
+WT 2018/19,Berlin,SF091,Arts Education,19,86,105
+WT 2018/19,Berlin,SF092,"Art History, Art Theory",52,164,216
+WT 2018/19,Berlin,SF093,Land Management Engineering/Landscape Design,14,18,32
+WT 2018/19,Berlin,SF095,Latin,13,15,28
+WT 2018/19,Berlin,SF038,Latin America Studies,12,25,37
+WT 2018/19,Berlin,SF096,Food Chemistry,8,15,23
+WT 2018/19,Berlin,SF097,Food Technology,12,26,38
+WT 2018/19,Berlin,SF204,Painting,7,10,17
+WT 2018/19,Berlin,SF104,Mechanical Engineering,490,87,577
+WT 2018/19,Berlin,SF237,Math.Statistics/Prob.Calc. (class.w. SF312 s.2020),21,12,33
+WT 2018/19,Berlin,SF105,Mathematics,319,252,571
+WT 2018/19,Berlin,SF121,Media Informatics,118,85,203
+WT 2018/19,Berlin,SF305,Media Technology,81,35,116
+WT 2018/19,Berlin,SF304,Media Economics/Media Management,62,111,173
+WT 2018/19,Berlin,SF302,Media Science,9,29,38
+WT 2018/19,Berlin,SF107,Medicine (General Medicine),138,219,357
+WT 2018/19,Berlin,SF110,Meteorology,37,26,63
+WT 2018/19,Berlin,SF286,Microsystems Technology,19,6,25
+WT 2018/19,Berlin,SF113,Music Education,18,28,46
+WT 2018/19,Berlin,SF114,Musicology/History of Music,44,55,99
+WT 2018/19,Berlin,SF287,New Media,3,10,13
+WT 2018/19,Berlin,SF043,Modern Greek,2,7,9
+WT 2018/19,Berlin,SF233,Non-medical Healthcare Professions/Therapies,9,90,99
+WT 2018/19,Berlin,SF119,Dutch,3,8,11
+WT 2018/19,Berlin,SF120,"Nordic/Scand. St. (Nord. Phil., ind. lang. n.e.c.)",21,48,69
+WT 2018/19,Berlin,SF165,Orchestral Music,26,28,54
+WT 2018/19,Berlin,SF122,"Oriental Studies, Ancient Oriental Studies",46,86,132
+WT 2018/19,Berlin,SF044,Eastern and South Eastern Europe Studies,3,16,19
+WT 2018/19,Berlin,SF365,Early Childhood Education,14,66,80
+WT 2018/19,Berlin,SF234,Nursing Science/Nursing Management,27,74,101
+WT 2018/19,Berlin,SF126,Pharmacy,34,65,99
+WT 2018/19,Berlin,SF127,Philosophy,101,97,198
+WT 2018/19,Berlin,SF128,Physics,678,301,979
+WT 2018/19,Berlin,SF224,Engineering Physics/Mechanical Process Engineering,48,12,60
+WT 2018/19,Berlin,SF129,Political Science,319,432,751
+WT 2018/19,Berlin,SF263,Police/Protection of the Constitution,212,111,323
+WT 2018/19,Berlin,SF132,Psychology,171,501,672
+WT 2018/19,Berlin,SF134,Spatial Planning,52,74,126
+WT 2018/19,Berlin,SF256,Administration of Justice,11,31,42
+WT 2018/19,Berlin,SF135,Law,349,623,972
+WT 2018/19,Berlin,SF310,Renewable Energy,49,11,60
+WT 2018/19,Berlin,SF136,Religious Studies,5,9,14
+WT 2018/19,Berlin,SF101,Restoration Studies,9,16,25
+WT 2018/19,Berlin,SF137,"Romance Studies (Rom. Phil., indiv. lang. n.e.c.)",34,71,105
+WT 2018/19,Berlin,SF139,Russian,8,19,27
+WT 2018/19,Berlin,SF254,General Studies (including School Garden),9,39,48
+WT 2018/19,Berlin,SF102,Drama Studies,8,9,17
+WT 2018/19,Berlin,SF142,Naval Architecture/Ship Technology,3,1,4
+WT 2018/19,Berlin,SF145,Sinology/Korean Studies,18,58,76
+WT 2018/19,Berlin,SF146,Slavic Studies (Slavic Philology),8,16,24
+WT 2018/19,Berlin,SF190,Special Needs Education,33,180,213
+WT 2018/19,Berlin,SF290,Other subjects,74,137,211
+WT 2018/19,Berlin,SF036,Other regional studies,5,33,38
+WT 2018/19,Berlin,SF208,Social Work,154,474,628
+WT 2018/19,Berlin,SF147,Social Studies,14,8,22
+WT 2018/19,Berlin,SF245,Social Pedagogy,16,43,59
+WT 2018/19,Berlin,SF264,Social Security Administration,41,111,152
+WT 2018/19,Berlin,SF253,Applied Social Science,18,39,57
+WT 2018/19,Berlin,SF148,Social Sciences,102,159,261
+WT 2018/19,Berlin,SF149,Sociology,47,66,113
+WT 2018/19,Berlin,SF150,Spanish,21,66,87
+WT 2018/19,Berlin,SF166,Sports Management/Sports Economics,24,15,39
+WT 2018/19,Berlin,SF098,Sports Education/Sports Psychology,60,37,97
+WT 2018/19,Berlin,SF029,Sports Science,17,8,25
+WT 2018/19,Berlin,SF106,Dance Education,8,22,30
+WT 2018/19,Berlin,SF118,Technomathematics,2,3,5
+WT 2018/19,Berlin,SF116,Textile Design,30,135,165
+WT 2018/19,Berlin,SF225,Textile and Clothing Technology/Industry,6,26,32
+WT 2018/19,Berlin,SF155,Theatre Studies,17,83,100
+WT 2018/19,Berlin,SF156,Veterinary Medicine,36,171,207
+WT 2018/19,Berlin,SF194,Sound Engineering,18,5,23
+WT 2018/19,Berlin,SF274,Tourism Management,15,64,79
+WT 2018/19,Berlin,SF158,Turkish Studies,4,14,18
+WT 2018/19,Berlin,SF458,Environmental Protection,19,57,76
+WT 2018/19,Berlin,SF457,Environmental Technology (including Recycling),51,56,107
+WT 2018/19,Berlin,SF226,Process Engineering,124,183,307
+WT 2018/19,Berlin,SF089,Transport Engineering,124,22,146
+WT 2018/19,Berlin,SF171,Surveying (Geodesy),93,28,121
+WT 2018/19,Berlin,SF213,Supply Technology,63,8,71
+WT 2018/19,Berlin,SF172,Administrative Science/Public Administration,15,36,51
+WT 2018/19,Berlin,SF175,Economics,278,177,455
+WT 2018/19,Berlin,SF177,Materials Technology,38,11,49
+WT 2018/19,Berlin,SF277,Business Informatics,355,145,500
+WT 2018/19,Berlin,SF370,Business Engineering spec. in Engineering Sciences,556,182,738
+WT 2018/19,Berlin,SF179,Business Engineering specialising in Economics,43,5,48
+WT 2018/19,Berlin,SF276,Business Mathematics,93,77,170
+WT 2018/19,Berlin,SF181,Business and Economics Education,9,18,27
+WT 2018/19,Berlin,SF042,Business Law,52,72,124
+WT 2018/19,Berlin,SF184,Business and Economics,101,120,221
+WT 2018/19,Berlin,SF185,Dentistry,13,29,42
+WT 2018/19,Brandenburg,SF003,Agricultural Science/Agriculture,12,17,29
+WT 2018/19,Brandenburg,SF152,General Linguistics/Indo-European Studies,12,72,84
+WT 2018/19,Brandenburg,SF008,English Studies,39,93,132
+WT 2018/19,Brandenburg,SF013,Architecture,75,111,186
+WT 2018/19,Brandenburg,SF037,Archive and Documentation Science,13,11,24
+WT 2018/19,Brandenburg,SF255,Archive Studies,10,15,25
+WT 2018/19,Brandenburg,SF014,Astrophysics and Astronomy,5,4,9
+WT 2018/19,Brandenburg,SF143,Ophthalmic Optics,2,4,6
+WT 2018/19,Brandenburg,SF017,Civil Engineering/Structural Engineering,138,39,177
+WT 2018/19,Brandenburg,SF021,Business Administration,278,247,525
+WT 2018/19,Brandenburg,SF025,Biochemistry,6,14,20
+WT 2018/19,Brandenburg,SF026,Biology,39,113,152
+WT 2018/19,Brandenburg,SF282,Biotechnology,61,45,106
+WT 2018/19,Brandenburg,SF032,Chemistry,27,20,47
+WT 2018/19,Brandenburg,SF160,Computer Linguistics,4,7,11
+WT 2018/19,Brandenburg,SF200,Computer and Communication Technology,24,3,27
+WT 2018/19,Brandenburg,SF048,Electrical Engineering/Electronics,67,10,77
+WT 2018/19,Brandenburg,SF320,Nutritional Science,14,54,68
+WT 2018/19,Brandenburg,SF052,Educational Science (Pedagogy),4,21,25
+WT 2018/19,Brandenburg,SF053,"Protestant Theology, Protes. Religious Education",5,7,12
+WT 2018/19,Brandenburg,SF054,Film and Television Studies,23,35,58
+WT 2018/19,Brandenburg,SF058,"Forest Science, Forestry",58,53,111
+WT 2018/19,Brandenburg,SF059,French,2,13,15
+WT 2018/19,Brandenburg,SF050,Geography,4,3,7
+WT 2018/19,Brandenburg,SF385,Geoecology,18,35,53
+WT 2018/19,Brandenburg,SF039,Geosciences general,74,36,110
+WT 2018/19,Brandenburg,SF067,German Studies/German,37,203,240
+WT 2018/19,Brandenburg,SF068,History,94,85,179
+WT 2018/19,Brandenburg,SF069,Graphic Design/Communication Design,19,40,59
+WT 2018/19,Brandenburg,SF115,Primary School Education/Primary Level Education,9,41,50
+WT 2018/19,Brandenburg,SF082,Wood and Fibre Technology,32,5,37
+WT 2018/19,Brandenburg,SF203,Industrial Design/Product Design,6,9,15
+WT 2018/19,Brandenburg,SF079,Computer Science,310,69,379
+WT 2018/19,Brandenburg,SF022,Inf./Library Scien. (not at univ. of app.adm.sci.),8,27,35
+WT 2018/19,Brandenburg,SF123,Computational Engineer./Technical Computer Science,18,6,24
+WT 2018/19,Brandenburg,SF072,Interdisc. Studies (specialising in Engineering),43,5,48
+WT 2018/19,Brandenburg,SF030,"Interdisc. St. (spec. in Law, Econ. and Soc. Sci.)",21,26,47
+WT 2018/19,Brandenburg,SF004,Interdisc. Studies (spec. in Humanities),67,230,297
+WT 2018/19,Brandenburg,SF182,International Business Studies/Management,146,173,319
+WT 2018/19,Brandenburg,SF084,Italian,1,1,2
+WT 2018/19,Brandenburg,SF073,Judaic Studies/Hebrew,4,19,23
+WT 2018/19,Brandenburg,SF222,"Communication Technology, Information Engineering",9,1,10
+WT 2018/19,Brandenburg,SF093,Land Management Engineering/Landscape Design,12,30,42
+WT 2018/19,Brandenburg,SF095,Latin,1,9,10
+WT 2018/19,Brandenburg,SF090,Area of study: Humanities,3,7,10
+WT 2018/19,Brandenburg,SF199,Area of study: Technology,9,6,15
+WT 2018/19,Brandenburg,SF057,Aeronautical and Aerospace Engineering,37,8,45
+WT 2018/19,Brandenburg,SF104,Mechanical Engineering,131,16,147
+WT 2018/19,Brandenburg,SF105,Mathematics,66,60,126
+WT 2018/19,Brandenburg,SF380,Mechatronics,56,4,60
+WT 2018/19,Brandenburg,SF121,Media Informatics,10,5,15
+WT 2018/19,Brandenburg,SF304,Media Economics/Media Management,1,2,3
+WT 2018/19,Brandenburg,SF302,Media Science,11,39,50
+WT 2018/19,Brandenburg,SF247,Medical Informatics,22,12,34
+WT 2018/19,Brandenburg,SF113,Music Education,14,21,35
+WT 2018/19,Brandenburg,SF064,Nature Conservation,3,2,5
+WT 2018/19,Brandenburg,SF233,Non-medical Healthcare Professions/Therapies,17,32,49
+WT 2018/19,Brandenburg,SF234,Nursing Science/Nursing Management,3,6,9
+WT 2018/19,Brandenburg,SF127,Philosophy,38,41,79
+WT 2018/19,Brandenburg,SF128,Physics,49,25,74
+WT 2018/19,Brandenburg,SF224,Engineering Physics/Mechanical Process Engineering,19,4,23
+WT 2018/19,Brandenburg,SF129,Political Science,98,88,186
+WT 2018/19,Brandenburg,SF263,Police/Protection of the Constitution,81,33,114
+WT 2018/19,Brandenburg,SF206,Polish,2,1,3
+WT 2018/19,Brandenburg,SF132,Psychology,31,96,127
+WT 2018/19,Brandenburg,SF134,Spatial Planning,61,82,143
+WT 2018/19,Brandenburg,SF135,Law,209,367,576
+WT 2018/19,Brandenburg,SF136,Religious Studies,4,6,10
+WT 2018/19,Brandenburg,SF101,Restoration Studies,4,10,14
+WT 2018/19,Brandenburg,SF137,"Romance Studies (Rom. Phil., indiv. lang. n.e.c.)",2,4,6
+WT 2018/19,Brandenburg,SF139,Russian,2,3,5
+WT 2018/19,Brandenburg,SF102,Drama Studies,3,3,6
+WT 2018/19,Brandenburg,SF146,Slavic Studies (Slavic Philology),5,14,19
+WT 2018/19,Brandenburg,SF290,Other subjects,21,12,33
+WT 2018/19,Brandenburg,SF208,Social Work,38,125,163
+WT 2018/19,Brandenburg,SF245,Social Pedagogy,9,47,56
+WT 2018/19,Brandenburg,SF253,Applied Social Science,12,55,67
+WT 2018/19,Brandenburg,SF149,Sociology,18,48,66
+WT 2018/19,Brandenburg,SF150,Spanish,3,17,20
+WT 2018/19,Brandenburg,SF166,Sports Management/Sports Economics,20,17,37
+WT 2018/19,Brandenburg,SF029,Sports Science,92,57,149
+WT 2018/19,Brandenburg,SF458,Environmental Protection,120,75,195
+WT 2018/19,Brandenburg,SF172,Administrative Science/Public Administration,59,96,155
+WT 2018/19,Brandenburg,SF175,Economics,28,27,55
+WT 2018/19,Brandenburg,SF094,Hydraulic Engineering,6,8,14
+WT 2018/19,Brandenburg,SF277,Business Informatics,122,22,144
+WT 2018/19,Brandenburg,SF370,Business Engineering spec. in Engineering Sciences,110,43,153
+WT 2018/19,Brandenburg,SF179,Business Engineering specialising in Economics,32,16,48
+WT 2018/19,Brandenburg,SF276,Business Mathematics,7,2,9
+WT 2018/19,Brandenburg,SF184,Business and Economics,75,61,136
+WT 2018/19,Brandenburg,SF269,Customs and Tax Administration,102,134,236
+WT 2018/19,Bremen,SF152,General Linguistics/Indo-European Studies,1,12,13
+WT 2018/19,Bremen,SF140,Applied Systems Science,52,5,57
+WT 2018/19,Bremen,SF008,English Studies,27,88,115
+WT 2018/19,Bremen,SF013,Architecture,25,43,68
+WT 2018/19,Bremen,SF017,Civil Engineering/Structural Engineering,70,24,94
+WT 2018/19,Bremen,SF018,Occupation-specific Foreign Language Training,33,29,62
+WT 2018/19,Bremen,SF270,"Vocational, Business and Economics Education",6,3,9
+WT 2018/19,Bremen,SF021,Business Administration,438,381,819
+WT 2018/19,Bremen,SF205,Sculpting/Statuary Art,3,13,16
+WT 2018/19,Bremen,SF025,Biochemistry,16,24,40
+WT 2018/19,Bremen,SF026,Biology,50,79,129
+WT 2018/19,Bremen,SF300,Biomedicine,4,6,10
+WT 2018/19,Bremen,SF282,Biotechnology,44,62,106
+WT 2018/19,Bremen,SF032,Chemistry,47,37,84
+WT 2018/19,Bremen,SF316,Electrical Power Engineering,29,4,33
+WT 2018/19,Bremen,SF048,Electrical Engineering/Electronics,143,47,190
+WT 2018/19,Bremen,SF052,Educational Science (Pedagogy),6,31,37
+WT 2018/19,Bremen,SF202,Manufacturing Technology/Production Engineering,52,14,66
+WT 2018/19,Bremen,SF059,French,5,19,24
+WT 2018/19,Bremen,SF050,Geography,34,31,65
+WT 2018/19,Bremen,SF385,Geoecology,3,5,8
+WT 2018/19,Bremen,SF039,Geosciences general,59,34,93
+WT 2018/19,Bremen,SF067,German Studies/German,23,113,136
+WT 2018/19,Bremen,SF068,History,21,15,36
+WT 2018/19,Bremen,SF215,Health Technology,31,27,58
+WT 2018/19,Bremen,SF232,Health Science/Health Management,46,183,229
+WT 2018/19,Bremen,SF069,Graphic Design/Communication Design,14,36,50
+WT 2018/19,Bremen,SF079,Computer Science,219,72,291
+WT 2018/19,Bremen,SF123,Computational Engineer./Technical Computer Science,59,4,63
+WT 2018/19,Bremen,SF080,Instrumental Music,24,26,50
+WT 2018/19,Bremen,SF049,Interdisc. Studies (special. in Natural Sciences),3,8,11
+WT 2018/19,Bremen,SF030,"Interdisc. St. (spec. in Law, Econ. and Soc. Sci.)",32,44,76
+WT 2018/19,Bremen,SF004,Interdisc. Studies (spec. in Humanities),9,53,62
+WT 2018/19,Bremen,SF182,International Business Studies/Management,87,111,198
+WT 2018/19,Bremen,SF303,Communication Science/Journalism,17,55,72
+WT 2018/19,Bremen,SF092,"Art History, Art Theory",7,23,30
+WT 2018/19,Bremen,SF097,Food Technology,27,37,64
+WT 2018/19,Bremen,SF057,Aeronautical and Aerospace Engineering,66,17,83
+WT 2018/19,Bremen,SF104,Mechanical Engineering,63,4,67
+WT 2018/19,Bremen,SF105,Mathematics,54,57,111
+WT 2018/19,Bremen,SF380,Mechatronics,48,7,55
+WT 2018/19,Bremen,SF121,Media Informatics,65,42,107
+WT 2018/19,Bremen,SF111,Mineralogy,22,2,24
+WT 2018/19,Bremen,SF113,Music Education,2,7,9
+WT 2018/19,Bremen,SF114,Musicology/History of Music,9,13,22
+WT 2018/19,Bremen,SF223,Nautical Science/Maritime Studies,23,2,25
+WT 2018/19,Bremen,SF287,New Media,27,39,66
+WT 2018/19,Bremen,SF234,Nursing Science/Nursing Management,15,43,58
+WT 2018/19,Bremen,SF127,Philosophy,19,15,34
+WT 2018/19,Bremen,SF128,Physics,59,32,91
+WT 2018/19,Bremen,SF224,Engineering Physics/Mechanical Process Engineering,6,1,7
+WT 2018/19,Bremen,SF129,Political Science,98,75,173
+WT 2018/19,Bremen,SF263,Police/Protection of the Constitution,72,35,107
+WT 2018/19,Bremen,SF132,Psychology,43,157,200
+WT 2018/19,Bremen,SF135,Law,92,178,270
+WT 2018/19,Bremen,SF142,Naval Architecture/Ship Technology,28,9,37
+WT 2018/19,Bremen,SF190,Special Needs Education,6,41,47
+WT 2018/19,Bremen,SF290,Other subjects,49,29,78
+WT 2018/19,Bremen,SF253,Applied Social Science,23,54,77
+WT 2018/19,Bremen,SF148,Social Sciences,1,4,5
+WT 2018/19,Bremen,SF149,Sociology,41,101,142
+WT 2018/19,Bremen,SF150,Spanish,4,21,25
+WT 2018/19,Bremen,SF118,Technomathematics,8,5,13
+WT 2018/19,Bremen,SF274,Tourism Management,15,48,63
+WT 2018/19,Bremen,SF457,Environmental Technology (including Recycling),11,11,22
+WT 2018/19,Bremen,SF226,Process Engineering,39,15,54
+WT 2018/19,Bremen,SF089,Transport Engineering,34,15,49
+WT 2018/19,Bremen,SF172,Administrative Science/Public Administration,32,59,91
+WT 2018/19,Bremen,SF277,Business Informatics,64,14,78
+WT 2018/19,Bremen,SF370,Business Engineering spec. in Engineering Sciences,104,39,143
+WT 2018/19,Bremen,SF179,Business Engineering specialising in Economics,22,11,33
+WT 2018/19,Bremen,SF042,Business Law,27,20,47
+WT 2018/19,Bremen,SF184,Business and Economics,43,31,74
+WT 2018/19,Hamburg,SF002,African Studies,15,22,37
+WT 2018/19,Hamburg,SF152,General Linguistics/Indo-European Studies,11,32,43
+WT 2018/19,Hamburg,SF006,American Studies,1,1,2
+WT 2018/19,Hamburg,SF007,Applied Art,3,11,14
+WT 2018/19,Hamburg,SF284,Applied Linguistics,2,8,10
+WT 2018/19,Hamburg,SF140,Applied Systems Science,13,10,23
+WT 2018/19,Hamburg,SF008,English Studies,16,82,98
+WT 2018/19,Hamburg,SF009,Anthropology (Human Biology),2,2,4
+WT 2018/19,Hamburg,SF012,Archaeology,7,8,15
+WT 2018/19,Hamburg,SF013,Architecture,32,60,92
+WT 2018/19,Hamburg,SF037,Archive and Documentation Science,11,40,51
+WT 2018/19,Hamburg,SF187,Asian Languages and Cultures/Asian Studies,10,8,18
+WT 2018/19,Hamburg,SF015,Non-Europ. Lang. and Cult. in Oceania and America,12,13,25
+WT 2018/19,Hamburg,SF017,Civil Engineering/Structural Engineering,230,79,309
+WT 2018/19,Hamburg,SF021,Business Administration,772,806,1578
+WT 2018/19,Hamburg,SF023,Fine Arts/Graphics,51,67,118
+WT 2018/19,Hamburg,SF025,Biochemistry,13,26,39
+WT 2018/19,Hamburg,SF026,Biology,89,195,284
+WT 2018/19,Hamburg,SF282,Biotechnology,39,41,80
+WT 2018/19,Hamburg,SF032,Chemistry,65,53,118
+WT 2018/19,Hamburg,SF048,Electrical Engineering/Electronics,151,20,171
+WT 2018/19,Hamburg,SF211,Energy Process Engineering,34,11,45
+WT 2018/19,Hamburg,SF052,Educational Science (Pedagogy),213,539,752
+WT 2018/19,Hamburg,SF173,Ethnology,8,28,36
+WT 2018/19,Hamburg,SF053,"Protestant Theology, Protes. Religious Education",10,13,23
+WT 2018/19,Hamburg,SF464,Facility Management,10,6,16
+WT 2018/19,Hamburg,SF235,Automotive Technology,58,6,64
+WT 2018/19,Hamburg,SF202,Manufacturing Technology/Production Engineering,54,12,66
+WT 2018/19,Hamburg,SF266,Financial Administration,40,65,105
+WT 2018/19,Hamburg,SF056,Finno-Ugrian Studies,4,7,11
+WT 2018/19,Hamburg,SF059,French,5,10,15
+WT 2018/19,Hamburg,SF050,Geography,22,39,61
+WT 2018/19,Hamburg,SF066,Geophysics,15,27,42
+WT 2018/19,Hamburg,SF039,Geosciences general,34,26,60
+WT 2018/19,Hamburg,SF067,German Studies/German,39,130,169
+WT 2018/19,Hamburg,SF230,Singing,6,12,18
+WT 2018/19,Hamburg,SF068,History,76,36,112
+WT 2018/19,Hamburg,SF195,Health Education,2,24,26
+WT 2018/19,Hamburg,SF215,Health Technology,20,18,38
+WT 2018/19,Hamburg,SF232,Health Science/Health Management,43,119,162
+WT 2018/19,Hamburg,SF069,Graphic Design/Communication Design,51,72,123
+WT 2018/19,Hamburg,SF071,Domestic and Nutritional Sciences,9,44,53
+WT 2018/19,Hamburg,SF078,Indology,4,8,12
+WT 2018/19,Hamburg,SF203,Industrial Design/Product Design,8,4,12
+WT 2018/19,Hamburg,SF079,Computer Science,185,44,229
+WT 2018/19,Hamburg,SF022,Inf./Library Scien. (not at univ. of app.adm.sci.),5,33,38
+WT 2018/19,Hamburg,SF123,Computational Engineer./Technical Computer Science,197,31,228
+WT 2018/19,Hamburg,SF080,Instrumental Music,28,36,64
+WT 2018/19,Hamburg,SF072,Interdisc. Studies (specialising in Engineering),127,62,189
+WT 2018/19,Hamburg,SF049,Interdisc. Studies (special. in Natural Sciences),35,33,68
+WT 2018/19,Hamburg,SF030,"Interdisc. St. (spec. in Law, Econ. and Soc. Sci.)",116,171,287
+WT 2018/19,Hamburg,SF004,Interdisc. Studies (spec. in Humanities),15,27,42
+WT 2018/19,Hamburg,SF182,International Business Studies/Management,210,199,409
+WT 2018/19,Hamburg,SF081,Iranian Studies,3,8,11
+WT 2018/19,Hamburg,SF083,Islamic Studies,6,9,15
+WT 2018/19,Hamburg,SF085,Japanese Studies,15,27,42
+WT 2018/19,Hamburg,SF164,Jazz and Popular Music,8,2,10
+WT 2018/19,Hamburg,SF005,Classical Philology,4,5,9
+WT 2018/19,Hamburg,SF222,"Communication Technology, Information Engineering",53,20,73
+WT 2018/19,Hamburg,SF303,Communication Science/Journalism,26,27,53
+WT 2018/19,Hamburg,SF191,Composition,1,2,3
+WT 2018/19,Hamburg,SF091,Arts Education,8,39,47
+WT 2018/19,Hamburg,SF092,"Art History, Art Theory",5,41,46
+WT 2018/19,Hamburg,SF096,Food Chemistry,10,19,29
+WT 2018/19,Hamburg,SF057,Aeronautical and Aerospace Engineering,45,15,60
+WT 2018/19,Hamburg,SF104,Mechanical Engineering,435,64,499
+WT 2018/19,Hamburg,SF105,Mathematics,45,21,66
+WT 2018/19,Hamburg,SF380,Mechatronics,128,9,137
+WT 2018/19,Hamburg,SF305,Media Technology,31,22,53
+WT 2018/19,Hamburg,SF304,Media Economics/Media Management,50,82,132
+WT 2018/19,Hamburg,SF302,Media Science,8,27,35
+WT 2018/19,Hamburg,SF107,Medicine (General Medicine),126,185,311
+WT 2018/19,Hamburg,SF247,Medical Informatics,1,1,2
+WT 2018/19,Hamburg,SF108,Metals Technology,6,2,8
+WT 2018/19,Hamburg,SF110,Meteorology,21,16,37
+WT 2018/19,Hamburg,SF157,Microelectronics,23,10,33
+WT 2018/19,Hamburg,SF114,Musicology/History of Music,29,33,62
+WT 2018/19,Hamburg,SF043,Modern Greek,2,3,5
+WT 2018/19,Hamburg,SF233,Non-medical Healthcare Professions/Therapies,15,53,68
+WT 2018/19,Hamburg,SF122,"Oriental Studies, Ancient Oriental Studies",3,1,4
+WT 2018/19,Hamburg,SF365,Early Childhood Education,6,29,35
+WT 2018/19,Hamburg,SF234,Nursing Science/Nursing Management,60,218,278
+WT 2018/19,Hamburg,SF126,Pharmacy,18,39,57
+WT 2018/19,Hamburg,SF127,Philosophy,40,41,81
+WT 2018/19,Hamburg,SF128,Physics,191,62,253
+WT 2018/19,Hamburg,SF129,Political Science,100,53,153
+WT 2018/19,Hamburg,SF263,Police/Protection of the Constitution,65,79,144
+WT 2018/19,Hamburg,SF131,Portuguese,5,9,14
+WT 2018/19,Hamburg,SF132,Psychology,291,658,949
+WT 2018/19,Hamburg,SF134,Spatial Planning,32,54,86
+WT 2018/19,Hamburg,SF135,Law,232,327,559
+WT 2018/19,Hamburg,SF310,Renewable Energy,30,8,38
+WT 2018/19,Hamburg,SF136,Religious Studies,10,10,20
+WT 2018/19,Hamburg,SF137,"Romance Studies (Rom. Phil., indiv. lang. n.e.c.)",1,1,2
+WT 2018/19,Hamburg,SF102,Drama Studies,2,4,6
+WT 2018/19,Hamburg,SF142,Naval Architecture/Ship Technology,21,6,27
+WT 2018/19,Hamburg,SF145,Sinology/Korean Studies,9,35,44
+WT 2018/19,Hamburg,SF146,Slavic Studies (Slavic Philology),6,13,19
+WT 2018/19,Hamburg,SF290,Other subjects,126,44,170
+WT 2018/19,Hamburg,SF208,Social Work,60,277,337
+WT 2018/19,Hamburg,SF245,Social Pedagogy,62,200,262
+WT 2018/19,Hamburg,SF148,Social Sciences,3,3,6
+WT 2018/19,Hamburg,SF149,Sociology,28,89,117
+WT 2018/19,Hamburg,SF150,Spanish,6,12,18
+WT 2018/19,Hamburg,SF166,Sports Management/Sports Economics,23,8,31
+WT 2018/19,Hamburg,SF029,Sports Science,27,9,36
+WT 2018/19,Hamburg,SF118,Technomathematics,30,12,42
+WT 2018/19,Hamburg,SF116,Textile Design,8,32,40
+WT 2018/19,Hamburg,SF274,Tourism Management,13,51,64
+WT 2018/19,Hamburg,SF158,Turkish Studies,1,6,7
+WT 2018/19,Hamburg,SF457,Environmental Technology (including Recycling),36,27,63
+WT 2018/19,Hamburg,SF548,Prehistory and Early History,5,7,12
+WT 2018/19,Hamburg,SF226,Process Engineering,59,36,95
+WT 2018/19,Hamburg,SF210,Transport Economics,6,3,9
+WT 2018/19,Hamburg,SF171,Surveying (Geodesy),28,11,39
+WT 2018/19,Hamburg,SF172,Administrative Science/Public Administration,15,58,73
+WT 2018/19,Hamburg,SF174,Folklore,1,14,15
+WT 2018/19,Hamburg,SF175,Economics,154,49,203
+WT 2018/19,Hamburg,SF201,Handicrafts (technical)/Technology,9,26,35
+WT 2018/19,Hamburg,SF277,Business Informatics,143,31,174
+WT 2018/19,Hamburg,SF370,Business Engineering spec. in Engineering Sciences,81,22,103
+WT 2018/19,Hamburg,SF179,Business Engineering specialising in Economics,277,104,381
+WT 2018/19,Hamburg,SF276,Business Mathematics,43,34,77
+WT 2018/19,Hamburg,SF042,Business Law,32,46,78
+WT 2018/19,Hamburg,SF184,Business and Economics,59,29,88
+WT 2018/19,Hamburg,SF185,Dentistry,21,33,54
+WT 2018/19,Hessen,SF138,Agricultural Biology,22,23,45
+WT 2018/19,Hessen,SF125,Agricultural Economics,24,15,39
+WT 2018/19,Hessen,SF003,Agricultural Science/Agriculture,161,172,333
+WT 2018/19,Hessen,SF152,General Linguistics/Indo-European Studies,18,45,63
+WT 2018/19,Hessen,SF188,General Literary Studies,12,42,54
+WT 2018/19,Hessen,SF006,American Studies,17,31,48
+WT 2018/19,Hessen,SF007,Applied Art,16,12,28
+WT 2018/19,Hessen,SF284,Applied Linguistics,11,48,59
+WT 2018/19,Hessen,SF008,English Studies,103,322,425
+WT 2018/19,Hessen,SF009,Anthropology (Human Biology),23,37,60
+WT 2018/19,Hessen,SF011,Work Studies/Business Studies,6,13,19
+WT 2018/19,Hessen,SF012,Archaeology,15,27,42
+WT 2018/19,Hessen,SF013,Architecture,316,426,742
+WT 2018/19,Hessen,SF255,Archive Studies,11,9,20
+WT 2018/19,Hessen,SF187,Asian Languages and Cultures/Asian Studies,7,16,23
+WT 2018/19,Hessen,SF017,Civil Engineering/Structural Engineering,740,371,1111
+WT 2018/19,Hessen,SF270,"Vocational, Business and Economics Education",21,5,26
+WT 2018/19,Hessen,SF021,Business Administration,1362,1293,2655
+WT 2018/19,Hessen,SF023,Fine Arts/Graphics,7,16,23
+WT 2018/19,Hessen,SF025,Biochemistry,42,79,121
+WT 2018/19,Hessen,SF221,Bioinformatics,49,28,77
+WT 2018/19,Hessen,SF026,Biology,257,515,772
+WT 2018/19,Hessen,SF300,Biomedicine,1,1,2
+WT 2018/19,Hessen,SF282,Biotechnology,29,28,57
+WT 2018/19,Hessen,SF032,Chemistry,282,277,559
+WT 2018/19,Hessen,SF033,Chemical Engineering/Chemical Process Technology,79,33,112
+WT 2018/19,Hessen,SF200,Computer and Communication Technology,44,68,112
+WT 2018/19,Hessen,SF035,Performing Arts/Stagecraft/Directing,3,3,6
+WT 2018/19,Hessen,SF316,Electrical Power Engineering,8,4,12
+WT 2018/19,Hessen,SF048,Electrical Engineering/Electronics,893,173,1066
+WT 2018/19,Hessen,SF211,Energy Process Engineering,29,4,33
+WT 2018/19,Hessen,SF320,Nutritional Science,19,92,111
+WT 2018/19,Hessen,SF321,Adult Education and Extracurricular Youth Educat.,27,114,141
+WT 2018/19,Hessen,SF052,Educational Science (Pedagogy),57,334,391
+WT 2018/19,Hessen,SF169,Ethics,5,6,11
+WT 2018/19,Hessen,SF173,Ethnology,32,57,89
+WT 2018/19,Hessen,SF024,European Ethnology and Cultural Studies,12,24,36
+WT 2018/19,Hessen,SF053,"Protestant Theology, Protes. Religious Education",66,66,132
+WT 2018/19,Hessen,SF464,Facility Management,28,15,43
+WT 2018/19,Hessen,SF235,Automotive Technology,21,1,22
+WT 2018/19,Hessen,SF054,Film and Television Studies,17,13,30
+WT 2018/19,Hessen,SF059,French,4,30,34
+WT 2018/19,Hessen,SF060,Horticulture,18,10,28
+WT 2018/19,Hessen,SF050,Geography,185,180,365
+WT 2018/19,Hessen,SF039,Geosciences general,93,68,161
+WT 2018/19,Hessen,SF067,German Studies/German,182,716,898
+WT 2018/19,Hessen,SF230,Singing,1,3,4
+WT 2018/19,Hessen,SF068,History,181,132,313
+WT 2018/19,Hessen,SF195,Health Education,22,43,65
+WT 2018/19,Hessen,SF215,Health Technology,362,295,657
+WT 2018/19,Hessen,SF232,Health Science/Health Management,130,435,565
+WT 2018/19,Hessen,SF069,Graphic Design/Communication Design,110,240,350
+WT 2018/19,Hessen,SF070,Greek,1,4,5
+WT 2018/19,Hessen,SF071,Domestic and Nutritional Sciences,70,233,303
+WT 2018/19,Hessen,SF203,Industrial Design/Product Design,31,38,69
+WT 2018/19,Hessen,SF079,Computer Science,1631,357,1988
+WT 2018/19,Hessen,SF123,Computational Engineer./Technical Computer Science,59,7,66
+WT 2018/19,Hessen,SF242,Interior Architecture,11,90,101
+WT 2018/19,Hessen,SF080,Instrumental Music,26,38,64
+WT 2018/19,Hessen,SF072,Interdisc. Studies (specialising in Engineering),98,119,217
+WT 2018/19,Hessen,SF049,Interdisc. Studies (special. in Natural Sciences),25,32,57
+WT 2018/19,Hessen,SF030,"Interdisc. St. (spec. in Law, Econ. and Soc. Sci.)",85,187,272
+WT 2018/19,Hessen,SF004,Interdisc. Studies (spec. in Humanities),7,35,42
+WT 2018/19,Hessen,SF040,"Interdisc. Studies (special. in Art, Art Theory)",15,45,60
+WT 2018/19,Hessen,SF182,International Business Studies/Management,201,282,483
+WT 2018/19,Hessen,SF081,Iranian Studies,1,3,4
+WT 2018/19,Hessen,SF292,Islamic Studies/Islamic theology,8,19,27
+WT 2018/19,Hessen,SF085,Japanese Studies,25,33,58
+WT 2018/19,Hessen,SF073,Judaic Studies/Hebrew,1,2,3
+WT 2018/19,Hessen,SF086,"Catholic Theology, Catholic Religious Education",25,12,37
+WT 2018/19,Hessen,SF222,"Communication Technology, Information Engineering",61,22,83
+WT 2018/19,Hessen,SF303,Communication Science/Journalism,8,23,31
+WT 2018/19,Hessen,SF191,Composition,1,1,2
+WT 2018/19,Hessen,SF091,Arts Education,4,38,42
+WT 2018/19,Hessen,SF092,"Art History, Art Theory",39,151,190
+WT 2018/19,Hessen,SF219,Plastics Technology,21,8,29
+WT 2018/19,Hessen,SF093,Land Management Engineering/Landscape Design,33,53,86
+WT 2018/19,Hessen,SF095,Latin,3,12,15
+WT 2018/19,Hessen,SF096,Food Chemistry,12,28,40
+WT 2018/19,Hessen,SF097,Food Technology,44,60,104
+WT 2018/19,Hessen,SF204,Painting,6,9,15
+WT 2018/19,Hessen,SF104,Mechanical Engineering,1042,124,1166
+WT 2018/19,Hessen,SF294,Materials Engineering,11,3,14
+WT 2018/19,Hessen,SF105,Mathematics,410,753,1163
+WT 2018/19,Hessen,SF380,Mechatronics,419,39,458
+WT 2018/19,Hessen,SF121,Media Informatics,239,188,427
+WT 2018/19,Hessen,SF304,Media Economics/Media Management,40,79,119
+WT 2018/19,Hessen,SF302,Media Science,23,57,80
+WT 2018/19,Hessen,SF107,Medicine (General Medicine),314,588,902
+WT 2018/19,Hessen,SF247,Medical Informatics,9,12,21
+WT 2018/19,Hessen,SF108,Metals Technology,10,8,18
+WT 2018/19,Hessen,SF110,Meteorology,17,13,30
+WT 2018/19,Hessen,SF273,Medieval and Modern History,9,6,15
+WT 2018/19,Hessen,SF113,Music Education,13,23,36
+WT 2018/19,Hessen,SF114,Musicology/History of Music,22,22,44
+WT 2018/19,Hessen,SF233,Non-medical Healthcare Professions/Therapies,67,456,523
+WT 2018/19,Hessen,SF120,"Nordic/Scand. St. (Nord. Phil., ind. lang. n.e.c.)",8,5,13
+WT 2018/19,Hessen,SF088,Optoelectronics,14,10,24
+WT 2018/19,Hessen,SF122,"Oriental Studies, Ancient Oriental Studies",9,8,17
+WT 2018/19,Hessen,SF365,Early Childhood Education,16,199,215
+WT 2018/19,Hessen,SF234,Nursing Science/Nursing Management,17,77,94
+WT 2018/19,Hessen,SF126,Pharmacy,81,149,230
+WT 2018/19,Hessen,SF127,Philosophy,163,169,332
+WT 2018/19,Hessen,SF128,Physics,418,170,588
+WT 2018/19,Hessen,SF224,Engineering Physics/Mechanical Process Engineering,42,13,55
+WT 2018/19,Hessen,SF129,Political Science,326,248,574
+WT 2018/19,Hessen,SF263,Police/Protection of the Constitution,326,175,501
+WT 2018/19,Hessen,SF131,Portuguese,1,4,5
+WT 2018/19,Hessen,SF132,Psychology,200,545,745
+WT 2018/19,Hessen,SF134,Spatial Planning,19,27,46
+WT 2018/19,Hessen,SF256,Administration of Justice,23,59,82
+WT 2018/19,Hessen,SF135,Law,594,927,1521
+WT 2018/19,Hessen,SF310,Renewable Energy,20,2,22
+WT 2018/19,Hessen,SF136,Religious Studies,8,13,21
+WT 2018/19,Hessen,SF137,"Romance Studies (Rom. Phil., indiv. lang. n.e.c.)",14,48,62
+WT 2018/19,Hessen,SF139,Russian,1,7,8
+WT 2018/19,Hessen,SF102,Drama Studies,1,3,4
+WT 2018/19,Hessen,SF145,Sinology/Korean Studies,6,11,17
+WT 2018/19,Hessen,SF190,Special Needs Education,47,222,269
+WT 2018/19,Hessen,SF208,Social Work,221,989,1210
+WT 2018/19,Hessen,SF147,Social Studies,38,32,70
+WT 2018/19,Hessen,SF245,Social Pedagogy,26,97,123
+WT 2018/19,Hessen,SF264,Social Security Administration,38,103,141
+WT 2018/19,Hessen,SF253,Applied Social Science,126,533,659
+WT 2018/19,Hessen,SF148,Social Sciences,59,114,173
+WT 2018/19,Hessen,SF149,Sociology,202,394,596
+WT 2018/19,Hessen,SF150,Spanish,2,26,28
+WT 2018/19,Hessen,SF166,Sports Management/Sports Economics,24,9,33
+WT 2018/19,Hessen,SF098,Sports Education/Sports Psychology,38,23,61
+WT 2018/19,Hessen,SF029,Sports Science,129,140,269
+WT 2018/19,Hessen,SF106,Dance Education,3,8,11
+WT 2018/19,Hessen,SF155,Theatre Studies,13,70,83
+WT 2018/19,Hessen,SF156,Veterinary Medicine,27,157,184
+WT 2018/19,Hessen,SF194,Sound Engineering,29,2,31
+WT 2018/19,Hessen,SF274,Tourism Management,7,36,43
+WT 2018/19,Hessen,SF457,Environmental Technology (including Recycling),30,31,61
+WT 2018/19,Hessen,SF548,Prehistory and Early History,2,1,3
+WT 2018/19,Hessen,SF226,Process Engineering,31,40,71
+WT 2018/19,Hessen,SF089,Transport Engineering,32,4,36
+WT 2018/19,Hessen,SF171,Surveying (Geodesy),32,16,48
+WT 2018/19,Hessen,SF172,Administrative Science/Public Administration,90,181,271
+WT 2018/19,Hessen,SF175,Economics,37,32,69
+WT 2018/19,Hessen,SF227,Viticulture and Oenology,120,84,204
+WT 2018/19,Hessen,SF177,Materials Technology,99,42,141
+WT 2018/19,Hessen,SF277,Business Informatics,525,131,656
+WT 2018/19,Hessen,SF370,Business Engineering spec. in Engineering Sciences,746,237,983
+WT 2018/19,Hessen,SF179,Business Engineering specialising in Economics,239,48,287
+WT 2018/19,Hessen,SF276,Business Mathematics,35,25,60
+WT 2018/19,Hessen,SF181,Business and Economics Education,68,110,178
+WT 2018/19,Hessen,SF042,Business Law,109,167,276
+WT 2018/19,Hessen,SF184,Business and Economics,928,651,1579
+WT 2018/19,Hessen,SF185,Dentistry,70,106,176
+WT 2018/19,Hessen,SF269,Customs and Tax Administration,211,272,483
+WT 2018/19,Mecklenburg-Vorpommern,SF003,Agricultural Science/Agriculture,70,37,107
+WT 2018/19,Mecklenburg-Vorpommern,SF272,Ancient History,3,2,5
+WT 2018/19,Mecklenburg-Vorpommern,SF008,English Studies,44,106,150
+WT 2018/19,Mecklenburg-Vorpommern,SF009,Anthropology (Human Biology),9,27,36
+WT 2018/19,Mecklenburg-Vorpommern,SF257,Occupational Guidance and Career Counselling,3,34,37
+WT 2018/19,Mecklenburg-Vorpommern,SF258,Labour Administration,39,80,119
+WT 2018/19,Mecklenburg-Vorpommern,SF012,Archaeology,2,6,8
+WT 2018/19,Mecklenburg-Vorpommern,SF013,Architecture,41,65,106
+WT 2018/19,Mecklenburg-Vorpommern,SF017,Civil Engineering/Structural Engineering,50,24,74
+WT 2018/19,Mecklenburg-Vorpommern,SF270,"Vocational, Business and Economics Education",3,23,26
+WT 2018/19,Mecklenburg-Vorpommern,SF021,Business Administration,259,253,512
+WT 2018/19,Mecklenburg-Vorpommern,SF025,Biochemistry,17,31,48
+WT 2018/19,Mecklenburg-Vorpommern,SF026,Biology,62,149,211
+WT 2018/19,Mecklenburg-Vorpommern,SF282,Biotechnology,13,17,30
+WT 2018/19,Mecklenburg-Vorpommern,SF032,Chemistry,55,31,86
+WT 2018/19,Mecklenburg-Vorpommern,SF200,Computer and Communication Technology,19,4,23
+WT 2018/19,Mecklenburg-Vorpommern,SF271,German as a Foreign or Second Language,3,11,14
+WT 2018/19,Mecklenburg-Vorpommern,SF048,Electrical Engineering/Electronics,122,12,134
+WT 2018/19,Mecklenburg-Vorpommern,SF052,Educational Science (Pedagogy),5,6,11
+WT 2018/19,Mecklenburg-Vorpommern,SF167,European Economic Studies,20,33,53
+WT 2018/19,Mecklenburg-Vorpommern,SF053,"Protestant Theology, Protes. Religious Education",28,46,74
+WT 2018/19,Mecklenburg-Vorpommern,SF235,Automotive Technology,58,4,62
+WT 2018/19,Mecklenburg-Vorpommern,SF056,Finno-Ugrian Studies,3,3,6
+WT 2018/19,Mecklenburg-Vorpommern,SF059,French,3,13,16
+WT 2018/19,Mecklenburg-Vorpommern,SF050,Geography,15,18,33
+WT 2018/19,Mecklenburg-Vorpommern,SF065,Geology/Palaeontology,17,13,30
+WT 2018/19,Mecklenburg-Vorpommern,SF067,German Studies/German,29,165,194
+WT 2018/19,Mecklenburg-Vorpommern,SF230,Singing,7,10,17
+WT 2018/19,Mecklenburg-Vorpommern,SF068,History,71,42,113
+WT 2018/19,Mecklenburg-Vorpommern,SF215,Health Technology,19,15,34
+WT 2018/19,Mecklenburg-Vorpommern,SF232,Health Science/Health Management,36,113,149
+WT 2018/19,Mecklenburg-Vorpommern,SF069,Graphic Design/Communication Design,6,17,23
+WT 2018/19,Mecklenburg-Vorpommern,SF115,Primary School Education/Primary Level Education,13,71,84
+WT 2018/19,Mecklenburg-Vorpommern,SF079,Computer Science,169,24,193
+WT 2018/19,Mecklenburg-Vorpommern,SF261,Internal Administration,34,54,88
+WT 2018/19,Mecklenburg-Vorpommern,SF080,Instrumental Music,8,19,27
+WT 2018/19,Mecklenburg-Vorpommern,SF049,Interdisc. Studies (special. in Natural Sciences),11,15,26
+WT 2018/19,Mecklenburg-Vorpommern,SF182,International Business Studies/Management,3,15,18
+WT 2018/19,Mecklenburg-Vorpommern,SF164,Jazz and Popular Music,2,2,4
+WT 2018/19,Mecklenburg-Vorpommern,SF193,Church Music,1,2,3
+WT 2018/19,Mecklenburg-Vorpommern,SF222,"Communication Technology, Information Engineering",19,2,21
+WT 2018/19,Mecklenburg-Vorpommern,SF303,Communication Science/Journalism,22,44,66
+WT 2018/19,Mecklenburg-Vorpommern,SF092,"Art History, Art Theory",3,6,9
+WT 2018/19,Mecklenburg-Vorpommern,SF093,Land Management Engineering/Landscape Design,12,26,38
+WT 2018/19,Mecklenburg-Vorpommern,SF097,Food Technology,14,16,30
+WT 2018/19,Mecklenburg-Vorpommern,SF199,Area of study: Technology,12,6,18
+WT 2018/19,Mecklenburg-Vorpommern,SF104,Mechanical Engineering,184,11,195
+WT 2018/19,Mecklenburg-Vorpommern,SF105,Mathematics,67,58,125
+WT 2018/19,Mecklenburg-Vorpommern,SF121,Media Informatics,33,7,40
+WT 2018/19,Mecklenburg-Vorpommern,SF107,Medicine (General Medicine),134,244,378
+WT 2018/19,Mecklenburg-Vorpommern,SF247,Medical Informatics,11,17,28
+WT 2018/19,Mecklenburg-Vorpommern,SF114,Musicology/History of Music,2,5,7
+WT 2018/19,Mecklenburg-Vorpommern,SF223,Nautical Science/Maritime Studies,25,10,35
+WT 2018/19,Mecklenburg-Vorpommern,SF233,Non-medical Healthcare Professions/Therapies,14,36,50
+WT 2018/19,Mecklenburg-Vorpommern,SF120,"Nordic/Scand. St. (Nord. Phil., ind. lang. n.e.c.)",1,11,12
+WT 2018/19,Mecklenburg-Vorpommern,SF234,Nursing Science/Nursing Management,5,10,15
+WT 2018/19,Mecklenburg-Vorpommern,SF126,Pharmacy,16,43,59
+WT 2018/19,Mecklenburg-Vorpommern,SF127,Philosophy,22,36,58
+WT 2018/19,Mecklenburg-Vorpommern,SF128,Physics,84,25,109
+WT 2018/19,Mecklenburg-Vorpommern,SF129,Political Science,39,33,72
+WT 2018/19,Mecklenburg-Vorpommern,SF263,Police/Protection of the Constitution,100,41,141
+WT 2018/19,Mecklenburg-Vorpommern,SF132,Psychology,21,68,89
+WT 2018/19,Mecklenburg-Vorpommern,SF134,Spatial Planning,12,14,26
+WT 2018/19,Mecklenburg-Vorpommern,SF135,Law,84,101,185
+WT 2018/19,Mecklenburg-Vorpommern,SF310,Renewable Energy,19,1,20
+WT 2018/19,Mecklenburg-Vorpommern,SF142,Naval Architecture/Ship Technology,20,2,22
+WT 2018/19,Mecklenburg-Vorpommern,SF146,Slavic Studies (Slavic Philology),3,1,4
+WT 2018/19,Mecklenburg-Vorpommern,SF190,Special Needs Education,7,59,66
+WT 2018/19,Mecklenburg-Vorpommern,SF290,Other subjects,22,12,34
+WT 2018/19,Mecklenburg-Vorpommern,SF208,Social Work,31,96,127
+WT 2018/19,Mecklenburg-Vorpommern,SF147,Social Studies,2,3,5
+WT 2018/19,Mecklenburg-Vorpommern,SF245,Social Pedagogy,20,60,80
+WT 2018/19,Mecklenburg-Vorpommern,SF253,Applied Social Science,5,29,34
+WT 2018/19,Mecklenburg-Vorpommern,SF148,Social Sciences,11,17,28
+WT 2018/19,Mecklenburg-Vorpommern,SF149,Sociology,4,29,33
+WT 2018/19,Mecklenburg-Vorpommern,SF150,Spanish,5,8,13
+WT 2018/19,Mecklenburg-Vorpommern,SF166,Sports Management/Sports Economics,24,3,27
+WT 2018/19,Mecklenburg-Vorpommern,SF029,Sports Science,31,11,42
+WT 2018/19,Mecklenburg-Vorpommern,SF371,Animal Production,1,2,3
+WT 2018/19,Mecklenburg-Vorpommern,SF274,Tourism Management,4,13,17
+WT 2018/19,Mecklenburg-Vorpommern,SF458,Environmental Protection,24,11,35
+WT 2018/19,Mecklenburg-Vorpommern,SF457,Environmental Technology (including Recycling),11,6,17
+WT 2018/19,Mecklenburg-Vorpommern,SF548,Prehistory and Early History,1,2,3
+WT 2018/19,Mecklenburg-Vorpommern,SF171,Surveying (Geodesy),32,5,37
+WT 2018/19,Mecklenburg-Vorpommern,SF175,Economics,3,1,4
+WT 2018/19,Mecklenburg-Vorpommern,SF277,Business Informatics,85,23,108
+WT 2018/19,Mecklenburg-Vorpommern,SF370,Business Engineering spec. in Engineering Sciences,26,8,34
+WT 2018/19,Mecklenburg-Vorpommern,SF179,Business Engineering specialising in Economics,29,10,39
+WT 2018/19,Mecklenburg-Vorpommern,SF181,Business and Economics Education,6,12,18
+WT 2018/19,Mecklenburg-Vorpommern,SF042,Business Law,73,124,197
+WT 2018/19,Mecklenburg-Vorpommern,SF184,Business and Economics,116,87,203
+WT 2018/19,Mecklenburg-Vorpommern,SF185,Dentistry,44,60,104
+WT 2018/19,Lower Saxony,SF138,Agricultural Biology,62,48,110
+WT 2018/19,Lower Saxony,SF003,Agricultural Science/Agriculture,217,159,376
+WT 2018/19,Lower Saxony,SF001,Egyptology,18,18,36
+WT 2018/19,Lower Saxony,SF152,General Linguistics/Indo-European Studies,7,24,31
+WT 2018/19,Lower Saxony,SF006,American Studies,4,8,12
+WT 2018/19,Lower Saxony,SF007,Applied Art,38,74,112
+WT 2018/19,Lower Saxony,SF284,Applied Linguistics,5,13,18
+WT 2018/19,Lower Saxony,SF140,Applied Systems Science,23,16,39
+WT 2018/19,Lower Saxony,SF008,English Studies,202,469,671
+WT 2018/19,Lower Saxony,SF009,Anthropology (Human Biology),8,20,28
+WT 2018/19,Lower Saxony,SF010,Arabic/Arabic Studies,5,9,14
+WT 2018/19,Lower Saxony,SF011,Work Studies/Business Studies,16,30,46
+WT 2018/19,Lower Saxony,SF012,Archaeology,1,4,5
+WT 2018/19,Lower Saxony,SF013,Architecture,228,374,602
+WT 2018/19,Lower Saxony,SF187,Asian Languages and Cultures/Asian Studies,11,11,22
+WT 2018/19,Lower Saxony,SF117,Immigrant Education,4,4,8
+WT 2018/19,Lower Saxony,SF015,Non-Europ. Lang. and Cult. in Oceania and America,1,8,9
+WT 2018/19,Lower Saxony,SF265,Banking,39,19,58
+WT 2018/19,Lower Saxony,SF017,Civil Engineering/Structural Engineering,556,220,776
+WT 2018/19,Lower Saxony,SF020,Mining/Mine Engineering,36,9,45
+WT 2018/19,Lower Saxony,SF018,Occupation-specific Foreign Language Training,15,96,111
+WT 2018/19,Lower Saxony,SF021,Business Administration,895,1029,1924
+WT 2018/19,Lower Saxony,SF023,Fine Arts/Graphics,17,28,45
+WT 2018/19,Lower Saxony,SF025,Biochemistry,16,18,34
+WT 2018/19,Lower Saxony,SF026,Biology,250,563,813
+WT 2018/19,Lower Saxony,SF300,Biomedicine,4,3,7
+WT 2018/19,Lower Saxony,SF282,Biotechnology,98,196,294
+WT 2018/19,Lower Saxony,SF032,Chemistry,282,201,483
+WT 2018/19,Lower Saxony,SF033,Chemical Engineering/Chemical Process Technology,28,14,42
+WT 2018/19,Lower Saxony,SF200,Computer and Communication Technology,44,16,60
+WT 2018/19,Lower Saxony,SF035,Performing Arts/Stagecraft/Directing,8,37,45
+WT 2018/19,Lower Saxony,SF271,German as a Foreign or Second Language,8,36,44
+WT 2018/19,Lower Saxony,SF192,Conducting,1,2,3
+WT 2018/19,Lower Saxony,SF316,Electrical Power Engineering,18,4,22
+WT 2018/19,Lower Saxony,SF048,Electrical Engineering/Electronics,680,109,789
+WT 2018/19,Lower Saxony,SF211,Energy Process Engineering,16,4,20
+WT 2018/19,Lower Saxony,SF052,Educational Science (Pedagogy),99,536,635
+WT 2018/19,Lower Saxony,SF173,Ethnology,7,24,31
+WT 2018/19,Lower Saxony,SF024,European Ethnology and Cultural Studies,4,17,21
+WT 2018/19,Lower Saxony,SF544,"Protestant Religious Pedagogy, Church Educat. Work",14,23,37
+WT 2018/19,Lower Saxony,SF053,"Protestant Theology, Protes. Religious Education",61,134,195
+WT 2018/19,Lower Saxony,SF464,Facility Management,40,28,68
+WT 2018/19,Lower Saxony,SF235,Automotive Technology,228,19,247
+WT 2018/19,Lower Saxony,SF202,Manufacturing Technology/Production Engineering,10,5,15
+WT 2018/19,Lower Saxony,SF058,"Forest Science, Forestry",196,102,298
+WT 2018/19,Lower Saxony,SF059,French,7,40,47
+WT 2018/19,Lower Saxony,SF060,Horticulture,23,17,40
+WT 2018/19,Lower Saxony,SF050,Geography,83,98,181
+WT 2018/19,Lower Saxony,SF385,Geoecology,26,47,73
+WT 2018/19,Lower Saxony,SF039,Geosciences general,64,67,131
+WT 2018/19,Lower Saxony,SF067,German Studies/German,176,904,1080
+WT 2018/19,Lower Saxony,SF230,Singing,4,4,8
+WT 2018/19,Lower Saxony,SF068,History,138,136,274
+WT 2018/19,Lower Saxony,SF215,Health Technology,28,20,48
+WT 2018/19,Lower Saxony,SF232,Health Science/Health Management,45,165,210
+WT 2018/19,Lower Saxony,SF069,Graphic Design/Communication Design,64,139,203
+WT 2018/19,Lower Saxony,SF071,Domestic and Nutritional Sciences,36,114,150
+WT 2018/19,Lower Saxony,SF082,Wood and Fibre Technology,18,2,20
+WT 2018/19,Lower Saxony,SF197,Timber Construction,25,6,31
+WT 2018/19,Lower Saxony,SF078,Indology,2,1,3
+WT 2018/19,Lower Saxony,SF203,Industrial Design/Product Design,2,4,6
+WT 2018/19,Lower Saxony,SF079,Computer Science,1010,160,1170
+WT 2018/19,Lower Saxony,SF022,Inf./Library Scien. (not at univ. of app.adm.sci.),15,56,71
+WT 2018/19,Lower Saxony,SF123,Computational Engineer./Technical Computer Science,63,11,74
+WT 2018/19,Lower Saxony,SF242,Interior Architecture,3,31,34
+WT 2018/19,Lower Saxony,SF080,Instrumental Music,29,38,67
+WT 2018/19,Lower Saxony,SF072,Interdisc. Studies (specialising in Engineering),53,11,64
+WT 2018/19,Lower Saxony,SF049,Interdisc. Studies (special. in Natural Sciences),54,48,102
+WT 2018/19,Lower Saxony,SF030,"Interdisc. St. (spec. in Law, Econ. and Soc. Sci.)",36,70,106
+WT 2018/19,Lower Saxony,SF004,Interdisc. Studies (spec. in Humanities),119,300,419
+WT 2018/19,Lower Saxony,SF182,International Business Studies/Management,70,108,178
+WT 2018/19,Lower Saxony,SF083,Islamic Studies,6,16,22
+WT 2018/19,Lower Saxony,SF084,Italian,1,4,5
+WT 2018/19,Lower Saxony,SF164,Jazz and Popular Music,10,3,13
+WT 2018/19,Lower Saxony,SF086,"Catholic Theology, Catholic Religious Education",4,12,16
+WT 2018/19,Lower Saxony,SF303,Communication Science/Journalism,94,277,371
+WT 2018/19,Lower Saxony,SF091,Arts Education,26,105,131
+WT 2018/19,Lower Saxony,SF092,"Art History, Art Theory",16,59,75
+WT 2018/19,Lower Saxony,SF219,Plastics Technology,9,2,11
+WT 2018/19,Lower Saxony,SF093,Land Management Engineering/Landscape Design,96,113,209
+WT 2018/19,Lower Saxony,SF095,Latin,10,23,33
+WT 2018/19,Lower Saxony,SF096,Food Chemistry,7,18,25
+WT 2018/19,Lower Saxony,SF097,Food Technology,87,81,168
+WT 2018/19,Lower Saxony,SF090,Area of study: Humanities,1,2,3
+WT 2018/19,Lower Saxony,SF199,Area of study: Technology,15,15,30
+WT 2018/19,Lower Saxony,SF057,Aeronautical and Aerospace Engineering,20,4,24
+WT 2018/19,Lower Saxony,SF104,Mechanical Engineering,1306,195,1501
+WT 2018/19,Lower Saxony,SF294,Materials Engineering,7,12,19
+WT 2018/19,Lower Saxony,SF105,Mathematics,446,657,1103
+WT 2018/19,Lower Saxony,SF380,Mechatronics,200,23,223
+WT 2018/19,Lower Saxony,SF121,Media Informatics,96,60,156
+WT 2018/19,Lower Saxony,SF305,Media Technology,24,30,54
+WT 2018/19,Lower Saxony,SF304,Media Economics/Media Management,65,122,187
+WT 2018/19,Lower Saxony,SF302,Media Science,30,87,117
+WT 2018/19,Lower Saxony,SF107,Medicine (General Medicine),169,371,540
+WT 2018/19,Lower Saxony,SF108,Metals Technology,30,9,39
+WT 2018/19,Lower Saxony,SF110,Meteorology,16,13,29
+WT 2018/19,Lower Saxony,SF220,Dairy Farming,9,9,18
+WT 2018/19,Lower Saxony,SF113,Music Education,85,76,161
+WT 2018/19,Lower Saxony,SF114,Musicology/History of Music,9,13,22
+WT 2018/19,Lower Saxony,SF223,Nautical Science/Maritime Studies,69,24,93
+WT 2018/19,Lower Saxony,SF233,Non-medical Healthcare Professions/Therapies,58,189,247
+WT 2018/19,Lower Saxony,SF119,Dutch,2,7,9
+WT 2018/19,Lower Saxony,SF120,"Nordic/Scand. St. (Nord. Phil., ind. lang. n.e.c.)",3,9,12
+WT 2018/19,Lower Saxony,SF165,Orchestral Music,2,1,3
+WT 2018/19,Lower Saxony,SF124,Oceanography,5,2,7
+WT 2018/19,Lower Saxony,SF365,Early Childhood Education,5,58,63
+WT 2018/19,Lower Saxony,SF353,Plant Production,7,6,13
+WT 2018/19,Lower Saxony,SF234,Nursing Science/Nursing Management,21,149,170
+WT 2018/19,Lower Saxony,SF126,Pharmacy,22,48,70
+WT 2018/19,Lower Saxony,SF127,Philosophy,100,113,213
+WT 2018/19,Lower Saxony,SF128,Physics,432,176,608
+WT 2018/19,Lower Saxony,SF224,Engineering Physics/Mechanical Process Engineering,15,22,37
+WT 2018/19,Lower Saxony,SF129,Political Science,136,130,266
+WT 2018/19,Lower Saxony,SF132,Psychology,100,333,433
+WT 2018/19,Lower Saxony,SF256,Administration of Justice,30,101,131
+WT 2018/19,Lower Saxony,SF135,Law,502,767,1269
+WT 2018/19,Lower Saxony,SF310,Renewable Energy,31,12,43
+WT 2018/19,Lower Saxony,SF136,Religious Studies,4,11,15
+WT 2018/19,Lower Saxony,SF254,General Studies (including School Garden),5,31,36
+WT 2018/19,Lower Saxony,SF102,Drama Studies,2,3,5
+WT 2018/19,Lower Saxony,SF145,Sinology/Korean Studies,5,20,25
+WT 2018/19,Lower Saxony,SF146,Slavic Studies (Slavic Philology),1,21,22
+WT 2018/19,Lower Saxony,SF190,Special Needs Education,45,268,313
+WT 2018/19,Lower Saxony,SF290,Other subjects,8,16,24
+WT 2018/19,Lower Saxony,SF208,Social Work,8,33,41
+WT 2018/19,Lower Saxony,SF147,Social Studies,39,41,80
+WT 2018/19,Lower Saxony,SF245,Social Pedagogy,31,159,190
+WT 2018/19,Lower Saxony,SF253,Applied Social Science,240,839,1079
+WT 2018/19,Lower Saxony,SF148,Social Sciences,179,399,578
+WT 2018/19,Lower Saxony,SF149,Sociology,36,52,88
+WT 2018/19,Lower Saxony,SF150,Spanish,20,46,66
+WT 2018/19,Lower Saxony,SF166,Sports Management/Sports Economics,47,26,73
+WT 2018/19,Lower Saxony,SF098,Sports Education/Sports Psychology,96,89,185
+WT 2018/19,Lower Saxony,SF116,Textile Design,1,16,17
+WT 2018/19,Lower Saxony,SF155,Theatre Studies,4,14,18
+WT 2018/19,Lower Saxony,SF156,Veterinary Medicine,50,239,289
+WT 2018/19,Lower Saxony,SF274,Tourism Management,35,147,182
+WT 2018/19,Lower Saxony,SF158,Turkish Studies,1,3,4
+WT 2018/19,Lower Saxony,SF457,Environmental Technology (including Recycling),80,51,131
+WT 2018/19,Lower Saxony,SF548,Prehistory and Early History,1,1,2
+WT 2018/19,Lower Saxony,SF226,Process Engineering,79,39,118
+WT 2018/19,Lower Saxony,SF089,Transport Engineering,108,48,156
+WT 2018/19,Lower Saxony,SF210,Transport Economics,5,4,9
+WT 2018/19,Lower Saxony,SF171,Surveying (Geodesy),115,44,159
+WT 2018/19,Lower Saxony,SF213,Supply Technology,36,6,42
+WT 2018/19,Lower Saxony,SF172,Administrative Science/Public Administration,174,330,504
+WT 2018/19,Lower Saxony,SF175,Economics,148,61,209
+WT 2018/19,Lower Saxony,SF094,Hydraulic Engineering,13,9,22
+WT 2018/19,Lower Saxony,SF077,Water Management,10,8,18
+WT 2018/19,Lower Saxony,SF176,Handicrafts Education,2,4,6
+WT 2018/19,Lower Saxony,SF177,Materials Technology,24,18,42
+WT 2018/19,Lower Saxony,SF183,Economic/Social History,28,19,47
+WT 2018/19,Lower Saxony,SF277,Business Informatics,632,146,778
+WT 2018/19,Lower Saxony,SF370,Business Engineering spec. in Engineering Sciences,479,175,654
+WT 2018/19,Lower Saxony,SF179,Business Engineering specialising in Economics,302,150,452
+WT 2018/19,Lower Saxony,SF276,Business Mathematics,22,24,46
+WT 2018/19,Lower Saxony,SF181,Business and Economics Education,64,136,200
+WT 2018/19,Lower Saxony,SF042,Business Law,109,175,284
+WT 2018/19,Lower Saxony,SF184,Business and Economics,595,466,1061
+WT 2018/19,Lower Saxony,SF185,Dentistry,32,83,115
+WT 2018/19,North Rhein-Westphalia,SF125,Agricultural Economics,119,54,173
+WT 2018/19,North Rhein-Westphalia,SF003,Agricultural Science/Agriculture,122,142,264
+WT 2018/19,North Rhein-Westphalia,SF152,General Linguistics/Indo-European Studies,66,161,227
+WT 2018/19,North Rhein-Westphalia,SF188,General Literary Studies,15,89,104
+WT 2018/19,North Rhein-Westphalia,SF272,Ancient History,2,1,3
+WT 2018/19,North Rhein-Westphalia,SF006,American Studies,9,8,17
+WT 2018/19,North Rhein-Westphalia,SF007,Applied Art,79,188,267
+WT 2018/19,North Rhein-Westphalia,SF284,Applied Linguistics,84,466,550
+WT 2018/19,North Rhein-Westphalia,SF140,Applied Systems Science,18,7,25
+WT 2018/19,North Rhein-Westphalia,SF008,English Studies,559,1578,2137
+WT 2018/19,North Rhein-Westphalia,SF012,Archaeology,113,136,249
+WT 2018/19,North Rhein-Westphalia,SF013,Architecture,512,849,1361
+WT 2018/19,North Rhein-Westphalia,SF187,Asian Languages and Cultures/Asian Studies,48,115,163
+WT 2018/19,North Rhein-Westphalia,SF014,Astrophysics and Astronomy,10,15,25
+WT 2018/19,North Rhein-Westphalia,SF017,Civil Engineering/Structural Engineering,1721,665,2386
+WT 2018/19,North Rhein-Westphalia,SF020,Mining/Mine Engineering,93,34,127
+WT 2018/19,North Rhein-Westphalia,SF021,Business Administration,3712,3460,7172
+WT 2018/19,North Rhein-Westphalia,SF023,Fine Arts/Graphics,46,66,112
+WT 2018/19,North Rhein-Westphalia,SF025,Biochemistry,135,173,308
+WT 2018/19,North Rhein-Westphalia,SF221,Bioinformatics,22,28,50
+WT 2018/19,North Rhein-Westphalia,SF026,Biology,727,1451,2178
+WT 2018/19,North Rhein-Westphalia,SF300,Biomedicine,68,119,187
+WT 2018/19,North Rhein-Westphalia,SF282,Biotechnology,261,264,525
+WT 2018/19,North Rhein-Westphalia,SF032,Chemistry,1186,1055,2241
+WT 2018/19,North Rhein-Westphalia,SF033,Chemical Engineering/Chemical Process Technology,220,112,332
+WT 2018/19,North Rhein-Westphalia,SF160,Computer Linguistics,9,2,11
+WT 2018/19,North Rhein-Westphalia,SF200,Computer and Communication Technology,18,16,34
+WT 2018/19,North Rhein-Westphalia,SF035,Performing Arts/Stagecraft/Directing,8,33,41
+WT 2018/19,North Rhein-Westphalia,SF271,German as a Foreign or Second Language,13,43,56
+WT 2018/19,North Rhein-Westphalia,SF161,Pastoral Care Studies,9,10,19
+WT 2018/19,North Rhein-Westphalia,SF231,Printing and Reproduction Technology,8,10,18
+WT 2018/19,North Rhein-Westphalia,SF048,Electrical Engineering/Electronics,2508,438,2946
+WT 2018/19,North Rhein-Westphalia,SF211,Energy Process Engineering,52,32,84
+WT 2018/19,North Rhein-Westphalia,SF320,Nutritional Science,46,192,238
+WT 2018/19,North Rhein-Westphalia,SF052,Educational Science (Pedagogy),233,1568,1801
+WT 2018/19,North Rhein-Westphalia,SF169,Ethics,6,4,10
+WT 2018/19,North Rhein-Westphalia,SF173,Ethnology,35,74,109
+WT 2018/19,North Rhein-Westphalia,SF024,European Ethnology and Cultural Studies,18,27,45
+WT 2018/19,North Rhein-Westphalia,SF167,European Economic Studies,37,59,96
+WT 2018/19,North Rhein-Westphalia,SF053,"Protestant Theology, Protes. Religious Education",69,143,212
+WT 2018/19,North Rhein-Westphalia,SF464,Facility Management,95,105,200
+WT 2018/19,North Rhein-Westphalia,SF235,Automotive Technology,456,9,465
+WT 2018/19,North Rhein-Westphalia,SF202,Manufacturing Technology/Production Engineering,175,35,210
+WT 2018/19,North Rhein-Westphalia,SF054,Film and Television Studies,37,11,48
+WT 2018/19,North Rhein-Westphalia,SF059,French,34,167,201
+WT 2018/19,North Rhein-Westphalia,SF050,Geography,304,298,602
+WT 2018/19,North Rhein-Westphalia,SF066,Geophysics,49,47,96
+WT 2018/19,North Rhein-Westphalia,SF039,Geosciences general,197,188,385
+WT 2018/19,North Rhein-Westphalia,SF067,German Studies/German,543,2187,2730
+WT 2018/19,North Rhein-Westphalia,SF230,Singing,19,20,39
+WT 2018/19,North Rhein-Westphalia,SF068,History,703,631,1334
+WT 2018/19,North Rhein-Westphalia,SF195,Health Education,33,173,206
+WT 2018/19,North Rhein-Westphalia,SF215,Health Technology,213,256,469
+WT 2018/19,North Rhein-Westphalia,SF232,Health Science/Health Management,286,1089,1375
+WT 2018/19,North Rhein-Westphalia,SF069,Graphic Design/Communication Design,239,468,707
+WT 2018/19,North Rhein-Westphalia,SF071,Domestic and Nutritional Sciences,50,161,211
+WT 2018/19,North Rhein-Westphalia,SF082,Wood and Fibre Technology,15,4,19
+WT 2018/19,North Rhein-Westphalia,SF197,Timber Construction,21,3,24
+WT 2018/19,North Rhein-Westphalia,SF076,Metallurgy and Foundry,88,29,117
+WT 2018/19,North Rhein-Westphalia,SF203,Industrial Design/Product Design,53,63,116
+WT 2018/19,North Rhein-Westphalia,SF079,Computer Science,3291,762,4053
+WT 2018/19,North Rhein-Westphalia,SF022,Inf./Library Scien. (not at univ. of app.adm.sci.),14,32,46
+WT 2018/19,North Rhein-Westphalia,SF123,Computational Engineer./Technical Computer Science,815,171,986
+WT 2018/19,North Rhein-Westphalia,SF242,Interior Architecture,14,120,134
+WT 2018/19,North Rhein-Westphalia,SF080,Instrumental Music,139,158,297
+WT 2018/19,North Rhein-Westphalia,SF072,Interdisc. Studies (specialising in Engineering),552,158,710
+WT 2018/19,North Rhein-Westphalia,SF049,Interdisc. Studies (special. in Natural Sciences),40,67,107
+WT 2018/19,North Rhein-Westphalia,SF030,"Interdisc. St. (spec. in Law, Econ. and Soc. Sci.)",256,293,549
+WT 2018/19,North Rhein-Westphalia,SF004,Interdisc. Studies (spec. in Humanities),107,329,436
+WT 2018/19,North Rhein-Westphalia,SF040,"Interdisc. Studies (special. in Art, Art Theory)",1,2,3
+WT 2018/19,North Rhein-Westphalia,SF182,International Business Studies/Management,1152,1572,2724
+WT 2018/19,North Rhein-Westphalia,SF083,Islamic Studies,21,51,72
+WT 2018/19,North Rhein-Westphalia,SF084,Italian,6,17,23
+WT 2018/19,North Rhein-Westphalia,SF085,Japanese Studies,75,119,194
+WT 2018/19,North Rhein-Westphalia,SF164,Jazz and Popular Music,35,27,62
+WT 2018/19,North Rhein-Westphalia,SF073,Judaic Studies/Hebrew,2,8,10
+WT 2018/19,North Rhein-Westphalia,SF168,Law Enforcement,15,28,43
+WT 2018/19,North Rhein-Westphalia,SF545,"Catholic Religious Pedagogy, Church Educat. Work",8,19,27
+WT 2018/19,North Rhein-Westphalia,SF086,"Catholic Theology, Catholic Religious Education",95,94,189
+WT 2018/19,North Rhein-Westphalia,SF193,Church Music,7,5,12
+WT 2018/19,North Rhein-Westphalia,SF005,Classical Philology,10,17,27
+WT 2018/19,North Rhein-Westphalia,SF222,"Communication Technology, Information Engineering",211,52,263
+WT 2018/19,North Rhein-Westphalia,SF303,Communication Science/Journalism,126,271,397
+WT 2018/19,North Rhein-Westphalia,SF191,Composition,4,4,8
+WT 2018/19,North Rhein-Westphalia,SF091,Arts Education,15,63,78
+WT 2018/19,North Rhein-Westphalia,SF092,"Art History, Art Theory",44,219,263
+WT 2018/19,North Rhein-Westphalia,SF219,Plastics Technology,5,3,8
+WT 2018/19,North Rhein-Westphalia,SF093,Land Management Engineering/Landscape Design,40,43,83
+WT 2018/19,North Rhein-Westphalia,SF283,Landscape Ecology/Biogeography (ex. SF385 s. 2012),13,34,47
+WT 2018/19,North Rhein-Westphalia,SF095,Latin,19,32,51
+WT 2018/19,North Rhein-Westphalia,SF038,Latin America Studies,5,14,19
+WT 2018/19,North Rhein-Westphalia,SF096,Food Chemistry,36,51,87
+WT 2018/19,North Rhein-Westphalia,SF097,Food Technology,27,21,48
+WT 2018/19,North Rhein-Westphalia,SF090,Area of study: Humanities,106,733,839
+WT 2018/19,North Rhein-Westphalia,SF186,Area of study: Natural Sciences/General Studies,99,734,833
+WT 2018/19,North Rhein-Westphalia,SF057,Aeronautical and Aerospace Engineering,95,21,116
+WT 2018/19,North Rhein-Westphalia,SF204,Painting,8,10,18
+WT 2018/19,North Rhein-Westphalia,SF104,Mechanical Engineering,4173,604,4777
+WT 2018/19,North Rhein-Westphalia,SF237,Math.Statistics/Prob.Calc. (class.w. SF312 s.2020),94,67,161
+WT 2018/19,North Rhein-Westphalia,SF105,Mathematics,1085,947,2032
+WT 2018/19,North Rhein-Westphalia,SF380,Mechatronics,457,53,510
+WT 2018/19,North Rhein-Westphalia,SF121,Media Informatics,239,187,426
+WT 2018/19,North Rhein-Westphalia,SF305,Media Technology,247,133,380
+WT 2018/19,North Rhein-Westphalia,SF304,Media Economics/Media Management,173,342,515
+WT 2018/19,North Rhein-Westphalia,SF302,Media Science,233,551,784
+WT 2018/19,North Rhein-Westphalia,SF107,Medicine (General Medicine),711,1326,2037
+WT 2018/19,North Rhein-Westphalia,SF247,Medical Informatics,32,33,65
+WT 2018/19,North Rhein-Westphalia,SF110,Meteorology,17,19,36
+WT 2018/19,North Rhein-Westphalia,SF286,Microsystems Technology,16,2,18
+WT 2018/19,North Rhein-Westphalia,SF273,Medieval and Modern History,2,4,6
+WT 2018/19,North Rhein-Westphalia,SF113,Music Education,48,76,124
+WT 2018/19,North Rhein-Westphalia,SF114,Musicology/History of Music,68,61,129
+WT 2018/19,North Rhein-Westphalia,SF287,New Media,27,21,48
+WT 2018/19,North Rhein-Westphalia,SF233,Non-medical Healthcare Professions/Therapies,62,367,429
+WT 2018/19,North Rhein-Westphalia,SF119,Dutch,11,31,42
+WT 2018/19,North Rhein-Westphalia,SF120,"Nordic/Scand. St. (Nord. Phil., ind. lang. n.e.c.)",4,11,15
+WT 2018/19,North Rhein-Westphalia,SF088,Optoelectronics,10,2,12
+WT 2018/19,North Rhein-Westphalia,SF122,"Oriental Studies, Ancient Oriental Studies",13,15,28
+WT 2018/19,North Rhein-Westphalia,SF044,Eastern and South Eastern Europe Studies,2,7,9
+WT 2018/19,North Rhein-Westphalia,SF365,Early Childhood Education,2,14,16
+WT 2018/19,North Rhein-Westphalia,SF353,Plant Production,1,1,2
+WT 2018/19,North Rhein-Westphalia,SF234,Nursing Science/Nursing Management,95,271,366
+WT 2018/19,North Rhein-Westphalia,SF126,Pharmacy,83,184,267
+WT 2018/19,North Rhein-Westphalia,SF127,Philosophy,437,638,1075
+WT 2018/19,North Rhein-Westphalia,SF128,Physics,1143,590,1733
+WT 2018/19,North Rhein-Westphalia,SF224,Engineering Physics/Mechanical Process Engineering,52,26,78
+WT 2018/19,North Rhein-Westphalia,SF129,Political Science,369,429,798
+WT 2018/19,North Rhein-Westphalia,SF263,Police/Protection of the Constitution,1418,866,2284
+WT 2018/19,North Rhein-Westphalia,SF132,Psychology,816,2525,3341
+WT 2018/19,North Rhein-Westphalia,SF134,Spatial Planning,89,113,202
+WT 2018/19,North Rhein-Westphalia,SF256,Administration of Justice,21,88,109
+WT 2018/19,North Rhein-Westphalia,SF135,Law,1160,1885,3045
+WT 2018/19,North Rhein-Westphalia,SF310,Renewable Energy,171,76,247
+WT 2018/19,North Rhein-Westphalia,SF136,Religious Studies,18,19,37
+WT 2018/19,North Rhein-Westphalia,SF101,Restoration Studies,3,16,19
+WT 2018/19,North Rhein-Westphalia,SF137,"Romance Studies (Rom. Phil., indiv. lang. n.e.c.)",34,179,213
+WT 2018/19,North Rhein-Westphalia,SF139,Russian,4,18,22
+WT 2018/19,North Rhein-Westphalia,SF145,Sinology/Korean Studies,24,65,89
+WT 2018/19,North Rhein-Westphalia,SF146,Slavic Studies (Slavic Philology),2,6,8
+WT 2018/19,North Rhein-Westphalia,SF190,Special Needs Education,63,294,357
+WT 2018/19,North Rhein-Westphalia,SF036,Other regional studies,15,37,52
+WT 2018/19,North Rhein-Westphalia,SF208,Social Work,896,3568,4464
+WT 2018/19,North Rhein-Westphalia,SF245,Social Pedagogy,66,437,503
+WT 2018/19,North Rhein-Westphalia,SF264,Social Security Administration,35,70,105
+WT 2018/19,North Rhein-Westphalia,SF253,Applied Social Science,16,121,137
+WT 2018/19,North Rhein-Westphalia,SF148,Social Sciences,484,677,1161
+WT 2018/19,North Rhein-Westphalia,SF149,Sociology,146,362,508
+WT 2018/19,North Rhein-Westphalia,SF150,Spanish,68,197,265
+WT 2018/19,North Rhein-Westphalia,SF166,Sports Management/Sports Economics,158,69,227
+WT 2018/19,North Rhein-Westphalia,SF098,Sports Education/Sports Psychology,8,4,12
+WT 2018/19,North Rhein-Westphalia,SF029,Sports Science,458,433,891
+WT 2018/19,North Rhein-Westphalia,SF118,Technomathematics,115,28,143
+WT 2018/19,North Rhein-Westphalia,SF116,Textile Design,8,37,45
+WT 2018/19,North Rhein-Westphalia,SF225,Textile and Clothing Technology/Industry,69,190,259
+WT 2018/19,North Rhein-Westphalia,SF155,Theatre Studies,8,31,39
+WT 2018/19,North Rhein-Westphalia,SF371,Animal Production,1,1,2
+WT 2018/19,North Rhein-Westphalia,SF194,Sound Engineering,3,1,4
+WT 2018/19,North Rhein-Westphalia,SF274,Tourism Management,178,447,625
+WT 2018/19,North Rhein-Westphalia,SF158,Turkish Studies,7,33,40
+WT 2018/19,North Rhein-Westphalia,SF458,Environmental Protection,4,7,11
+WT 2018/19,North Rhein-Westphalia,SF457,Environmental Technology (including Recycling),203,155,358
+WT 2018/19,North Rhein-Westphalia,SF226,Process Engineering,61,23,84
+WT 2018/19,North Rhein-Westphalia,SF089,Transport Engineering,94,39,133
+WT 2018/19,North Rhein-Westphalia,SF210,Transport Economics,54,58,112
+WT 2018/19,North Rhein-Westphalia,SF171,Surveying (Geodesy),110,30,140
+WT 2018/19,North Rhein-Westphalia,SF213,Supply Technology,138,36,174
+WT 2018/19,North Rhein-Westphalia,SF172,Administrative Science/Public Administration,840,1372,2212
+WT 2018/19,North Rhein-Westphalia,SF175,Economics,569,366,935
+WT 2018/19,North Rhein-Westphalia,SF201,Handicrafts (technical)/Technology,2,1,3
+WT 2018/19,North Rhein-Westphalia,SF177,Materials Technology,136,49,185
+WT 2018/19,North Rhein-Westphalia,SF178,Economic/Social Geography,1,1,2
+WT 2018/19,North Rhein-Westphalia,SF277,Business Informatics,2122,492,2614
+WT 2018/19,North Rhein-Westphalia,SF370,Business Engineering spec. in Engineering Sciences,2316,704,3020
+WT 2018/19,North Rhein-Westphalia,SF179,Business Engineering specialising in Economics,605,252,857
+WT 2018/19,North Rhein-Westphalia,SF276,Business Mathematics,156,161,317
+WT 2018/19,North Rhein-Westphalia,SF181,Business and Economics Education,19,75,94
+WT 2018/19,North Rhein-Westphalia,SF042,Business Law,260,529,789
+WT 2018/19,North Rhein-Westphalia,SF184,Business and Economics,2027,2009,4036
+WT 2018/19,North Rhein-Westphalia,SF185,Dentistry,100,201,301
+WT 2018/19,North Rhein-Westphalia,SF269,Customs and Tax Administration,372,591,963
+WT 2018/19,Rheinland-Pfalz,SF003,Agricultural Science/Agriculture,33,16,49
+WT 2018/19,Rheinland-Pfalz,SF001,Egyptology,2,5,7
+WT 2018/19,Rheinland-Pfalz,SF152,General Linguistics/Indo-European Studies,11,48,59
+WT 2018/19,Rheinland-Pfalz,SF188,General Literary Studies,1,8,9
+WT 2018/19,Rheinland-Pfalz,SF006,American Studies,7,35,42
+WT 2018/19,Rheinland-Pfalz,SF007,Applied Art,12,29,41
+WT 2018/19,Rheinland-Pfalz,SF008,English Studies,140,375,515
+WT 2018/19,Rheinland-Pfalz,SF011,Work Studies/Business Studies,15,37,52
+WT 2018/19,Rheinland-Pfalz,SF012,Archaeology,16,22,38
+WT 2018/19,Rheinland-Pfalz,SF013,Architecture,138,239,377
+WT 2018/19,Rheinland-Pfalz,SF265,Banking,39,29,68
+WT 2018/19,Rheinland-Pfalz,SF017,Civil Engineering/Structural Engineering,266,102,368
+WT 2018/19,Rheinland-Pfalz,SF270,"Vocational, Business and Economics Education",1,3,4
+WT 2018/19,Rheinland-Pfalz,SF021,Business Administration,1096,836,1932
+WT 2018/19,Rheinland-Pfalz,SF023,Fine Arts/Graphics,2,6,8
+WT 2018/19,Rheinland-Pfalz,SF221,Bioinformatics,8,6,14
+WT 2018/19,Rheinland-Pfalz,SF026,Biology,119,299,418
+WT 2018/19,Rheinland-Pfalz,SF282,Biotechnology,36,57,93
+WT 2018/19,Rheinland-Pfalz,SF032,Chemistry,168,151,319
+WT 2018/19,Rheinland-Pfalz,SF271,German as a Foreign or Second Language,36,130,166
+WT 2018/19,Rheinland-Pfalz,SF159,Gemstone and Jewellery Design,2,15,17
+WT 2018/19,Rheinland-Pfalz,SF048,Electrical Engineering/Electronics,195,35,230
+WT 2018/19,Rheinland-Pfalz,SF211,Energy Process Engineering,12,4,16
+WT 2018/19,Rheinland-Pfalz,SF321,Adult Education and Extracurricular Youth Educat.,10,24,34
+WT 2018/19,Rheinland-Pfalz,SF052,Educational Science (Pedagogy),41,418,459
+WT 2018/19,Rheinland-Pfalz,SF169,Ethics,5,6,11
+WT 2018/19,Rheinland-Pfalz,SF173,Ethnology,5,15,20
+WT 2018/19,Rheinland-Pfalz,SF053,"Protestant Theology, Protes. Religious Education",3,12,15
+WT 2018/19,Rheinland-Pfalz,SF464,Facility Management,5,8,13
+WT 2018/19,Rheinland-Pfalz,SF235,Automotive Technology,74,17,91
+WT 2018/19,Rheinland-Pfalz,SF202,Manufacturing Technology/Production Engineering,33,4,37
+WT 2018/19,Rheinland-Pfalz,SF054,Film and Television Studies,14,18,32
+WT 2018/19,Rheinland-Pfalz,SF266,Financial Administration,88,137,225
+WT 2018/19,Rheinland-Pfalz,SF059,French,10,63,73
+WT 2018/19,Rheinland-Pfalz,SF050,Geography,100,165,265
+WT 2018/19,Rheinland-Pfalz,SF385,Geoecology,14,14,28
+WT 2018/19,Rheinland-Pfalz,SF039,Geosciences general,38,28,66
+WT 2018/19,Rheinland-Pfalz,SF067,German Studies/German,132,625,757
+WT 2018/19,Rheinland-Pfalz,SF068,History,80,86,166
+WT 2018/19,Rheinland-Pfalz,SF195,Health Education,14,65,79
+WT 2018/19,Rheinland-Pfalz,SF215,Health Technology,101,89,190
+WT 2018/19,Rheinland-Pfalz,SF232,Health Science/Health Management,33,84,117
+WT 2018/19,Rheinland-Pfalz,SF216,Glass Technology/Ceramics,11,6,17
+WT 2018/19,Rheinland-Pfalz,SF069,Graphic Design/Communication Design,16,66,82
+WT 2018/19,Rheinland-Pfalz,SF070,Greek,1,2,3
+WT 2018/19,Rheinland-Pfalz,SF197,Timber Construction,3,2,5
+WT 2018/19,Rheinland-Pfalz,SF079,Computer Science,597,146,743
+WT 2018/19,Rheinland-Pfalz,SF022,Inf./Library Scien. (not at univ. of app.adm.sci.),4,61,65
+WT 2018/19,Rheinland-Pfalz,SF123,Computational Engineer./Technical Computer Science,1,1,2
+WT 2018/19,Rheinland-Pfalz,SF242,Interior Architecture,7,46,53
+WT 2018/19,Rheinland-Pfalz,SF261,Internal Administration,84,152,236
+WT 2018/19,Rheinland-Pfalz,SF072,Interdisc. Studies (specialising in Engineering),121,58,179
+WT 2018/19,Rheinland-Pfalz,SF049,Interdisc. Studies (special. in Natural Sciences),128,178,306
+WT 2018/19,Rheinland-Pfalz,SF030,"Interdisc. St. (spec. in Law, Econ. and Soc. Sci.)",37,71,108
+WT 2018/19,Rheinland-Pfalz,SF004,Interdisc. Studies (spec. in Humanities),20,46,66
+WT 2018/19,Rheinland-Pfalz,SF182,International Business Studies/Management,277,411,688
+WT 2018/19,Rheinland-Pfalz,SF084,Italian,1,7,8
+WT 2018/19,Rheinland-Pfalz,SF085,Japanese Studies,14,19,33
+WT 2018/19,Rheinland-Pfalz,SF545,"Catholic Religious Pedagogy, Church Educat. Work",1,6,7
+WT 2018/19,Rheinland-Pfalz,SF086,"Catholic Theology, Catholic Religious Education",7,19,26
+WT 2018/19,Rheinland-Pfalz,SF193,Church Music,1,1,2
+WT 2018/19,Rheinland-Pfalz,SF222,"Communication Technology, Information Engineering",56,5,61
+WT 2018/19,Rheinland-Pfalz,SF303,Communication Science/Journalism,25,81,106
+WT 2018/19,Rheinland-Pfalz,SF092,"Art History, Art Theory",10,36,46
+WT 2018/19,Rheinland-Pfalz,SF283,Landscape Ecology/Biogeography (ex. SF385 s. 2012),19,27,46
+WT 2018/19,Rheinland-Pfalz,SF095,Latin,8,9,17
+WT 2018/19,Rheinland-Pfalz,SF096,Food Chemistry,7,16,23
+WT 2018/19,Rheinland-Pfalz,SF104,Mechanical Engineering,412,35,447
+WT 2018/19,Rheinland-Pfalz,SF105,Mathematics,229,396,625
+WT 2018/19,Rheinland-Pfalz,SF380,Mechatronics,63,5,68
+WT 2018/19,Rheinland-Pfalz,SF121,Media Informatics,107,24,131
+WT 2018/19,Rheinland-Pfalz,SF302,Media Science,19,58,77
+WT 2018/19,Rheinland-Pfalz,SF107,Medicine (General Medicine),62,158,220
+WT 2018/19,Rheinland-Pfalz,SF247,Medical Informatics,9,13,22
+WT 2018/19,Rheinland-Pfalz,SF110,Meteorology,8,5,13
+WT 2018/19,Rheinland-Pfalz,SF273,Medieval and Modern History,1,1,2
+WT 2018/19,Rheinland-Pfalz,SF113,Music Education,1,5,6
+WT 2018/19,Rheinland-Pfalz,SF114,Musicology/History of Music,14,9,23
+WT 2018/19,Rheinland-Pfalz,SF287,New Media,17,12,29
+WT 2018/19,Rheinland-Pfalz,SF233,Non-medical Healthcare Professions/Therapies,16,74,90
+WT 2018/19,Rheinland-Pfalz,SF165,Orchestral Music,6,6,12
+WT 2018/19,Rheinland-Pfalz,SF126,Pharmacy,24,59,83
+WT 2018/19,Rheinland-Pfalz,SF127,Philosophy,44,71,115
+WT 2018/19,Rheinland-Pfalz,SF128,Physics,140,55,195
+WT 2018/19,Rheinland-Pfalz,SF129,Political Science,96,80,176
+WT 2018/19,Rheinland-Pfalz,SF263,Police/Protection of the Constitution,173,85,258
+WT 2018/19,Rheinland-Pfalz,SF132,Psychology,134,545,679
+WT 2018/19,Rheinland-Pfalz,SF134,Spatial Planning,30,25,55
+WT 2018/19,Rheinland-Pfalz,SF135,Law,254,411,665
+WT 2018/19,Rheinland-Pfalz,SF310,Renewable Energy,23,2,25
+WT 2018/19,Rheinland-Pfalz,SF139,Russian,1,10,11
+WT 2018/19,Rheinland-Pfalz,SF361,School Pedagogy,6,6,12
+WT 2018/19,Rheinland-Pfalz,SF146,Slavic Studies (Slavic Philology),3,1,4
+WT 2018/19,Rheinland-Pfalz,SF208,Social Work,70,271,341
+WT 2018/19,Rheinland-Pfalz,SF147,Social Studies,25,13,38
+WT 2018/19,Rheinland-Pfalz,SF253,Applied Social Science,3,25,28
+WT 2018/19,Rheinland-Pfalz,SF148,Social Sciences,72,129,201
+WT 2018/19,Rheinland-Pfalz,SF149,Sociology,52,104,156
+WT 2018/19,Rheinland-Pfalz,SF150,Spanish,4,32,36
+WT 2018/19,Rheinland-Pfalz,SF166,Sports Management/Sports Economics,13,4,17
+WT 2018/19,Rheinland-Pfalz,SF098,Sports Education/Sports Psychology,53,24,77
+WT 2018/19,Rheinland-Pfalz,SF029,Sports Science,46,26,72
+WT 2018/19,Rheinland-Pfalz,SF118,Technomathematics,3,2,5
+WT 2018/19,Rheinland-Pfalz,SF116,Textile Design,1,16,17
+WT 2018/19,Rheinland-Pfalz,SF155,Theatre Studies,7,42,49
+WT 2018/19,Rheinland-Pfalz,SF274,Tourism Management,23,62,85
+WT 2018/19,Rheinland-Pfalz,SF158,Turkish Studies,1,4,5
+WT 2018/19,Rheinland-Pfalz,SF458,Environmental Protection,29,51,80
+WT 2018/19,Rheinland-Pfalz,SF226,Process Engineering,63,50,113
+WT 2018/19,Rheinland-Pfalz,SF210,Transport Economics,18,2,20
+WT 2018/19,Rheinland-Pfalz,SF171,Surveying (Geodesy),35,15,50
+WT 2018/19,Rheinland-Pfalz,SF213,Supply Technology,15,1,16
+WT 2018/19,Rheinland-Pfalz,SF174,Folklore,10,29,39
+WT 2018/19,Rheinland-Pfalz,SF175,Economics,35,27,62
+WT 2018/19,Rheinland-Pfalz,SF077,Water Management,9,2,11
+WT 2018/19,Rheinland-Pfalz,SF227,Viticulture and Oenology,14,15,29
+WT 2018/19,Rheinland-Pfalz,SF277,Business Informatics,242,75,317
+WT 2018/19,Rheinland-Pfalz,SF370,Business Engineering spec. in Engineering Sciences,222,61,283
+WT 2018/19,Rheinland-Pfalz,SF179,Business Engineering specialising in Economics,62,20,82
+WT 2018/19,Rheinland-Pfalz,SF276,Business Mathematics,36,21,57
+WT 2018/19,Rheinland-Pfalz,SF042,Business Law,92,127,219
+WT 2018/19,Rheinland-Pfalz,SF184,Business and Economics,195,193,388
+WT 2018/19,Rheinland-Pfalz,SF185,Dentistry,8,28,36
+WT 2018/19,Saarland,SF188,General Literary Studies,1,7,8
+WT 2018/19,Saarland,SF272,Ancient History,12,15,27
+WT 2018/19,Saarland,SF284,Applied Linguistics,18,49,67
+WT 2018/19,Saarland,SF008,English Studies,20,52,72
+WT 2018/19,Saarland,SF013,Architecture,29,40,69
+WT 2018/19,Saarland,SF017,Civil Engineering/Structural Engineering,57,22,79
+WT 2018/19,Saarland,SF021,Business Administration,141,184,325
+WT 2018/19,Saarland,SF023,Fine Arts/Graphics,5,13,18
+WT 2018/19,Saarland,SF221,Bioinformatics,13,16,29
+WT 2018/19,Saarland,SF026,Biology,11,43,54
+WT 2018/19,Saarland,SF282,Biotechnology,2,2,4
+WT 2018/19,Saarland,SF032,Chemistry,50,31,81
+WT 2018/19,Saarland,SF160,Computer Linguistics,8,15,23
+WT 2018/19,Saarland,SF200,Computer and Communication Technology,40,12,52
+WT 2018/19,Saarland,SF048,Electrical Engineering/Electronics,54,9,63
+WT 2018/19,Saarland,SF211,Energy Process Engineering,33,2,35
+WT 2018/19,Saarland,SF052,Educational Science (Pedagogy),2,11,13
+WT 2018/19,Saarland,SF167,European Economic Studies,20,26,46
+WT 2018/19,Saarland,SF053,"Protestant Theology, Protes. Religious Education",3,10,13
+WT 2018/19,Saarland,SF235,Automotive Technology,36,6,42
+WT 2018/19,Saarland,SF059,French,7,56,63
+WT 2018/19,Saarland,SF067,German Studies/German,28,92,120
+WT 2018/19,Saarland,SF230,Singing,2,3,5
+WT 2018/19,Saarland,SF068,History,14,10,24
+WT 2018/19,Saarland,SF215,Health Technology,31,26,57
+WT 2018/19,Saarland,SF232,Health Science/Health Management,686,759,1445
+WT 2018/19,Saarland,SF069,Graphic Design/Communication Design,2,9,11
+WT 2018/19,Saarland,SF115,Primary School Education/Primary Level Education,2,34,36
+WT 2018/19,Saarland,SF203,Industrial Design/Product Design,4,5,9
+WT 2018/19,Saarland,SF079,Computer Science,301,68,369
+WT 2018/19,Saarland,SF261,Internal Administration,16,24,40
+WT 2018/19,Saarland,SF080,Instrumental Music,11,2,13
+WT 2018/19,Saarland,SF072,Interdisc. Studies (specialising in Engineering),26,6,32
+WT 2018/19,Saarland,SF049,Interdisc. Studies (special. in Natural Sciences),21,14,35
+WT 2018/19,Saarland,SF030,"Interdisc. St. (spec. in Law, Econ. and Soc. Sci.)",41,37,78
+WT 2018/19,Saarland,SF004,Interdisc. Studies (spec. in Humanities),14,37,51
+WT 2018/19,Saarland,SF040,"Interdisc. Studies (special. in Art, Art Theory)",8,7,15
+WT 2018/19,Saarland,SF084,Italian,2,6,8
+WT 2018/19,Saarland,SF303,Communication Science/Journalism,1,3,4
+WT 2018/19,Saarland,SF104,Mechanical Engineering,89,13,102
+WT 2018/19,Saarland,SF294,Materials Engineering,33,12,45
+WT 2018/19,Saarland,SF105,Mathematics,42,20,62
+WT 2018/19,Saarland,SF380,Mechatronics,46,2,48
+WT 2018/19,Saarland,SF121,Media Informatics,21,11,32
+WT 2018/19,Saarland,SF107,Medicine (General Medicine),100,160,260
+WT 2018/19,Saarland,SF113,Music Education,1,15,16
+WT 2018/19,Saarland,SF114,Musicology/History of Music,11,10,21
+WT 2018/19,Saarland,SF165,Orchestral Music,3,7,10
+WT 2018/19,Saarland,SF126,Pharmacy,13,32,45
+WT 2018/19,Saarland,SF127,Philosophy,13,23,36
+WT 2018/19,Saarland,SF128,Physics,32,11,43
+WT 2018/19,Saarland,SF263,Police/Protection of the Constitution,50,46,96
+WT 2018/19,Saarland,SF132,Psychology,21,86,107
+WT 2018/19,Saarland,SF135,Law,121,261,382
+WT 2018/19,Saarland,SF253,Applied Social Science,25,102,127
+WT 2018/19,Saarland,SF148,Social Sciences,14,12,26
+WT 2018/19,Saarland,SF098,Sports Education/Sports Psychology,4,3,7
+WT 2018/19,Saarland,SF029,Sports Science,17,21,38
+WT 2018/19,Saarland,SF274,Tourism Management,6,60,66
+WT 2018/19,Saarland,SF179,Business Engineering specialising in Economics,87,21,108
+WT 2018/19,Saarland,SF181,Business and Economics Education,4,8,12
+WT 2018/19,Saarland,SF042,Business Law,9,6,15
+WT 2018/19,Saarland,SF184,Business and Economics,44,18,62
+WT 2018/19,Saarland,SF185,Dentistry,6,16,22
+WT 2018/19,Saxony,SF002,African Studies,24,28,52
+WT 2018/19,Saxony,SF003,Agricultural Science/Agriculture,21,13,34
+WT 2018/19,Saxony,SF001,Egyptology,4,5,9
+WT 2018/19,Saxony,SF152,General Linguistics/Indo-European Studies,35,108,143
+WT 2018/19,Saxony,SF006,American Studies,6,21,27
+WT 2018/19,Saxony,SF007,Applied Art,10,34,44
+WT 2018/19,Saxony,SF140,Applied Systems Science,21,2,23
+WT 2018/19,Saxony,SF008,English Studies,44,179,223
+WT 2018/19,Saxony,SF010,Arabic/Arabic Studies,5,13,18
+WT 2018/19,Saxony,SF012,Archaeology,6,7,13
+WT 2018/19,Saxony,SF390,Archaeometry (Archaeological Engineering),2,1,3
+WT 2018/19,Saxony,SF013,Architecture,92,121,213
+WT 2018/19,Saxony,SF117,Immigrant Education,3,2,5
+WT 2018/19,Saxony,SF017,Civil Engineering/Structural Engineering,470,150,620
+WT 2018/19,Saxony,SF020,Mining/Mine Engineering,46,15,61
+WT 2018/19,Saxony,SF018,Occupation-specific Foreign Language Training,5,35,40
+WT 2018/19,Saxony,SF021,Business Administration,288,315,603
+WT 2018/19,Saxony,SF023,Fine Arts/Graphics,18,29,47
+WT 2018/19,Saxony,SF025,Biochemistry,21,40,61
+WT 2018/19,Saxony,SF221,Bioinformatics,1,1,2
+WT 2018/19,Saxony,SF026,Biology,82,214,296
+WT 2018/19,Saxony,SF282,Biotechnology,47,70,117
+WT 2018/19,Saxony,SF032,Chemistry,182,138,320
+WT 2018/19,Saxony,SF033,Chemical Engineering/Chemical Process Technology,20,12,32
+WT 2018/19,Saxony,SF200,Computer and Communication Technology,58,6,64
+WT 2018/19,Saxony,SF035,Performing Arts/Stagecraft/Directing,19,27,46
+WT 2018/19,Saxony,SF271,German as a Foreign or Second Language,12,52,64
+WT 2018/19,Saxony,SF192,Conducting,7,2,9
+WT 2018/19,Saxony,SF231,Printing and Reproduction Technology,27,45,72
+WT 2018/19,Saxony,SF316,Electrical Power Engineering,36,11,47
+WT 2018/19,Saxony,SF048,Electrical Engineering/Electronics,489,101,590
+WT 2018/19,Saxony,SF211,Energy Process Engineering,15,2,17
+WT 2018/19,Saxony,SF052,Educational Science (Pedagogy),243,601,844
+WT 2018/19,Saxony,SF169,Ethics,3,5,8
+WT 2018/19,Saxony,SF173,Ethnology,8,29,37
+WT 2018/19,Saxony,SF024,European Ethnology and Cultural Studies,2,24,26
+WT 2018/19,Saxony,SF167,European Economic Studies,149,313,462
+WT 2018/19,Saxony,SF544,"Protestant Religious Pedagogy, Church Educat. Work",7,10,17
+WT 2018/19,Saxony,SF053,"Protestant Theology, Protes. Religious Education",17,30,47
+WT 2018/19,Saxony,SF464,Facility Management,21,17,38
+WT 2018/19,Saxony,SF235,Automotive Technology,137,8,145
+WT 2018/19,Saxony,SF202,Manufacturing Technology/Production Engineering,80,20,100
+WT 2018/19,Saxony,SF054,Film and Television Studies,25,8,33
+WT 2018/19,Saxony,SF266,Financial Administration,47,34,81
+WT 2018/19,Saxony,SF058,"Forest Science, Forestry",78,60,138
+WT 2018/19,Saxony,SF059,French,6,29,35
+WT 2018/19,Saxony,SF060,Horticulture,7,13,20
+WT 2018/19,Saxony,SF050,Geography,31,41,72
+WT 2018/19,Saxony,SF385,Geoecology,12,14,26
+WT 2018/19,Saxony,SF066,Geophysics,8,4,12
+WT 2018/19,Saxony,SF039,Geosciences general,63,37,100
+WT 2018/19,Saxony,SF067,German Studies/German,49,203,252
+WT 2018/19,Saxony,SF230,Singing,8,14,22
+WT 2018/19,Saxony,SF068,History,95,76,171
+WT 2018/19,Saxony,SF215,Health Technology,29,27,56
+WT 2018/19,Saxony,SF232,Health Science/Health Management,28,72,100
+WT 2018/19,Saxony,SF216,Glass Technology/Ceramics,2,2,4
+WT 2018/19,Saxony,SF069,Graphic Design/Communication Design,10,38,48
+WT 2018/19,Saxony,SF115,Primary School Education/Primary Level Education,28,311,339
+WT 2018/19,Saxony,SF203,Industrial Design/Product Design,8,15,23
+WT 2018/19,Saxony,SF079,Computer Science,725,230,955
+WT 2018/19,Saxony,SF022,Inf./Library Scien. (not at univ. of app.adm.sci.),3,33,36
+WT 2018/19,Saxony,SF123,Computational Engineer./Technical Computer Science,52,10,62
+WT 2018/19,Saxony,SF261,Internal Administration,25,70,95
+WT 2018/19,Saxony,SF080,Instrumental Music,8,20,28
+WT 2018/19,Saxony,SF072,Interdisc. Studies (specialising in Engineering),77,21,98
+WT 2018/19,Saxony,SF049,Interdisc. Studies (special. in Natural Sciences),56,66,122
+WT 2018/19,Saxony,SF030,"Interdisc. St. (spec. in Law, Econ. and Soc. Sci.)",43,103,146
+WT 2018/19,Saxony,SF004,Interdisc. Studies (spec. in Humanities),53,181,234
+WT 2018/19,Saxony,SF182,International Business Studies/Management,58,106,164
+WT 2018/19,Saxony,SF085,Japanese Studies,8,16,24
+WT 2018/19,Saxony,SF164,Jazz and Popular Music,11,5,16
+WT 2018/19,Saxony,SF193,Church Music,8,2,10
+WT 2018/19,Saxony,SF222,"Communication Technology, Information Engineering",69,9,78
+WT 2018/19,Saxony,SF303,Communication Science/Journalism,10,75,85
+WT 2018/19,Saxony,SF191,Composition,3,2,5
+WT 2018/19,Saxony,SF091,Arts Education,2,19,21
+WT 2018/19,Saxony,SF092,"Art History, Art Theory",10,57,67
+WT 2018/19,Saxony,SF093,Land Management Engineering/Landscape Design,23,72,95
+WT 2018/19,Saxony,SF095,Latin,3,7,10
+WT 2018/19,Saxony,SF096,Food Chemistry,14,30,44
+WT 2018/19,Saxony,SF090,Area of study: Humanities,1,5,6
+WT 2018/19,Saxony,SF154,Area of study: Social Studies,1,2,3
+WT 2018/19,Saxony,SF103,Mine Surveying,1,3,4
+WT 2018/19,Saxony,SF104,Mechanical Engineering,824,115,939
+WT 2018/19,Saxony,SF294,Materials Engineering,7,2,9
+WT 2018/19,Saxony,SF105,Mathematics,169,99,268
+WT 2018/19,Saxony,SF380,Mechatronics,112,16,128
+WT 2018/19,Saxony,SF121,Media Informatics,147,63,210
+WT 2018/19,Saxony,SF305,Media Technology,216,192,408
+WT 2018/19,Saxony,SF304,Media Economics/Media Management,3,28,31
+WT 2018/19,Saxony,SF302,Media Science,17,78,95
+WT 2018/19,Saxony,SF107,Medicine (General Medicine),208,408,616
+WT 2018/19,Saxony,SF247,Medical Informatics,1,2,3
+WT 2018/19,Saxony,SF110,Meteorology,27,20,47
+WT 2018/19,Saxony,SF286,Microsystems Technology,120,52,172
+WT 2018/19,Saxony,SF273,Medieval and Modern History,1,1,2
+WT 2018/19,Saxony,SF113,Music Education,18,40,58
+WT 2018/19,Saxony,SF114,Musicology/History of Music,5,14,19
+WT 2018/19,Saxony,SF287,New Media,11,11,22
+WT 2018/19,Saxony,SF233,Non-medical Healthcare Professions/Therapies,43,60,103
+WT 2018/19,Saxony,SF165,Orchestral Music,38,50,88
+WT 2018/19,Saxony,SF122,"Oriental Studies, Ancient Oriental Studies",2,3,5
+WT 2018/19,Saxony,SF044,Eastern and South Eastern Europe Studies,5,12,17
+WT 2018/19,Saxony,SF365,Early Childhood Education,6,26,32
+WT 2018/19,Saxony,SF234,Nursing Science/Nursing Management,10,38,48
+WT 2018/19,Saxony,SF126,Pharmacy,15,27,42
+WT 2018/19,Saxony,SF127,Philosophy,31,33,64
+WT 2018/19,Saxony,SF128,Physics,241,94,335
+WT 2018/19,Saxony,SF224,Engineering Physics/Mechanical Process Engineering,4,1,5
+WT 2018/19,Saxony,SF129,Political Science,63,64,127
+WT 2018/19,Saxony,SF263,Police/Protection of the Constitution,122,42,164
+WT 2018/19,Saxony,SF132,Psychology,56,258,314
+WT 2018/19,Saxony,SF256,Administration of Justice,5,16,21
+WT 2018/19,Saxony,SF135,Law,213,336,549
+WT 2018/19,Saxony,SF136,Religious Studies,2,4,6
+WT 2018/19,Saxony,SF137,"Romance Studies (Rom. Phil., indiv. lang. n.e.c.)",14,63,77
+WT 2018/19,Saxony,SF102,Drama Studies,6,5,11
+WT 2018/19,Saxony,SF145,Sinology/Korean Studies,6,17,23
+WT 2018/19,Saxony,SF146,Slavic Studies (Slavic Philology),5,11,16
+WT 2018/19,Saxony,SF190,Special Needs Education,18,140,158
+WT 2018/19,Saxony,SF290,Other subjects,61,64,125
+WT 2018/19,Saxony,SF207,Sorabistics,1,7,8
+WT 2018/19,Saxony,SF208,Social Work,11,30,41
+WT 2018/19,Saxony,SF245,Social Pedagogy,21,111,132
+WT 2018/19,Saxony,SF264,Social Security Administration,6,27,33
+WT 2018/19,Saxony,SF253,Applied Social Science,26,119,145
+WT 2018/19,Saxony,SF148,Social Sciences,36,35,71
+WT 2018/19,Saxony,SF149,Sociology,50,105,155
+WT 2018/19,Saxony,SF150,Spanish,3,9,12
+WT 2018/19,Saxony,SF098,Sports Education/Sports Psychology,98,75,173
+WT 2018/19,Saxony,SF029,Sports Science,22,21,43
+WT 2018/19,Saxony,SF106,Dance Education,3,16,19
+WT 2018/19,Saxony,SF116,Textile Design,2,10,12
+WT 2018/19,Saxony,SF225,Textile and Clothing Technology/Industry,2,2,4
+WT 2018/19,Saxony,SF155,Theatre Studies,5,24,29
+WT 2018/19,Saxony,SF156,Veterinary Medicine,29,103,132
+WT 2018/19,Saxony,SF274,Tourism Management,26,79,105
+WT 2018/19,Saxony,SF209,Czech,5,5,10
+WT 2018/19,Saxony,SF457,Environmental Technology (including Recycling),49,14,63
+WT 2018/19,Saxony,SF226,Process Engineering,88,37,125
+WT 2018/19,Saxony,SF089,Transport Engineering,104,13,117
+WT 2018/19,Saxony,SF210,Transport Economics,34,20,54
+WT 2018/19,Saxony,SF171,Surveying (Geodesy),25,13,38
+WT 2018/19,Saxony,SF175,Economics,6,4,10
+WT 2018/19,Saxony,SF077,Water Management,63,58,121
+WT 2018/19,Saxony,SF177,Materials Technology,65,11,76
+WT 2018/19,Saxony,SF130,Western Slavic (general and n.e.c.),3,7,10
+WT 2018/19,Saxony,SF277,Business Informatics,96,25,121
+WT 2018/19,Saxony,SF370,Business Engineering spec. in Engineering Sciences,224,70,294
+WT 2018/19,Saxony,SF179,Business Engineering specialising in Economics,260,50,310
+WT 2018/19,Saxony,SF276,Business Mathematics,27,18,45
+WT 2018/19,Saxony,SF181,Business and Economics Education,17,37,54
+WT 2018/19,Saxony,SF042,Business Law,4,7,11
+WT 2018/19,Saxony,SF184,Business and Economics,245,375,620
+WT 2018/19,Saxony,SF185,Dentistry,30,62,92
+WT 2018/19,Saxony-Anhalt,SF141,Waste Management,17,7,24
+WT 2018/19,Saxony-Anhalt,SF003,Agricultural Science/Agriculture,128,99,227
+WT 2018/19,Saxony-Anhalt,SF152,General Linguistics/Indo-European Studies,2,12,14
+WT 2018/19,Saxony-Anhalt,SF006,American Studies,7,21,28
+WT 2018/19,Saxony-Anhalt,SF284,Applied Linguistics,4,17,21
+WT 2018/19,Saxony-Anhalt,SF010,Arabic/Arabic Studies,6,7,13
+WT 2018/19,Saxony-Anhalt,SF011,Work Studies/Business Studies,19,16,35
+WT 2018/19,Saxony-Anhalt,SF012,Archaeology,7,7,14
+WT 2018/19,Saxony-Anhalt,SF013,Architecture,99,99,198
+WT 2018/19,Saxony-Anhalt,SF017,Civil Engineering/Structural Engineering,93,21,114
+WT 2018/19,Saxony-Anhalt,SF018,Occupation-specific Foreign Language Training,24,44,68
+WT 2018/19,Saxony-Anhalt,SF270,"Vocational, Business and Economics Education",6,3,9
+WT 2018/19,Saxony-Anhalt,SF021,Business Administration,395,346,741
+WT 2018/19,Saxony-Anhalt,SF205,Sculpting/Statuary Art,2,9,11
+WT 2018/19,Saxony-Anhalt,SF025,Biochemistry,24,33,57
+WT 2018/19,Saxony-Anhalt,SF221,Bioinformatics,16,13,29
+WT 2018/19,Saxony-Anhalt,SF026,Biology,37,60,97
+WT 2018/19,Saxony-Anhalt,SF282,Biotechnology,21,19,40
+WT 2018/19,Saxony-Anhalt,SF032,Chemistry,19,9,28
+WT 2018/19,Saxony-Anhalt,SF033,Chemical Engineering/Chemical Process Technology,42,28,70
+WT 2018/19,Saxony-Anhalt,SF231,Printing and Reproduction Technology,31,6,37
+WT 2018/19,Saxony-Anhalt,SF048,Electrical Engineering/Electronics,213,60,273
+WT 2018/19,Saxony-Anhalt,SF320,Nutritional Science,8,46,54
+WT 2018/19,Saxony-Anhalt,SF052,Educational Science (Pedagogy),261,663,924
+WT 2018/19,Saxony-Anhalt,SF173,Ethnology,2,16,18
+WT 2018/19,Saxony-Anhalt,SF053,"Protestant Theology, Protes. Religious Education",15,13,28
+WT 2018/19,Saxony-Anhalt,SF464,Facility Management,3,8,11
+WT 2018/19,Saxony-Anhalt,SF050,Geography,39,28,67
+WT 2018/19,Saxony-Anhalt,SF039,Geosciences general,10,4,14
+WT 2018/19,Saxony-Anhalt,SF067,German Studies/German,10,61,71
+WT 2018/19,Saxony-Anhalt,SF068,History,21,7,28
+WT 2018/19,Saxony-Anhalt,SF215,Health Technology,12,10,22
+WT 2018/19,Saxony-Anhalt,SF232,Health Science/Health Management,13,43,56
+WT 2018/19,Saxony-Anhalt,SF069,Graphic Design/Communication Design,30,31,61
+WT 2018/19,Saxony-Anhalt,SF071,Domestic and Nutritional Sciences,10,60,70
+WT 2018/19,Saxony-Anhalt,SF203,Industrial Design/Product Design,22,33,55
+WT 2018/19,Saxony-Anhalt,SF079,Computer Science,263,45,308
+WT 2018/19,Saxony-Anhalt,SF123,Computational Engineer./Technical Computer Science,63,16,79
+WT 2018/19,Saxony-Anhalt,SF242,Interior Architecture,1,10,11
+WT 2018/19,Saxony-Anhalt,SF261,Internal Administration,23,29,52
+WT 2018/19,Saxony-Anhalt,SF072,Interdisc. Studies (specialising in Engineering),190,71,261
+WT 2018/19,Saxony-Anhalt,SF049,Interdisc. Studies (special. in Natural Sciences),26,17,43
+WT 2018/19,Saxony-Anhalt,SF030,"Interdisc. St. (spec. in Law, Econ. and Soc. Sci.)",17,46,63
+WT 2018/19,Saxony-Anhalt,SF004,Interdisc. Studies (spec. in Humanities),37,71,108
+WT 2018/19,Saxony-Anhalt,SF182,International Business Studies/Management,104,146,250
+WT 2018/19,Saxony-Anhalt,SF084,Italian,2,4,6
+WT 2018/19,Saxony-Anhalt,SF085,Japanese Studies,1,1,2
+WT 2018/19,Saxony-Anhalt,SF193,Church Music,15,2,17
+WT 2018/19,Saxony-Anhalt,SF303,Communication Science/Journalism,29,53,82
+WT 2018/19,Saxony-Anhalt,SF091,Arts Education,4,29,33
+WT 2018/19,Saxony-Anhalt,SF092,"Art History, Art Theory",7,25,32
+WT 2018/19,Saxony-Anhalt,SF093,Land Management Engineering/Landscape Design,24,28,52
+WT 2018/19,Saxony-Anhalt,SF096,Food Chemistry,10,11,21
+WT 2018/19,Saxony-Anhalt,SF097,Food Technology,5,6,11
+WT 2018/19,Saxony-Anhalt,SF204,Painting,8,8,16
+WT 2018/19,Saxony-Anhalt,SF104,Mechanical Engineering,166,18,184
+WT 2018/19,Saxony-Anhalt,SF237,Math.Statistics/Prob.Calc. (class.w. SF312 s.2020),13,11,24
+WT 2018/19,Saxony-Anhalt,SF105,Mathematics,44,34,78
+WT 2018/19,Saxony-Anhalt,SF380,Mechatronics,106,14,120
+WT 2018/19,Saxony-Anhalt,SF121,Media Informatics,48,27,75
+WT 2018/19,Saxony-Anhalt,SF302,Media Science,16,49,65
+WT 2018/19,Saxony-Anhalt,SF107,Medicine (General Medicine),125,264,389
+WT 2018/19,Saxony-Anhalt,SF113,Music Education,1,6,7
+WT 2018/19,Saxony-Anhalt,SF114,Musicology/History of Music,10,11,21
+WT 2018/19,Saxony-Anhalt,SF064,Nature Conservation,14,9,23
+WT 2018/19,Saxony-Anhalt,SF122,"Oriental Studies, Ancient Oriental Studies",2,5,7
+WT 2018/19,Saxony-Anhalt,SF365,Early Childhood Education,11,55,66
+WT 2018/19,Saxony-Anhalt,SF234,Nursing Science/Nursing Management,4,12,16
+WT 2018/19,Saxony-Anhalt,SF126,Pharmacy,50,107,157
+WT 2018/19,Saxony-Anhalt,SF127,Philosophy,23,34,57
+WT 2018/19,Saxony-Anhalt,SF128,Physics,63,29,92
+WT 2018/19,Saxony-Anhalt,SF129,Political Science,61,46,107
+WT 2018/19,Saxony-Anhalt,SF263,Police/Protection of the Constitution,107,62,169
+WT 2018/19,Saxony-Anhalt,SF132,Psychology,29,136,165
+WT 2018/19,Saxony-Anhalt,SF135,Law,191,237,428
+WT 2018/19,Saxony-Anhalt,SF137,"Romance Studies (Rom. Phil., indiv. lang. n.e.c.)",3,8,11
+WT 2018/19,Saxony-Anhalt,SF146,Slavic Studies (Slavic Philology),3,4,7
+WT 2018/19,Saxony-Anhalt,SF208,Social Work,30,127,157
+WT 2018/19,Saxony-Anhalt,SF148,Social Sciences,49,70,119
+WT 2018/19,Saxony-Anhalt,SF149,Sociology,30,97,127
+WT 2018/19,Saxony-Anhalt,SF098,Sports Education/Sports Psychology,11,9,20
+WT 2018/19,Saxony-Anhalt,SF029,Sports Science,52,19,71
+WT 2018/19,Saxony-Anhalt,SF116,Textile Design,1,11,12
+WT 2018/19,Saxony-Anhalt,SF274,Tourism Management,13,94,107
+WT 2018/19,Saxony-Anhalt,SF226,Process Engineering,40,16,56
+WT 2018/19,Saxony-Anhalt,SF171,Surveying (Geodesy),20,8,28
+WT 2018/19,Saxony-Anhalt,SF172,Administrative Science/Public Administration,28,34,62
+WT 2018/19,Saxony-Anhalt,SF175,Economics,13,14,27
+WT 2018/19,Saxony-Anhalt,SF077,Water Management,36,10,46
+WT 2018/19,Saxony-Anhalt,SF177,Materials Technology,16,4,20
+WT 2018/19,Saxony-Anhalt,SF277,Business Informatics,89,14,103
+WT 2018/19,Saxony-Anhalt,SF370,Business Engineering spec. in Engineering Sciences,134,42,176
+WT 2018/19,Saxony-Anhalt,SF179,Business Engineering specialising in Economics,30,3,33
+WT 2018/19,Saxony-Anhalt,SF276,Business Mathematics,6,4,10
+WT 2018/19,Saxony-Anhalt,SF181,Business and Economics Education,37,25,62
+WT 2018/19,Saxony-Anhalt,SF042,Business Law,9,19,28
+WT 2018/19,Saxony-Anhalt,SF184,Business and Economics,138,162,300
+WT 2018/19,Saxony-Anhalt,SF185,Dentistry,11,25,36
+WT 2018/19,Schleswig-Holstein,SF138,Agricultural Biology,13,9,22
+WT 2018/19,Schleswig-Holstein,SF003,Agricultural Science/Agriculture,150,125,275
+WT 2018/19,Schleswig-Holstein,SF152,General Linguistics/Indo-European Studies,7,22,29
+WT 2018/19,Schleswig-Holstein,SF008,English Studies,65,160,225
+WT 2018/19,Schleswig-Holstein,SF012,Archaeology,1,4,5
+WT 2018/19,Schleswig-Holstein,SF013,Architecture,11,23,34
+WT 2018/19,Schleswig-Holstein,SF017,Civil Engineering/Structural Engineering,65,35,100
+WT 2018/19,Schleswig-Holstein,SF018,Occupation-specific Foreign Language Training,12,24,36
+WT 2018/19,Schleswig-Holstein,SF021,Business Administration,555,523,1078
+WT 2018/19,Schleswig-Holstein,SF023,Fine Arts/Graphics,3,7,10
+WT 2018/19,Schleswig-Holstein,SF025,Biochemistry,8,19,27
+WT 2018/19,Schleswig-Holstein,SF026,Biology,65,135,200
+WT 2018/19,Schleswig-Holstein,SF282,Biotechnology,16,58,74
+WT 2018/19,Schleswig-Holstein,SF032,Chemistry,64,40,104
+WT 2018/19,Schleswig-Holstein,SF033,Chemical Engineering/Chemical Process Technology,13,11,24
+WT 2018/19,Schleswig-Holstein,SF200,Computer and Communication Technology,66,11,77
+WT 2018/19,Schleswig-Holstein,SF034,Danish,2,12,14
+WT 2018/19,Schleswig-Holstein,SF048,Electrical Engineering/Electronics,136,21,157
+WT 2018/19,Schleswig-Holstein,SF320,Nutritional Science,3,49,52
+WT 2018/19,Schleswig-Holstein,SF052,Educational Science (Pedagogy),32,177,209
+WT 2018/19,Schleswig-Holstein,SF024,European Ethnology and Cultural Studies,35,42,77
+WT 2018/19,Schleswig-Holstein,SF053,"Protestant Theology, Protes. Religious Education",10,21,31
+WT 2018/19,Schleswig-Holstein,SF212,Precision Engineering,35,5,40
+WT 2018/19,Schleswig-Holstein,SF202,Manufacturing Technology/Production Engineering,46,11,57
+WT 2018/19,Schleswig-Holstein,SF266,Financial Administration,34,52,86
+WT 2018/19,Schleswig-Holstein,SF059,French,4,18,22
+WT 2018/19,Schleswig-Holstein,SF050,Geography,77,94,171
+WT 2018/19,Schleswig-Holstein,SF039,Geosciences general,69,81,150
+WT 2018/19,Schleswig-Holstein,SF067,German Studies/German,92,438,530
+WT 2018/19,Schleswig-Holstein,SF230,Singing,2,2,4
+WT 2018/19,Schleswig-Holstein,SF068,History,102,69,171
+WT 2018/19,Schleswig-Holstein,SF215,Health Technology,78,64,142
+WT 2018/19,Schleswig-Holstein,SF069,Graphic Design/Communication Design,4,20,24
+WT 2018/19,Schleswig-Holstein,SF071,Domestic and Nutritional Sciences,26,123,149
+WT 2018/19,Schleswig-Holstein,SF333,Domestic Science,11,38,49
+WT 2018/19,Schleswig-Holstein,SF203,Industrial Design/Product Design,6,10,16
+WT 2018/19,Schleswig-Holstein,SF079,Computer Science,357,64,421
+WT 2018/19,Schleswig-Holstein,SF123,Computational Engineer./Technical Computer Science,24,1,25
+WT 2018/19,Schleswig-Holstein,SF242,Interior Architecture,2,12,14
+WT 2018/19,Schleswig-Holstein,SF080,Instrumental Music,5,2,7
+WT 2018/19,Schleswig-Holstein,SF072,Interdisc. Studies (specialising in Engineering),74,14,88
+WT 2018/19,Schleswig-Holstein,SF049,Interdisc. Studies (special. in Natural Sciences),32,14,46
+WT 2018/19,Schleswig-Holstein,SF030,"Interdisc. St. (spec. in Law, Econ. and Soc. Sci.)",14,23,37
+WT 2018/19,Schleswig-Holstein,SF182,International Business Studies/Management,22,131,153
+WT 2018/19,Schleswig-Holstein,SF083,Islamic Studies,6,6,12
+WT 2018/19,Schleswig-Holstein,SF084,Italian,3,4,7
+WT 2018/19,Schleswig-Holstein,SF222,"Communication Technology, Information Engineering",4,1,5
+WT 2018/19,Schleswig-Holstein,SF303,Communication Science/Journalism,10,55,65
+WT 2018/19,Schleswig-Holstein,SF091,Arts Education,2,4,6
+WT 2018/19,Schleswig-Holstein,SF092,"Art History, Art Theory",4,42,46
+WT 2018/19,Schleswig-Holstein,SF095,Latin,4,7,11
+WT 2018/19,Schleswig-Holstein,SF154,Area of study: Social Studies,5,10,15
+WT 2018/19,Schleswig-Holstein,SF186,Area of study: Natural Sciences/General Studies,2,15,17
+WT 2018/19,Schleswig-Holstein,SF104,Mechanical Engineering,278,28,306
+WT 2018/19,Schleswig-Holstein,SF294,Materials Engineering,72,35,107
+WT 2018/19,Schleswig-Holstein,SF105,Mathematics,131,192,323
+WT 2018/19,Schleswig-Holstein,SF121,Media Informatics,151,66,217
+WT 2018/19,Schleswig-Holstein,SF305,Media Technology,34,33,67
+WT 2018/19,Schleswig-Holstein,SF107,Medicine (General Medicine),123,268,391
+WT 2018/19,Schleswig-Holstein,SF247,Medical Informatics,14,10,24
+WT 2018/19,Schleswig-Holstein,SF286,Microsystems Technology,76,9,85
+WT 2018/19,Schleswig-Holstein,SF113,Music Education,6,10,16
+WT 2018/19,Schleswig-Holstein,SF114,Musicology/History of Music,11,14,25
+WT 2018/19,Schleswig-Holstein,SF223,Nautical Science/Maritime Studies,6,1,7
+WT 2018/19,Schleswig-Holstein,SF233,Non-medical Healthcare Professions/Therapies,13,70,83
+WT 2018/19,Schleswig-Holstein,SF120,"Nordic/Scand. St. (Nord. Phil., ind. lang. n.e.c.)",4,13,17
+WT 2018/19,Schleswig-Holstein,SF165,Orchestral Music,9,18,27
+WT 2018/19,Schleswig-Holstein,SF365,Early Childhood Education,4,4,8
+WT 2018/19,Schleswig-Holstein,SF234,Nursing Science/Nursing Management,1,26,27
+WT 2018/19,Schleswig-Holstein,SF126,Pharmacy,12,43,55
+WT 2018/19,Schleswig-Holstein,SF127,Philosophy,47,49,96
+WT 2018/19,Schleswig-Holstein,SF128,Physics,90,48,138
+WT 2018/19,Schleswig-Holstein,SF224,Engineering Physics/Mechanical Process Engineering,10,2,12
+WT 2018/19,Schleswig-Holstein,SF129,Political Science,69,54,123
+WT 2018/19,Schleswig-Holstein,SF263,Police/Protection of the Constitution,105,61,166
+WT 2018/19,Schleswig-Holstein,SF132,Psychology,38,149,187
+WT 2018/19,Schleswig-Holstein,SF135,Law,188,216,404
+WT 2018/19,Schleswig-Holstein,SF142,Naval Architecture/Ship Technology,55,6,61
+WT 2018/19,Schleswig-Holstein,SF290,Other subjects,17,12,29
+WT 2018/19,Schleswig-Holstein,SF264,Social Security Administration,14,39,53
+WT 2018/19,Schleswig-Holstein,SF253,Applied Social Science,18,69,87
+WT 2018/19,Schleswig-Holstein,SF149,Sociology,16,56,72
+WT 2018/19,Schleswig-Holstein,SF150,Spanish,5,14,19
+WT 2018/19,Schleswig-Holstein,SF098,Sports Education/Sports Psychology,12,15,27
+WT 2018/19,Schleswig-Holstein,SF029,Sports Science,45,20,65
+WT 2018/19,Schleswig-Holstein,SF457,Environmental Technology (including Recycling),69,36,105
+WT 2018/19,Schleswig-Holstein,SF548,Prehistory and Early History,13,14,27
+WT 2018/19,Schleswig-Holstein,SF226,Process Engineering,13,29,42
+WT 2018/19,Schleswig-Holstein,SF172,Administrative Science/Public Administration,38,73,111
+WT 2018/19,Schleswig-Holstein,SF174,Folklore,3,25,28
+WT 2018/19,Schleswig-Holstein,SF175,Economics,67,42,109
+WT 2018/19,Schleswig-Holstein,SF176,Handicrafts Education,5,1,6
+WT 2018/19,Schleswig-Holstein,SF277,Business Informatics,333,98,431
+WT 2018/19,Schleswig-Holstein,SF370,Business Engineering spec. in Engineering Sciences,63,11,74
+WT 2018/19,Schleswig-Holstein,SF179,Business Engineering specialising in Economics,247,58,305
+WT 2018/19,Schleswig-Holstein,SF181,Business and Economics Education,17,11,28
+WT 2018/19,Schleswig-Holstein,SF042,Business Law,29,24,53
+WT 2018/19,Schleswig-Holstein,SF184,Business and Economics,102,135,237
+WT 2018/19,Schleswig-Holstein,SF185,Dentistry,22,32,54
+WT 2018/19,Thüringen,SF152,General Linguistics/Indo-European Studies,2,4,6
+WT 2018/19,Thüringen,SF188,General Literary Studies,5,28,33
+WT 2018/19,Thüringen,SF140,Applied Systems Science,31,13,44
+WT 2018/19,Thüringen,SF008,English Studies,86,151,237
+WT 2018/19,Thüringen,SF011,Work Studies/Business Studies,4,2,6
+WT 2018/19,Thüringen,SF013,Architecture,142,180,322
+WT 2018/19,Thüringen,SF143,Ophthalmic Optics,14,48,62
+WT 2018/19,Thüringen,SF017,Civil Engineering/Structural Engineering,204,79,283
+WT 2018/19,Thüringen,SF021,Business Administration,203,189,392
+WT 2018/19,Thüringen,SF023,Fine Arts/Graphics,10,17,27
+WT 2018/19,Thüringen,SF025,Biochemistry,18,40,58
+WT 2018/19,Thüringen,SF221,Bioinformatics,13,2,15
+WT 2018/19,Thüringen,SF026,Biology,56,98,154
+WT 2018/19,Thüringen,SF300,Biomedicine,2,3,5
+WT 2018/19,Thüringen,SF282,Biotechnology,35,40,75
+WT 2018/19,Thüringen,SF032,Chemistry,62,37,99
+WT 2018/19,Thüringen,SF200,Computer and Communication Technology,16,5,21
+WT 2018/19,Thüringen,SF271,German as a Foreign or Second Language,36,135,171
+WT 2018/19,Thüringen,SF048,Electrical Engineering/Electronics,147,34,181
+WT 2018/19,Thüringen,SF211,Energy Process Engineering,7,4,11
+WT 2018/19,Thüringen,SF320,Nutritional Science,11,60,71
+WT 2018/19,Thüringen,SF052,Educational Science (Pedagogy),22,142,164
+WT 2018/19,Thüringen,SF053,"Protestant Theology, Protes. Religious Education",3,5,8
+WT 2018/19,Thüringen,SF235,Automotive Technology,53,5,58
+WT 2018/19,Thüringen,SF202,Manufacturing Technology/Production Engineering,32,3,35
+WT 2018/19,Thüringen,SF266,Financial Administration,19,26,45
+WT 2018/19,Thüringen,SF058,"Forest Science, Forestry",46,15,61
+WT 2018/19,Thüringen,SF059,French,2,9,11
+WT 2018/19,Thüringen,SF060,Horticulture,11,9,20
+WT 2018/19,Thüringen,SF050,Geography,38,23,61
+WT 2018/19,Thüringen,SF039,Geosciences general,24,26,50
+WT 2018/19,Thüringen,SF067,German Studies/German,45,160,205
+WT 2018/19,Thüringen,SF230,Singing,4,4,8
+WT 2018/19,Thüringen,SF068,History,42,29,71
+WT 2018/19,Thüringen,SF215,Health Technology,54,24,78
+WT 2018/19,Thüringen,SF232,Health Science/Health Management,1,5,6
+WT 2018/19,Thüringen,SF069,Graphic Design/Communication Design,29,43,72
+WT 2018/19,Thüringen,SF115,Primary School Education/Primary Level Education,41,290,331
+WT 2018/19,Thüringen,SF203,Industrial Design/Product Design,9,16,25
+WT 2018/19,Thüringen,SF079,Computer Science,231,63,294
+WT 2018/19,Thüringen,SF123,Computational Engineer./Technical Computer Science,50,5,55
+WT 2018/19,Thüringen,SF261,Internal Administration,15,19,34
+WT 2018/19,Thüringen,SF080,Instrumental Music,12,9,21
+WT 2018/19,Thüringen,SF072,Interdisc. Studies (specialising in Engineering),114,59,173
+WT 2018/19,Thüringen,SF030,"Interdisc. St. (spec. in Law, Econ. and Soc. Sci.)",1,6,7
+WT 2018/19,Thüringen,SF004,Interdisc. Studies (spec. in Humanities),3,2,5
+WT 2018/19,Thüringen,SF182,International Business Studies/Management,12,17,29
+WT 2018/19,Thüringen,SF164,Jazz and Popular Music,1,3,4
+WT 2018/19,Thüringen,SF086,"Catholic Theology, Catholic Religious Education",2,7,9
+WT 2018/19,Thüringen,SF222,"Communication Technology, Information Engineering",31,5,36
+WT 2018/19,Thüringen,SF303,Communication Science/Journalism,11,41,52
+WT 2018/19,Thüringen,SF191,Composition,4,1,5
+WT 2018/19,Thüringen,SF091,Arts Education,2,13,15
+WT 2018/19,Thüringen,SF092,"Art History, Art Theory",14,18,32
+WT 2018/19,Thüringen,SF219,Plastics Technology,6,3,9
+WT 2018/19,Thüringen,SF093,Land Management Engineering/Landscape Design,15,25,40
+WT 2018/19,Thüringen,SF104,Mechanical Engineering,270,46,316
+WT 2018/19,Thüringen,SF105,Mathematics,48,35,83
+WT 2018/19,Thüringen,SF380,Mechatronics,54,5,59
+WT 2018/19,Thüringen,SF121,Media Informatics,23,13,36
+WT 2018/19,Thüringen,SF305,Media Technology,20,4,24
+WT 2018/19,Thüringen,SF304,Media Economics/Media Management,13,27,40
+WT 2018/19,Thüringen,SF302,Media Science,58,153,211
+WT 2018/19,Thüringen,SF107,Medicine (General Medicine),62,180,242
+WT 2018/19,Thüringen,SF286,Microsystems Technology,7,1,8
+WT 2018/19,Thüringen,SF113,Music Education,5,12,17
+WT 2018/19,Thüringen,SF114,Musicology/History of Music,8,14,22
+WT 2018/19,Thüringen,SF233,Non-medical Healthcare Professions/Therapies,27,69,96
+WT 2018/19,Thüringen,SF088,Optoelectronics,9,2,11
+WT 2018/19,Thüringen,SF165,Orchestral Music,27,18,45
+WT 2018/19,Thüringen,SF234,Nursing Science/Nursing Management,11,36,47
+WT 2018/19,Thüringen,SF126,Pharmacy,16,56,72
+WT 2018/19,Thüringen,SF127,Philosophy,35,26,61
+WT 2018/19,Thüringen,SF128,Physics,126,46,172
+WT 2018/19,Thüringen,SF224,Engineering Physics/Mechanical Process Engineering,71,15,86
+WT 2018/19,Thüringen,SF129,Political Science,89,155,244
+WT 2018/19,Thüringen,SF263,Police/Protection of the Constitution,52,17,69
+WT 2018/19,Thüringen,SF132,Psychology,44,173,217
+WT 2018/19,Thüringen,SF134,Spatial Planning,3,13,16
+WT 2018/19,Thüringen,SF135,Law,102,148,250
+WT 2018/19,Thüringen,SF136,Religious Studies,7,6,13
+WT 2018/19,Thüringen,SF101,Restoration Studies,2,1,3
+WT 2018/19,Thüringen,SF137,"Romance Studies (Rom. Phil., indiv. lang. n.e.c.)",1,5,6
+WT 2018/19,Thüringen,SF139,Russian,1,2,3
+WT 2018/19,Thüringen,SF190,Special Needs Education,18,116,134
+WT 2018/19,Thüringen,SF290,Other subjects,2,1,3
+WT 2018/19,Thüringen,SF208,Social Work,75,327,402
+WT 2018/19,Thüringen,SF147,Social Studies,8,6,14
+WT 2018/19,Thüringen,SF245,Social Pedagogy,3,34,37
+WT 2018/19,Thüringen,SF253,Applied Social Science,17,36,53
+WT 2018/19,Thüringen,SF148,Social Sciences,39,38,77
+WT 2018/19,Thüringen,SF149,Sociology,36,73,109
+WT 2018/19,Thüringen,SF150,Spanish,4,8,12
+WT 2018/19,Thüringen,SF166,Sports Management/Sports Economics,1,1,2
+WT 2018/19,Thüringen,SF098,Sports Education/Sports Psychology,63,20,83
+WT 2018/19,Thüringen,SF029,Sports Science,31,17,48
+WT 2018/19,Thüringen,SF144,Technical Cybernetics,5,3,8
+WT 2018/19,Thüringen,SF274,Tourism Management,2,2,4
+WT 2018/19,Thüringen,SF457,Environmental Technology (including Recycling),42,32,74
+WT 2018/19,Thüringen,SF548,Prehistory and Early History,1,1,2
+WT 2018/19,Thüringen,SF213,Supply Technology,20,2,22
+WT 2018/19,Thüringen,SF172,Administrative Science/Public Administration,16,34,50
+WT 2018/19,Thüringen,SF174,Folklore,3,3,6
+WT 2018/19,Thüringen,SF201,Handicrafts (technical)/Technology,9,3,12
+WT 2018/19,Thüringen,SF177,Materials Technology,18,17,35
+WT 2018/19,Thüringen,SF277,Business Informatics,58,18,76
+WT 2018/19,Thüringen,SF370,Business Engineering spec. in Engineering Sciences,144,39,183
+WT 2018/19,Thüringen,SF179,Business Engineering specialising in Economics,10,4,14
+WT 2018/19,Thüringen,SF276,Business Mathematics,2,5,7
+WT 2018/19,Thüringen,SF042,Business Law,31,34,65
+WT 2018/19,Thüringen,SF184,Business and Economics,204,210,414
+WT 2018/19,Thüringen,SF185,Dentistry,19,33,52
